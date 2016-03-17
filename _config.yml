@@ -3,7 +3,7 @@ copyright: "Copyright (c) Nog Nooit Meegemaakt 2016"
 version: "1.0.0"
 title: "Nog Nooit Meegemaakt"
 logo: "/assets/img/logo.png"
-domain: "https://nognooitmeegemaakt.nl"
+domain: "https://nognooitmeegemaakt.github.io/website"
 collections:
   groups:
     output: true
