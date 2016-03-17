@@ -2,8 +2,8 @@ author: "Sander Laarhoven"
 copyright: "Copyright (c) Nog Nooit Meegemaakt 2016"
 version: "1.0.0"
 title: "Nog Nooit Meegemaakt"
-logo: "/assets/img/logo.png"
 domain: "https://nognooitmeegemaakt.github.io/website"
+logo: "https://nognooitmeegemaakt.github.io/website/assets/img/logo.png"
 collections:
   groups:
     output: true
