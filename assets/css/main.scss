@@ -1,0 +1,27 @@
+---
+# Main SCSS file.
+---
+// Set charset.
+@charset "utf-8";
+
+// Set site style variables.
+$font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+$font-size:   16px;
+$small-font-size:  $font-size * 0.875;
+
+$spacing-unit:     30px;
+$spacing-unit-sm:  10px;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$text-color:       #fff;
+$background-color: #333;
+$brand-color:      #ff8b00;
+$brand-border:     6px;
+$brand-dark:       #222;
+$brand-light:      lighten($brand-dark, 90%);
+
+// Import files from sass directory.
+@import "theme", "bootstrap-modifications";

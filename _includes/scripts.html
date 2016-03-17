@@ -1,0 +1,4 @@
+<script src="/assets/js/jquery.min.js"></script>
+      <script src="/assets/js/bootstrap.min.js"></script>
+      <script src="/assets/js/backgrounds.js"></script>
+      {% for static_file in site.static_files %}{% capture page_js_path %}{{ "/assets/js/" }}{{ page.id }}{{ ".js" }}{% endcapture %}{% if static_file.path == page_js_path %}<script src="/assets/js/{{ page.id }}.js"></script>{% endif %}{% endfor %}
