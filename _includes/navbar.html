@@ -13,22 +13,22 @@
 
             <div class="collapse navbar-collapse" id="navbar-main">
               <ul class="nav navbar-nav">
-                <li{% if c == "index" %} class="active"{% endif %}><a href="/">Home</a></li>
+                <li{% if c == "index" %} class="active"{% endif %}><a href="{{ site.domain }}/">Home</a></li>
                 <li class="dropdown{% if c == 'group' %} active{% endif %}">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     Groepen
                   </a>
                   <ul class="dropdown-menu">
                     <li>Kies een speltak</li>
-                    <li{% if g == "welpen" %} class="active"{% endif %}><a href="/groep/welpen">Welpen</a></li>
-                    <li{% if g == "gidsen" %} class="active"{% endif %}><a href="/groep/gidsen">Gidsen</a></li>
-                    <li{% if g == "scouts" %} class="active"{% endif %}><a href="/groep/scouts">Scouts</a></li>
-                    <li{% if g == "stam" %} class="active"{% endif %}><a href="/groep/stam">Stam</a></li>
+                    <li{% if g == "welpen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/welpen">Welpen</a></li>
+                    <li{% if g == "gidsen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/gidsen">Gidsen</a></li>
+                    <li{% if g == "scouts" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/scouts">Scouts</a></li>
+                    <li{% if g == "stam" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/stam">Stam</a></li>
                   </ul>
                 </li>
-                <li{% if c == "news" %} class="active"{% endif %}><a href="/nieuws">Nieuws</a></li>
-                <li{% if c == "agenda" %} class="active"{% endif %}><a href="/programma">Programma</a></li>
-                <li{% if c == "contact" %} class="active"{% endif %}><a href="/contact">Contact</a></li>
+                <li{% if c == "news" %} class="active"{% endif %}><a href="{{ site.domain }}/nieuws">Nieuws</a></li>
+                <li{% if c == "agenda" %} class="active"{% endif %}><a href="{{ site.domain }}/programma">Programma</a></li>
+                <li{% if c == "contact" %} class="active"{% endif %}><a href="{{ site.domain }}/contact">Contact</a></li>
               </ul>
             </div>
           </div>
