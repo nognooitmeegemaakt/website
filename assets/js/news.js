@@ -30,3 +30,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
   </div>\
   ');
 });
+
+$(".news").on("click", ".news-item", function() {
+  window.open("https://facebook.com/"+$(this).find(".data").attr("data-id"), "_blank");
+});
