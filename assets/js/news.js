@@ -6,7 +6,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
     var month = months[ date.getMonth() ];
     var day = date.getDate();
     $(".news > .row").append('\
-    <div class="news-item col-xs-10 col-sm-5 col-md-6 col-lg-4"\
+    <div class="news-item col-xs-10 col-sm-5 col-md-5 col-lg-4"\
     data-id="'+news_item.id+'" data-source="'+news_item.source+'"\
     data-type="'+news_item.type+'" data-link="'+news_item.link+'">\
       <div class="well">\
@@ -17,7 +17,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
     </div>');
   });
   $(".news > .row").append('\
-  <div class="news-item see-more col-xs-10 col-sm-5 col-md-6 col-lg-4">\
+  <div class="news-item see-more col-xs-10 col-sm-5 col-md-5 col-lg-4">\
     <div class="well">\
       <div class="content">\
         <h5>Bekijk meer op onze Facebook pagina.</h5>\
