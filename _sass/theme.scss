@@ -162,6 +162,10 @@ section#background {
   margin: 0 10px 0 0;
 }
 
+.news .content {
+  height: 150px;
+}
+
 @media (max-width: 768px) {
   .news {
     margin: $spacing-unit-sm;
