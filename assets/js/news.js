@@ -31,7 +31,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
   ');
 });
 
-$(".news-item").on("click", function() {
+$(".news").click(".news-item", function() {
   if ($(this).hasClass("see-more")) return;
   $(".news-modal").text("");
   var type = $(this).find(".data").attr("data-type");
