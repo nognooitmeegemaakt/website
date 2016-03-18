@@ -1,4 +1,4 @@
 <script src="{{ site.domain }}/assets/js/jquery.min.js"></script>
       <script src="{{ site.domain }}/assets/js/bootstrap.min.js"></script>
       <script src="{{ site.domain }}/assets/js/backgrounds.js"></script>
-      {% for static_file in site.static_files %}{% capture page_js_path %}{{ "/website/assets/js/" }}{{ page.id }}{{ ".js" }}{% endcapture %}{% if static_file.path == page_js_path %}<script src="{{ site.domain }}/assets/js/{{ page.id }}.js"></script>{% endif %}{% endfor %}
+      {% for static_file in site.static_files %}{% capture page_js_path %}{{ "/website/assets/js/" }}{{ page.id }}{{ ".js" }}{% endcapture %}<!--//{{ static_file.path }} vs {{ page_js_path }}//-->{% if static_file.path == page_js_path %}<script src="{{ site.domain }}/assets/js/{{ page.id }}.js"></script>{% endif %}{% endfor %}
