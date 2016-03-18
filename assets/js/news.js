@@ -38,7 +38,7 @@ $(".news-item").on("click", function() {
   var content = $(this).find(".content").html();
   var source = $(this).find(".data").attr("data-source");
   var date = $(this).find(".data").attr("data-date");
-  var title = $(this).find("h5");
+  var title = $(this).find("h5").text();
   if (type === "photo") {
     var media = '<img src="'+source+'">';
   } else if (type === "video") {
