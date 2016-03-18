@@ -21,7 +21,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
     <div class="well">\
       <div class="content">\
         <h5>Bekijk meer op onze Facebook pagina.</h5>\
-        <a class="btn btn-lg btn-default btn-fb"\
+        <a class="btn btn-lg btn-primary btn-fb"\
         href="https://www.facebook.com/Nog-Nooit-Meegemaakt-479823012074705/" \
         target="_blank">Ga naar Facebook</a>\
       </div>\
