@@ -32,5 +32,6 @@ $.getJSON("/website/assets/js/news.json", function(data) {
 });
 
 $(".news").on("click", ".news-item", function() {
+  if ($(this).hasClass("see-more")) return;
   window.open("https://facebook.com/"+$(this).find(".data").attr("data-id"), "_blank");
 });
