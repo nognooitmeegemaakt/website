@@ -1,8 +1,6 @@
----
----
 var months = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun",
               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-$.getJSON("{{ site.domain }}/assets/js/news.json", function(data) {
+$.getJSON("/website/assets/js/news.json", function(data) {
   $.each(data, function(index, news_item) {
     var date = new Date(news_item.date);
     var month = months[ date.getMonth() ];
@@ -14,7 +12,7 @@ $.getJSON("{{ site.domain }}/assets/js/news.json", function(data) {
       <div class="well">\
         <h5>'+day+' '+month+'</h5>\
         <div class="content">'+news_item.message+'</div>\
-        <div class="image"><img src="{{ site.domain }}'+news_item.media+'"></div>\
+        <div class="image"><img src="/website/'+news_item.media+'"></div>\
       </div>\
     </div>');
   });
