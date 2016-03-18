@@ -23,7 +23,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
       <div class="content">\
         <h5>Bekijk meer op onze Facebook pagina.</h5>\
         <a class="btn btn-lg btn-primary btn-fb"\
-        href="https://www.facebook.com/Nog-Nooit-Meegemaakt-479823012074705/" \
+        href="https://facebook.com/Nog-Nooit-Meegemaakt-479823012074705/" \
         target="_blank">Ga naar Facebook</a>\
       </div>\
     </div>\
@@ -32,6 +32,9 @@ $.getJSON("/website/assets/js/news.json", function(data) {
 });
 
 $(".news").on("click", ".news-item", function() {
-  if ($(this).hasClass("see-more")) return;
+  if ($(this).hasClass("see-more")) {
+    window.open("https://facebook.com/Nog-Nooit-Meegemaakt-479823012074705/", "_blank");
+    return;
+  }
   window.open("https://facebook.com/"+$(this).find(".data").attr("data-id"), "_blank");
 });
