@@ -1,5 +1,5 @@
-var months = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun",
-              "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+var months = ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli",
+              "Augustus", "September", "Oktober", "November", "December"];
 $.getJSON("/website/assets/js/news.json", function(data) {
   $.each(data, function(index, news_item) {
     var date = new Date(news_item.date);
