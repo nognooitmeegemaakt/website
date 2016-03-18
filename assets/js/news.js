@@ -30,29 +30,3 @@ $.getJSON("/website/assets/js/news.json", function(data) {
   </div>\
   ');
 });
-
-$(".news").click(".news-item", function() {
-  if ($(this).hasClass("see-more")) return;
-  $(".news-modal").text("");
-  var type = $(this).find(".data").attr("data-type");
-  var content = $(this).find(".content").html();
-  var source = $(this).find(".data").attr("data-source");
-  var date = $(this).find(".data").attr("data-date");
-  var title = $(this).find("h5").text();
-  if (type === "photo") {
-    var media = '<img src="'+source+'">';
-  } else if (type === "video") {
-    var media = '';
-  } else {
-    var media = '';
-  }
-  $(".news-modal").html('\
-  <div class="post">\
-    <h2>'+title+'</h2>\
-    <p>'+content+'</p>\
-    '+media+'\
-    <div class="date">'+date+'</div>\
-  </div>\
-  ');
-  $(".news-modal").show();
-});
