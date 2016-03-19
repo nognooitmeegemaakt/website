@@ -1,5 +1,9 @@
 var months = ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli",
               "Augustus", "September", "Oktober", "November", "December"];
+function nl2br(str, is_xhtml) {
+  var breakTag = (is_xhtml || typeof is_xhtml === 'undefined') ? '<br />' : '<br>';
+  return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1' + breakTag + '$2');
+}
 $.getJSON("/website/assets/js/news.json", function(data) {
   $.each(data, function(index, news_item) {
     var arr = news_item.date.split(/[-T:+]/);
@@ -13,7 +17,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
       data-id="'+news_item.id+'" data-date="'+news_item.date+'"></div>\
       <div class="well">\
         <h5>'+day+' '+month+'</h5>\
-        <div class="content">'+news_item.message+'</div>\
+        <div class="content">'+nl2br(news_item.message)+'</div>\
         <div class="image"><img src="/website/'+news_item.media+'"></div>\
       </div>\
     </div>');
