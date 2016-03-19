@@ -2,7 +2,8 @@ var months = ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli",
               "Augustus", "September", "Oktober", "November", "December"];
 $.getJSON("/website/assets/js/news.json", function(data) {
   $.each(data, function(index, news_item) {
-    var date = new Date(news_item.date);
+    var arr = news_item.date.split(/[-T:+]/);
+    var date = new Date(arr[0], arr[1]-1, arr[2]);
     var month = months[ date.getMonth() ];
     var day = date.getDate();
     $(".news > .row").append('\
