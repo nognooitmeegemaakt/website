@@ -19,7 +19,7 @@ $.getJSON("/website/assets/js/news.json", function(data) {
       data-id="'+news_item.id+'" data-date="'+news_item.date+'"></div>\
       <div class="well">\
         <h5 class="hidden-xs">'+day+' '+month+'</h5>\
-        <h5 class="display-xs">'+day+' '+months_short[date.getMonth()]+'</h5>\
+        <h5 class="visible-xs">'+day+' '+months_short[date.getMonth()]+'</h5>\
         <div class="content">'+nl2br(news_item.message)+'</div>\
         <div class="image"><img src="/website/'+news_item.media+'"></div>\
       </div>\
