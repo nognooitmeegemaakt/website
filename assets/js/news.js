@@ -60,7 +60,6 @@ $(".news").on("click", ".news-item", function() {
 /* Horizontal scrolling for desktop. */
 $.getScript("/website/assets/js/jquery.mousewheel.min.js", function() {
   $(".news > .row").mousewheel(function(event, delta) {
-    console.log(delta);
     this.scrollLeft -= (delta * 30);
     event.preventDefault();
   });
