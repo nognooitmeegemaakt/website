@@ -57,3 +57,12 @@ $(".news").on("click", ".news-item", function() {
   }
   window.open("https://facebook.com/"+$(this).find(".data").attr("data-id"), "_blank");
 });
+/* Horizontal scrolling for desktop. */
+$.getScript("/website/assets/js/jquery.mousewheel.min.js", function() {
+  $(".news > .row").mousewheel(function(event, delta) {
+    console.log(delta);
+    this.scrollLeft -= (delta * 30);
+    event.preventDefault();
+  });
+});
+
