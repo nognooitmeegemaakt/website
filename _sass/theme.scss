@@ -122,7 +122,7 @@ section#background {
 .header img {
   float: left;
   margin-right: $spacing-unit;
-  /*max-height: 200px;*/
+  /**/
 
 }
 
@@ -154,6 +154,15 @@ section#background {
   }
   section#background {
     /*position: fixed;*/
+  }
+}
+
+@media (min-width: 1024px) {
+  .header img {
+    max-width: 200px;
+  }
+  .header h1.title {
+    font-size: 75px;
   }
 }
 
