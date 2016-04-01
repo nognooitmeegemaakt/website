@@ -261,7 +261,7 @@ section#background {
     margin: -15px;
     margin-top: 15px;
     background-color: $background-color;
-    border-top: 5px solid $brand-color;
+    border-top: $brand-border solid $brand-color;
   }
 }
 
