@@ -9,6 +9,12 @@ function nl2br(str, is_xhtml) {
   var breakTag = (is_xhtml || typeof is_xhtml === 'undefined') ? '<br />' : '<br>';
   return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1' + breakTag + '$2');
 }
+/* Detect if device is a touch device. */
+function is_touch_device() {
+  // https://stackoverflow.com/a/4819886
+  return 'ontouchstart' in window  // works on most browsers
+      || navigator.maxTouchPoints; // works on IE10/11 and Surface
+};
 /* Initialize news function. */
 function initNews() {
   $.getJSON("/website/assets/js/news.json", function(data) {
@@ -60,8 +66,9 @@ $(".news").on("click", ".news-item", function() {
 /* Horizontal scrolling for desktop. */
 $.getScript("/website/assets/js/jquery.mousewheel.min.js", function() {
   $(".news > .row").mousewheel(function(event, delta) {
-    this.scrollLeft -= (delta * 30);
-    event.preventDefault();
+    if (!is_touch_device()) {
+      this.scrollLeft -= (delta * 30);
+      event.preventDefault();
+    }
   });
 });
-
