@@ -65,6 +65,7 @@ ul.dropdown-menu {
     padding-bottom: 15px;
     overflow-x: scroll;
     overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
   }
   .navbar-mobile {
     width: 100%;
