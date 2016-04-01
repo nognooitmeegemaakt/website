@@ -116,7 +116,7 @@ section#background {
 .header img {
   float: left;
   margin-right: $spacing-unit;
-  max-height: 200px;
+  /*max-height: 200px;*/
 
 }
 
@@ -141,9 +141,12 @@ section#background {
     margin-left: -100px;
   }
   .header h1.title {
-    font-size: 46px;
+    font-size: 50px;
     text-align: left;
-    margin-top: 200px;
+    margin-top: 230px;
+  }
+  section#background {
+    position: fixed;
   }
 }
 
@@ -250,7 +253,8 @@ section#background {
 @media (max-width: 768px) {
   .callout {
     margin-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 120px;
+    margin: 15px;
   }
 }
 
