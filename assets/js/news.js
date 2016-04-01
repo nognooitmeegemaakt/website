@@ -66,7 +66,7 @@ $(".news").on("click", ".news-item", function() {
 /* Horizontal scrolling for desktop. */
 $.getScript("/website/assets/js/jquery.mousewheel.min.js", function() {
   $(".news > .row").mousewheel(function(event, delta) {
-    if (!is_touch_device()) {
+    if (!is_touch_device() && !(navigator.platform.toUpperCase().indexOf('MAC')>=0)) {
       this.scrollLeft -= (delta * 30);
       event.preventDefault();
     }
