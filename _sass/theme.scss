@@ -25,6 +25,12 @@ html {
   height: 100%;
 }
 
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden;
+  }  
+}
+
 /* Navbar. */
 nav {
   text-transform: uppercase;
