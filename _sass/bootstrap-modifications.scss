@@ -28,3 +28,9 @@
   background-color: transparent;
   color: $text-color;
 }
+
+a:focus,
+a:hover {
+  text-decoration: none;
+  color: $text-color !important;
+}
