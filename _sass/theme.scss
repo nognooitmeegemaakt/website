@@ -134,6 +134,7 @@ section#background {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/* Everything below sm. */
 @media (max-width: 768px) {
   .header {
     margin: $spacing-unit-sm;
@@ -157,6 +158,7 @@ section#background {
   }
 }
 
+/* Everything from sm and up. */
 @media (min-width: 1024px) {
   .header img {
     max-width: 200px;
@@ -166,18 +168,44 @@ section#background {
   }
 }
 
+/* Stuff. */
+@media (max-width: 769px) and (min-width: 632px) {
+    .header {
+        margin-top:  40px;
+    }
+    .header h1.title {
+        font-size: 64px !important;
+        margin-top: 27px;
+        margin-bottom: 100px;
+        margin-left: 223px;
+    }
+    .header img {
+        left: 120px;
+    }
+}
+
+/* Everything from sm and up. */
+@media (min-width: 768px) {
+    .header h1.title {
+        margin-left: 50px;
+        font-size: 67px !important;
+    }
+    .header img {
+      width: 200px;
+    }
+}
+
+/* Very small viewports. */
 @media (max-width: 340px) {
   .header h1.title {
     font-size: 38px !important;
   }
 }
-
 @media (max-width: 370px) {
    .header h1.title {
        font-size: 42px;
    }
 }
-
 @media (min-width: 425px) {
     .header h1.title {
         font-size: 52px;
