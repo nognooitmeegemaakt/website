@@ -28,7 +28,7 @@ html {
 @media (max-width: 768px) {
   html, body {
     overflow-x: hidden;
-  }  
+  }
 }
 
 /* Navbar. */
@@ -155,6 +155,24 @@ section#background {
   section#background {
     /*position: fixed;*/
   }
+}
+
+@media (max-width: 340px) {
+  .header h1.title {
+    font-size: 38px !important;
+  }
+}
+
+@media (max-width: 370px) {
+   .header h1.title {
+       font-size: 42px;
+   }
+}
+
+@media (min-width: 425px) {
+    .header h1.title {
+        font-size: 52px;
+    }
 }
 
 /************************
