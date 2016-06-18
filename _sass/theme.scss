@@ -295,6 +295,7 @@ section#background {
 @media (max-width: 768px) {
   .news {
     margin: $spacing-unit-sm;
+    margin-bottom: 5em;
   }
 }
 
@@ -340,6 +341,12 @@ section#background {
 
 .contact-mails {
   font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .contact {
+    margin-bottom: 5em;
+  }
 }
 
  /****************************
