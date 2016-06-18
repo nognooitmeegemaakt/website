@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+  <!--//
+    {{ site.title }} v{{ site.version }}
+    {{ site.copyright }}
+    By {{ site.author }}
+    GitHub Pages Build {{ site.github.build_revision }}
+  //-->
+  <html lang="nl">
+    <head>
+      {% include head.html %}
+    </head>
+    <body>
+      <section id="background"></section>
+      <section id="content">
+        {% if page.id != 'index' %}
+        <div class="row header">
+          <div class="col-sm-12">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </div>
+        {% endif %}
+        <div class="row">
+          <div class="col-sm-5 col-sm-offset-7">
+            {{ content }}
+          </div>
+        </div>
+      </section>
+      <section id="navbar">
+        {% include navbar.html %}
+      </section>
+      {% include scripts.html %}
+    </body>
+  </html>
