@@ -7,7 +7,7 @@
               <div class="visible-xs">
                 <ul class="navbar-mobile">
                   <li{% if c == "index" %} class="active"{% endif %}><a href="{{ site.domain }}/">Home</a></li>
-                  <li class="dropdown{% if c == 'group' %} active{% endif %}"><a href="#">Groepen</a>
+                  <li class="dropdown{% if c == 'group' %} active{% endif %}"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Groepen</a>
                     <ul class="dropdown-menu">
                       <li>Kies een speltak</li>
                       <li{% if g == "welpen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/welpen">Welpen</a></li>
