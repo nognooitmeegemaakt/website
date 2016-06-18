@@ -13,14 +13,14 @@
       <section id="background"></section>
       <section id="content">
         {% if page.id != 'index' %}
-        <div class="row header">
+        <div class="header">
           <div class="col-sm-12">
             <h1>{{ page.title }}</h1>
           </div>
         </div>
         {% endif %}
-        <div class="row">
-          <div class="col-sm-5 col-sm-offset-6">
+        <div class="description">
+          <div class="text col-sm-5 col-sm-offset-6">
             {{ content }}
           </div>
         </div>

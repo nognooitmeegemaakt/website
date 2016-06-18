@@ -331,3 +331,15 @@ section#background {
 /****************************
         Agenda Page.
  ****************************/
+
+
+
+ /****************************
+         Group Pages.
+  ****************************/
+.description > .text {
+  padding: 2em;
+  background: $brand-dark;
+  border-top: 8px solid $brand-color;
+  font-size: 21px;
+}
