@@ -21,3 +21,13 @@
         <link rel="stylesheet" href="{{ site.domain }}/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="{{ site.domain }}/assets/css/bootstrap-horizon.css">
         <link rel="stylesheet" href="{{ site.domain }}/assets/css/main.css">
+
+        {% if page.id == "index" %}
+        <style>
+        @media (max-width: 768px) {
+          .content {
+            padding-bottom: 120px !important;
+          }
+        }
+        </style>
+        {% endif %}
