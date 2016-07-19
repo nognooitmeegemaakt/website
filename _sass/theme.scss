@@ -42,16 +42,15 @@ nav {
 }
 
 .dropdown-menu>li>a {
-    font-size: 17px;
-    color: #9d9d9d;
-
+  font-size: 17px;
+  color: #9d9d9d;
 }
 
 .dropdown-menu> li:first-of-type {
-    font-size: 12px;
-    text-align: center;
-    color: $brand-light;
-    padding-bottom: 5px;
+  font-size: 12px;
+  text-align: center;
+  color: $brand-light;
+  padding-bottom: 5px;
 }
 
 ul.dropdown-menu {
@@ -122,8 +121,6 @@ section#background {
 .header img {
   float: left;
   margin-right: $spacing-unit;
-  /**/
-
 }
 
 .header h1 {
@@ -139,7 +136,6 @@ section#background {
   .header {
     margin: $spacing-unit-sm;
     text-align: center;
-
   }
   .header img {
     position: absolute;
@@ -170,29 +166,29 @@ section#background {
 
 /* Stuff. */
 @media (max-width: 769px) and (min-width: 632px) {
-    .header {
-        margin-top:  40px;
-    }
-    .header h1.title {
-        font-size: 64px !important;
-        margin-top: 27px;
-        margin-bottom: 100px;
-        margin-left: 223px;
-    }
-    .header img {
-        left: 120px;
-    }
+  .header {
+    margin-top:  40px;
+  }
+  .header h1.title {
+    font-size: 64px !important;
+    margin-top: 27px;
+    margin-bottom: 100px;
+    margin-left: 223px;
+  }
+  .header img {
+    left: 120px;
+  }
 }
 
 /* Everything from sm and up. */
 @media (min-width: 768px) {
-    .header h1.title {
-        margin-left: 50px;
-        font-size: 67px !important;
-    }
-    .header img {
-      width: 200px;
-    }
+  .header h1.title {
+    margin-left: 50px;
+    font-size: 67px !important;
+  }
+  .header img {
+    width: 200px;
+  }
 }
 
 /* Very small viewports. */
@@ -202,14 +198,14 @@ section#background {
   }
 }
 @media (max-width: 370px) {
-   .header h1.title {
-       font-size: 42px;
-   }
+  .header h1.title {
+    font-size: 42px;
+  }
 }
 @media (min-width: 425px) {
-    .header h1.title {
-        font-size: 52px;
-    }
+  .header h1.title {
+    font-size: 52px;
+  }
 }
 
 /************************
@@ -266,12 +262,12 @@ section#background {
 }
 
 .see-more h5 {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .see-more .content {
-    overflow: initial;
-    height: auto;
+  overflow: initial;
+  height: auto;
 }
 
 .btn-fb {
