@@ -26,6 +26,14 @@ html {
 /* Landing page. */
 .header h1 {
   font-size: 3em;
+
+  @media #{$mq-medium} {
+    font-size: 3.5em;
+  }
+
+  @media #{$mq-large} {
+    font-size: 3em;
+  }
 }
 
 .callout {
