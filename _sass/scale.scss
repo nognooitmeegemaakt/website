@@ -64,3 +64,13 @@ nav {
 .description > .text {
   font-size: 1em;
 }
+
+/* Contact page. */
+.contact-mails {
+  font-size: 1em;
+
+  @media #{$mq-medium} {
+    font-size: .6em;
+  }
+
+}

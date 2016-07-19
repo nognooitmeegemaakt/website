@@ -113,6 +113,8 @@ section#background {
 /* Header. */
 .header {
   margin: $spacing-unit;
+  margin-top: 0;
+  padding-top: $spacing-unit;
   text-transform: uppercase;
 }
 
@@ -332,7 +334,7 @@ section#background {
 }
 
 .contact-mails {
-  font-size: 14px;
+  /*font-size: 14px;*/
 }
 
 @media (max-width: 768px) {
