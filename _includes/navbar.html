@@ -1,4 +1,4 @@
-{% assign c = page.id %}
+{% assign c = page.category %}
 {% assign g = page.group %}
         <nav class="navbar navbar-inverse navbar-fixed-bottom">
           <div class="container-fluid">
@@ -7,15 +7,7 @@
               <div class="visible-xs">
                 <ul class="navbar-mobile">
                   <li{% if c == "index" %} class="active"{% endif %}><a href="{{ site.domain }}/">Home</a></li>
-                  <li class="dropdown{% if c == 'group' %} active{% endif %}"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Groepen</a>
-                    <ul class="dropdown-menu">
-                      <li>Kies een speltak</li>
-                      <li{% if g == "welpen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/welpen">Welpen</a></li>
-                      <li{% if g == "gidsen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/gidsen">Gidsen</a></li>
-                      <li{% if g == "scouts" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/scouts">Scouts</a></li>
-                      <li{% if g == "stam" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/stam">Stam</a></li>
-                    </ul>
-                  </li>
+                  <li class="dropdown{% if c == 'group' %} active{% endif %}"><a href="#" class="btn-select-group">Groepen</a></li>
                   <li{% if c == "news" %} class="active"{% endif %}><a href="{{ site.domain }}/nieuws">Nieuws</a></li>
                   <li{% if c == "agenda" %} class="active"{% endif %}><a href="{{ site.domain }}/programma">Programma</a></li>
                   <li{% if c == "contact" %} class="active"{% endif %}><a href="{{ site.domain }}/contact">Contact</a></li>
@@ -45,3 +37,13 @@
             </div>
           </div>
         </nav>
+
+        <!--//
+        <div class="dropdown-menu">
+          <div>Kies een speltak</div>
+          <div{% if g == "welpen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/welpen">Welpen</a></div>
+          <div{% if g == "gidsen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/gidsen">Gidsen</a></div>
+          <div{% if g == "scouts" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/scouts">Scouts</a></div>
+          <div{% if g == "stam" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/stam">Stam</a></div>
+        </div>
+        //-->
