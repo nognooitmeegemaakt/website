@@ -1,20 +1,24 @@
 /* Full dutch months array. */
 var months = ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli",
               "Augustus", "September", "Oktober", "November", "December"];
+
 /* Shortened dutch months array. */
 var months_short = ["Jan", "Feb", "Mrt", "Apr", "Mei", "Jun",
                     "Jul", "Aug", "Sept", "Okt", "Nov", "Dec"];
+
 /* Newline to html break function. */
 function nl2br(str, is_xhtml) {
   var breakTag = (is_xhtml || typeof is_xhtml === 'undefined') ? '<br />' : '<br>';
   return (str + '').replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1' + breakTag + '$2');
 }
+
 /* Detect if device is a touch device. */
 function is_touch_device() {
   // https://stackoverflow.com/a/4819886
   return 'ontouchstart' in window  // works on most browsers
       || navigator.maxTouchPoints; // works on IE10/11 and Surface
-};
+}
+
 /* Initialize news function. */
 function initNews() {
   $.getJSON("/website/assets/js/news.json", function(data) {
@@ -54,7 +58,10 @@ function initNews() {
     ');
   });
 }
+
+/* Initialize the news. */
 initNews();
+
 /* Open tab to Facebook on click of newsitem for now. */
 $(".news").on("click", ".news-item", function() {
   if ($(this).hasClass("see-more")) {
@@ -63,6 +70,7 @@ $(".news").on("click", ".news-item", function() {
   }
   window.open("https://facebook.com/"+$(this).find(".data").attr("data-id"), "_blank");
 });
+
 /* Horizontal scrolling for desktop. */
 $.getScript("/website/assets/js/jquery.mousewheel.min.js", function() {
   $(".news > .row").mousewheel(function(event, delta) {
