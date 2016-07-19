@@ -219,7 +219,7 @@ section#background {
 
 .news > .row-horizon {
   padding-top: 30px;
-  overflow-y: scroll;
+  /*overflow-y: scroll;*/
   -webkit-overflow-scrolling: touch;
   margin-bottom: 40px;
 }
@@ -286,6 +286,14 @@ section#background {
 
 .news-modal {
 
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: $brand-dark;
+}
+::-webkit-scrollbar-thumb {
+  background-color $brand-color;
 }
 
 @media (max-width: 768px) {
