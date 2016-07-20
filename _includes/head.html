@@ -31,3 +31,14 @@
         }
         </style>
         {% endif %}
+        {% if page.category == "news" %}
+        <style>
+        ::-webkit-scrollbar {
+          width: 12px;
+          background-color: $brand-dark;
+        }
+        ::-webkit-scrollbar-thumb {
+          background-color: $brand-color;
+        }
+        </style>
+        {% endif %}

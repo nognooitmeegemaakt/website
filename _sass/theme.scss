@@ -18,9 +18,11 @@ html, body {
   font-size: $font-size;
 }
 
-html {
+body {
   background-color: $background-color;
   height: 100%;
+  position: relative;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -286,14 +288,6 @@ section#background {
 
 .news-modal {
 
-}
-
-::-webkit-scrollbar {
-  width: 12px;
-  background-color: $brand-dark;
-}
-::-webkit-scrollbar-thumb {
-  background-color: $brand-color;
 }
 
 @media (max-width: 768px) {
