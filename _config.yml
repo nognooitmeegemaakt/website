@@ -8,3 +8,4 @@ collections:
   groups:
     output: true
     permalink: /groep/:path/
+markdown: kramdown
