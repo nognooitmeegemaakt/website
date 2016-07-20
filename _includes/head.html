@@ -20,25 +20,30 @@
 
         <link rel="stylesheet" href="{{ site.domain }}/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="{{ site.domain }}/assets/css/bootstrap-horizon.css">
+        <link rel="stylesheet" href="{{ site.domain }}/assets/css/ionicons.min.css">
         <link rel="stylesheet" href="{{ site.domain }}/assets/css/main.css">
 
-        {% if page.category == "index" %}
+        {% if page.category == "index" or page.category == "news" %}
         <style>
-        @media (max-width: 768px) {
-          #content {
-            padding-bottom: 120px !important;
+          @media (max-width: 768px) {
+            #content {
+              padding-bottom: 120px !important;
+            }
           }
-        }
         </style>
         {% endif %}
         {% if page.category == "news" %}
         <style>
-        ::-webkit-scrollbar {
-          width: 12px;
-          background-color: $brand-dark;
-        }
-        ::-webkit-scrollbar-thumb {
-          background-color: $brand-color;
-        }
+          @media (max-width: 768px) {
+            .header {
+              display: none !important;
+            }
+            #content {
+              padding-top: 2.5em;
+            }
+            video {
+              width: 100% !important;
+            }
+          }
         </style>
         {% endif %}

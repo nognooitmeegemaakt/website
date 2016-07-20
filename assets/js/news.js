@@ -20,10 +20,12 @@ function is_touch_device() {
 }
 
 /* Initialize news function. */
+var news = {};
 function initNews() {
-  $.getJSON("/website/assets/js/news.json", function(data) {
+  $.getJSON("../assets/js/news.json", function(data) {
     $(".news > .row").text("");
     $.each(data, function(index, news_item) {
+      news[news_item.id] = news_item;
       var arr = news_item.date.split(/[-T:+]/);
       var date = new Date(arr[0], arr[1]-1, arr[2]);
       var month = months[ date.getMonth() ];
@@ -37,10 +39,10 @@ function initNews() {
         data-link="'+news_item.link+'" data-type="'+news_item.type+'"\
         data-id="'+news_item.id+'" data-date="'+news_item.date+'"></div>\
         <div class="well">\
-          <h5 class="hidden-xs">'+day+' '+month+'</h5>\
-          <h5 class="visible-xs">'+day+' '+months_short[date.getMonth()]+'</h5>\
+          <h5 class="">'+day+' '+month+'</h5>\
+          <!--//<h5 class="visible-xs">'+day+' '+months_short[date.getMonth()]+'</h5>//-->\
           <div class="content">'+nl2br(news_item.message)+'</div>\
-          <div class="image"><img src="/website/'+news_item.media+'"></div>\
+          <div class="image"><img src="/../'+news_item.media+'"></div>\
         </div>\
       </div>');
     });
@@ -68,11 +70,66 @@ $(".news").on("click", ".news-item", function() {
     window.open("https://facebook.com/Nog-Nooit-Meegemaakt-479823012074705/", "_blank");
     return;
   }
-  window.open("https://facebook.com/"+$(this).find(".data").attr("data-id"), "_blank");
+
+  var post_id = $(this).find(".data").attr("data-id");
+  expandNewsItem(post_id);
 });
 
+function expandNewsItem(post_id) {
+  var item = news[post_id];
+  var arr = item.date.split(/[-T:+]/);
+  var date = new Date(arr[0], arr[1]-1, arr[2]);
+  var month = months[ date.getMonth() ];
+  var day = date.getDate();
+  var year = date.getFullYear();
+  if (item.type == "photo") {
+    var media = '<img src="'+item.source+'">';
+  } else if (item.type == "video") {
+    var media = '<video controls preload="auto"><source src="'+item.source+'">Deze browser ondersteunt geen HTML5 video.</video>';
+  } else {
+    var media = "";
+  }
+  $(".expanded-news").html('\
+  <div class="news-modal col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1 col-xs-12">\
+    <div class="news-close"><i class="ion-android-arrow-back"></i> Ga Terug</div>\
+    <div class="news-media">\
+      '+media+'\
+    </div>\
+    <div class="data">\
+      <div class="news-date brand-font col-xs-12 col-md-6">'+day+' '+month+' '+year+'</div>\
+      <div class="news-fb col-xs-12 col-md-6"><a class="btn btn-primary btn-fb" target="_blank" href="https://facebook.com/'+post_id+'">Bekijk op Facebook</a></div>\
+    </div>\
+    <div class="news-text">\
+      <br>\
+      '+item.message+'\
+    </div>\
+  </div>\
+  ');
+  $(".expanded-news").show();
+}
+
+/* Close expanded news on back button click. */
+$(".expanded-news").on("click", ".news-close", function() {
+  $(".expanded-news").hide();
+});
+
+/* Apply special scrollbar only to desktops without touch. */
+if (!is_touch_device()) {
+  $("head").append('\
+  <style>\
+    ::-webkit-scrollbar {\
+      width: 12px;\
+      background-color: #222;\
+    }\
+    ::-webkit-scrollbar-thumb {\
+      background-color: #ff8b00;\
+    }\
+  </style>\
+  ');
+}
+
 /* Horizontal scrolling for desktop. */
-$.getScript("/website/assets/js/jquery.mousewheel.min.js", function() {
+$.getScript("/../assets/js/jquery.mousewheel.min.js", function() {
   $(".news > .row").mousewheel(function(event, delta) {
     if (!is_touch_device() && !(navigator.platform.toUpperCase().indexOf('MAC')>=0)) {
       this.scrollLeft -= (delta * 30);
