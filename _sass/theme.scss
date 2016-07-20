@@ -314,12 +314,10 @@ section#background {
   padding-bottom: 6em;
 }
 
-.expanded-news img {
-  width: 100%;
-}
-
+.expanded-news img,
 .expanded-news video {
-  width: 50%;
+  width: 100%;
+  border-top: $brand-border solid $brand-color;
 }
 
 .expanded-news .data {
@@ -339,6 +337,10 @@ section#background {
   margin-top: .3em;
   float: left;
   padding-left: 0;
+}
+
+.news-date i {
+  font-size: .7em;
 }
 
 .news-fb {
@@ -395,8 +397,8 @@ section#background {
   margin-bottom: -3.2em;
 }
 
-.contact-mails {
-  /*font-size: 14px;*/
+.contact-mails tr > td:first-of-type {
+  padding-right: 1em;
 }
 
 @media (max-width: 768px) {

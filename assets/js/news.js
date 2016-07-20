@@ -21,7 +21,13 @@ function is_touch_device() {
 
 /* Initialize news function. */
 var news = {};
+var likes = {};
 function initNews() {
+
+  $.getJSON("https://nognooitmeegemaakt.herokuapp.com/likes.php", function(data) {
+    likes = data;
+  });
+
   $.getJSON("../assets/js/news.json", function(data) {
     $(".news > .row").text("");
     $.each(data, function(index, news_item) {
@@ -33,6 +39,11 @@ function initNews() {
       if (news_item.message === null) {
         news_item.message = "";
       }
+      if (news_item.media === null) {
+        media = "";
+      } else {
+        media = '<img src="/../'+news_item.media+'">';
+      }
       $(".news > .row").append('\
       <div class="news-item col-xs-10 col-sm-5 col-md-5 col-lg-4">\
         <div class="data" data-source="'+news_item.source+'"\
@@ -42,7 +53,7 @@ function initNews() {
           <h5 class="">'+day+' '+month+'</h5>\
           <!--//<h5 class="visible-xs">'+day+' '+months_short[date.getMonth()]+'</h5>//-->\
           <div class="content">'+nl2br(news_item.message)+'</div>\
-          <div class="image"><img src="/../'+news_item.media+'"></div>\
+          <div class="image">'+media+'</div>\
         </div>\
       </div>');
     });
@@ -82,11 +93,22 @@ function expandNewsItem(post_id) {
   var month = months[ date.getMonth() ];
   var day = date.getDate();
   var year = date.getFullYear();
+  var span_likes = "";
+  var post_likes = likes[post_id];
+  if (post_likes) {
+    var span_likes = '<span class="likes"><!--//<i class="ion-android-favorite-outline"></i>//-->'+post_likes+' likes</span>';
+  }
+
   if (item.type == "photo") {
     var media = '<img src="'+item.source+'">';
-  } else if (item.type == "video") {
+  }
+  else if (item.type == "video") {
     var media = '<video controls preload="auto"><source src="'+item.source+'">Deze browser ondersteunt geen HTML5 video.</video>';
-  } else {
+  }
+  else if (item.type == "link") {
+    var media = '';
+  }
+  else {
     var media = "";
   }
   $(".expanded-news").html('\
@@ -96,8 +118,8 @@ function expandNewsItem(post_id) {
       '+media+'\
     </div>\
     <div class="data">\
-      <div class="news-date brand-font col-xs-12 col-md-6">'+day+' '+month+' '+year+'</div>\
-      <div class="news-fb col-xs-12 col-md-6"><a class="btn btn-primary btn-fb" target="_blank" href="https://facebook.com/'+post_id+'">Bekijk op Facebook</a></div>\
+      <div class="news-date col-xs-12 col-md-6"><span class="brand-font">'+day+' '+month+' '+year+'</span><br>'+span_likes+'</div>\
+      <div class="news-fb col-xs-12 col-md-6"><a class="btn btn-primary btn-fb" target="_blank" href="https://facebook.com/'+post_id+'">Bekijk meer op Facebook</a></div>\
     </div>\
     <div class="news-text">\
       <br>\
