@@ -34,3 +34,8 @@ a:hover {
   text-decoration: underline;
   color: $brand-color !important;
 }
+
+nav a:focus,
+nav a:hover {
+  color: $text-color !important;
+}
