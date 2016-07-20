@@ -1,20 +1,11 @@
 <div class="contact-info">
-  <div class="col-sm-7">
-    <h2>Scoutinggroep P&amp;P</h2>
-    <p>
-      Kruisbroedershof 29<br>
-      's-Hertogenbosch<br>
-      073 612 6107
-    </p>
+  <div class="col-sm-7" data-file="text/contact-address.md">
+    {% capture filecontents %}{% include text/contact-address.md %}{% endcapture %}
+    {{ filecontents | markdownify }}
   </div>
-  <div class="col-sm-5 contact-mails">
-    <br>
-    Groepsleider <a href="mailto:leo@nognooitmeegemaakt.nl">Leo Melkert</a><br>
-    Penningmeester <a href="mailto:lex@nognooitmeegemaakt.nl">Lex van Veghel</a><br>
-    Welpen <a href="mailto:fabrizio@nognooitmeegemaakt.nl">Fabrizio Zanin</a><br>
-    Gidsen <a href="mailto:levi@nognooitmeegemaakt.nl">Levi Sars</a><br>
-    Scouts <a href="mailto:guidon@nognooitmeegemaakt.nl">Guidon van den Berg</a><br>
-    Stam <a href="mailto:syquin@nognooitmeegemaakt.nl">Syquin van den Berg</a>
+  <div class="col-sm-5 contact-mails" data-file="text/contact-mails.md">
+    {% capture filecontents %}{% include text/contact-mails.md %}{% endcapture %}
+    {{ filecontents | markdownify }}
   </div>
 </div>
 <div class="contact-maps">
