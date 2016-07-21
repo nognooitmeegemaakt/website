@@ -58,7 +58,7 @@ function initNews() {
       </div>');
     });
     $(".news > .row").append('\
-    <div class="news-item see-more col-xs-10 col-sm-5 col-md-5 col-lg-4">\
+    <div class="news-item see-more col-xs-6 col-sm-4 col-md-4 col-lg-4">\
       <div class="well">\
         <div class="content">\
           <h5>Bekijk meer op onze Facebook pagina.</h5>\
