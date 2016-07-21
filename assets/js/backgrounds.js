@@ -5,12 +5,12 @@ $.getJSON("{{ site.domain }}/assets/js/backgrounds.json", function(data, textSta
   $.each(data, function(speltak, images) {
     if (location.href.indexOf(speltak) > -1  && images.length > 0) {
       var image = images[ Math.round(Math.random() * (images.length - 1)) ];
-      $("section#background").attr("style", "background-image: url('{{ site.domain }}/assets/img/bg/"+image+"');");
+      $("html").attr("style", "background-image: url('{{ site.domain }}/assets/img/bg/"+image+"');");
       return;
     }
   });
-  var bgstyle = $("section#background").attr("style");
+  var bgstyle = $("html").attr("style");
   if (typeof bgstyle === typeof undefined || bgstyle === false) {
-    $("section#background").attr("style", "background-image: url('{{ site.domain }}/assets/img/bg/main.jpg');");
+    $("html").attr("style", "background-image: url('{{ site.domain }}/assets/img/bg/main.jpg');");
   }
 });

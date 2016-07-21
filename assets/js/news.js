@@ -87,6 +87,7 @@ $(".news").on("click", ".news-item", function() {
 });
 
 function expandNewsItem(post_id) {
+  window.scrollTo(0,0);
   var item = news[post_id];
   var arr = item.date.split(/[-T:+]/);
   var date = new Date(arr[0], arr[1]-1, arr[2]);
@@ -137,7 +138,7 @@ $(".expanded-news").on("click", ".news-close", function() {
 
 /* Apply special scrollbar only to desktops without touch. */
 if (!is_touch_device()) {
-  $("head").append('\
+  /*$("head").append('\
   <style>\
     ::-webkit-scrollbar {\
       width: 12px;\
@@ -147,15 +148,15 @@ if (!is_touch_device()) {
       background-color: #ff8b00;\
     }\
   </style>\
-  ');
+  ');*/
 }
 
 /* Horizontal scrolling for desktop. */
 $.getScript("/../assets/js/jquery.mousewheel.min.js", function() {
-  $(".news > .row").mousewheel(function(event, delta) {
+  /*$(".news > .row").mousewheel(function(event, delta) {
     if (!is_touch_device() && !(navigator.platform.toUpperCase().indexOf('MAC')>=0)) {
       this.scrollLeft -= (delta * 30);
       event.preventDefault();
     }
-  });
+  });*/
 });
