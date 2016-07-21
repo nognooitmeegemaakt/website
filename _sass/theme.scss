@@ -98,6 +98,87 @@ ul.dropdown-menu {
   }
 }
 
+.speltak-mobile {
+  display: none;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #333;
+  z-index: 99999;
+  font-size: 2em;
+  padding: 1em;
+  padding-bottom: 5em;
+  overflow-y: scroll;
+}
+
+.speltak-close {
+  margin-bottom: .8em;
+  margin-left: .5em;
+  cursor: pointer;
+}
+.speltak-text {
+  margin-bottom: 1em;
+}
+.speltak-mobile .row,
+.speltak-text {
+  text-align: center;
+}
+.speltak-mobile .row {
+  text-transform: uppercase;
+}
+.speltak-mobile .row > div {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  cursor: pointer;
+}
+.speltak-mobile a {
+  color: #fff;
+}
+
+.speltak-mobile a:hover,
+.speltak-mobile a:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+.speltak-mobile .row > div .bg {
+  background-size: cover !important;
+  opacity: .5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.speltak-mobile .row > div.active .bg,
+.speltak-mobile .row > div:hover .bg {
+  opacity: 1 !important;
+}
+
+.speltak-mobile .row > div:hover a {
+  text-decoration: underline !important;
+}
+
+.speltak-mobile .row > div.active a {
+  text-decoration: underline;
+}
+
+.speltak-mobile .welpen .bg {
+  background: url("../img/bg/welpen_1.jpg");
+}
+.speltak-mobile .gidsen .bg {
+  background: url("../img/bg/gidsen_1.jpg");
+}
+.speltak-mobile .scouts .bg {
+  background: url("../img/bg/scouts_1.jpg");
+}
+.speltak-mobile .stam .bg {
+  background: url("../img/bg/stam_1.jpg");
+}
+
 /* Background. */
 html {
   background-color: $brand-dark;

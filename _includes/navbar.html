@@ -7,7 +7,7 @@
               <div class="visible-xs">
                 <ul class="navbar-mobile">
                   <li{% if c == "index" %} class="active"{% endif %}><a href="{{ site.domain }}/">Home</a></li>
-                  <li class="dropdown{% if c == 'group' %} active{% endif %}"><a href="#" class="btn-select-group">Groepen</a></li>
+                  <li class="speltak-open{% if c == 'group' %} active{% endif %}"><a href="#" class="btn-select-group">Groepen</a></li>
                   <li{% if c == "news" %} class="active"{% endif %}><a href="{{ site.domain }}/nieuws">Nieuws</a></li>
                   <li{% if c == "agenda" %} class="active"{% endif %}><a href="{{ site.domain }}/programma">Programma</a></li>
                   <li{% if c == "contact" %} class="active"{% endif %}><a href="{{ site.domain }}/contact">Contact</a></li>
@@ -38,12 +38,14 @@
           </div>
         </nav>
 
-        <!--//
-        <div class="dropdown-menu">
-          <div>Kies een speltak</div>
-          <div{% if g == "welpen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/welpen">Welpen</a></div>
-          <div{% if g == "gidsen" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/gidsen">Gidsen</a></div>
-          <div{% if g == "scouts" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/scouts">Scouts</a></div>
-          <div{% if g == "stam" %} class="active"{% endif %}><a href="{{ site.domain }}/groep/stam">Stam</a></div>
+
+        <div class="speltak-mobile">
+          <div class="speltak-close"><i class="ion-android-close"></i></div>
+          <div class="speltak-text">Kies een speltak</div>
+          <div class="row">
+            <div class="col-xs-6 welpen{% if g == "welpen" %} active{% endif %}"><div class="bg"></div><a href="{{ site.domain }}/groep/welpen">Welpen</a></div>
+            <div class="col-xs-6 gidsen{% if g == "gidsen" %} active{% endif %}"><div class="bg"></div><a href="{{ site.domain }}/groep/gidsen">Gidsen</a></div>
+            <div class="col-xs-6 scouts{% if g == "scouts" %} active{% endif %}"><div class="bg"></div><a href="{{ site.domain }}/groep/scouts">Scouts</a></div>
+            <div class="col-xs-6 stam{% if g == "stam" %} active{% endif %}"><div class="bg"></div><a href="{{ site.domain }}/groep/stam">Stam</a></div>
+          </div>
         </div>
-        //-->
