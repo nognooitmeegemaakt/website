@@ -391,6 +391,10 @@ section#background {
         Contact Page.
    *************************** */
 
+.contact {
+  margin-bottom: 5em;
+}
+
 .contact-info h2 {
   font-weight: bold;
 }
@@ -402,9 +406,9 @@ section#background {
 }
 
 .contact-mails tr > td:first-of-type {
-  @media #{$mq-medium} {
+  //@media #{$mq-medium} {
     padding-right: 1em;
-  }
+  //}
 }
 
 @media (max-width: 768px) {
