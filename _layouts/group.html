@@ -20,7 +20,7 @@
         </div>
         {% endif %}
         <div class="description">
-          <div class="text col-sm-5 col-sm-offset-6" data-file="text/{{ page.group }}.md">
+          <div class="text col-lg-7 col-lg-offset-4 col-sm-5 col-sm-offset-6" data-file="text/{{ page.group }}.md">
             {% assign file = "text/" | append: page.group | append: ".md" %}
             {% capture filecontents %}{% include {{file}} %}{% endcapture %}
             {{ filecontents | markdownify }}
