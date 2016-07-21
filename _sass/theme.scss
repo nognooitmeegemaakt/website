@@ -96,7 +96,7 @@ ul.dropdown-menu {
 
 /* Background. */
 section#background {
-  position: absolute;
+  position: fixed;
   left: 0;
   z-index: -1;
   min-width: 100%;
@@ -108,7 +108,6 @@ section#background {
   filter: blur(5px);
   background: url("../img/bg/main.jpg") no-repeat center center fixed;
   background-size: cover;
-  margin-top: -50px;
 }
 
 /* Header. */
@@ -419,5 +418,6 @@ section#background {
   padding: 2em;
   background: $brand-dark;
   border-top: 8px solid $brand-color;
+  margin-bottom: 5em;
   /*font-size: 18px;*/
 }

@@ -26,6 +26,7 @@ html {
 /* Landing page. */
 .header h1 {
   font-size: 3em;
+  margin-top: 0;
 
   @media #{$mq-medium} {
     font-size: 3.5em;
@@ -33,6 +34,12 @@ html {
 
   @media #{$mq-large} {
     font-size: 4em;
+  }
+}
+
+.header h1.title {
+  @media #{$mq-large} {
+    margin-left: 0 !important;
   }
 }
 
