@@ -1,9 +1,9 @@
 <div class="contact-info">
-  <div class="col-sm-7" data-file="text/contact-address.md">
+  <div class="col-md-7 col-sm-12" data-file="text/contact-address.md">
     {% capture filecontents %}{% include text/contact-address.md %}{% endcapture %}
     {{ filecontents | markdownify }}
   </div>
-  <div class="col-sm-5 contact-mails" data-file="text/contact-mails.md">
+  <div class="col-md-5 col-sm-12 contact-mails" data-file="text/contact-mails.md">
     {% capture filecontents %}{% include text/contact-mails.md %}{% endcapture %}
     {{ filecontents | markdownify }}
   </div>
