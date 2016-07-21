@@ -45,7 +45,7 @@ function initNews() {
         media = '<img src="/../'+news_item.media+'">';
       }
       $(".news > .row").append('\
-      <div class="news-item col-xs-6 col-sm-4 col-md-4 col-lg-4">\
+      <div class="news-item col-xs-12 col-sm-4 col-md-4 col-lg-4">\
         <div class="data" data-source="'+news_item.source+'"\
         data-link="'+news_item.link+'" data-type="'+news_item.type+'"\
         data-id="'+news_item.id+'" data-date="'+news_item.date+'"></div>\
@@ -58,7 +58,7 @@ function initNews() {
       </div>');
     });
     $(".news > .row").append('\
-    <div class="news-item see-more col-xs-6 col-sm-4 col-md-4 col-lg-4">\
+    <div class="news-item see-more col-xs-12 col-sm-4 col-md-4 col-lg-4">\
       <div class="well">\
         <div class="content">\
           <h5>Bekijk meer op onze Facebook pagina.</h5>\
