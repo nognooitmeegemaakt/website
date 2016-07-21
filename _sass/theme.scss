@@ -19,6 +19,7 @@ html, body {
   font-family: $font-family;
   color: $text-color;
   font-size: $font-size;
+  /*height: 130%;*/
 }
 
 body {
@@ -99,7 +100,7 @@ ul.dropdown-menu {
 
 /* Background. */
 section#background {
-  position: fixed;
+  position: absolute;
   left: 0;
   z-index: -1;
   min-width: 100%;
