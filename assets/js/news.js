@@ -45,7 +45,7 @@ function initNews() {
         media = '<img src="/../'+news_item.media+'">';
       }
       $(".news > .row").append('\
-      <div class="news-item col-xs-10 col-sm-5 col-md-5 col-lg-4">\
+      <div class="news-item col-xs-6 col-sm-4 col-md-4 col-lg-4">\
         <div class="data" data-source="'+news_item.source+'"\
         data-link="'+news_item.link+'" data-type="'+news_item.type+'"\
         data-id="'+news_item.id+'" data-date="'+news_item.date+'"></div>\
