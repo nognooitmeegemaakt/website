@@ -23,8 +23,12 @@ html {
 
 /* Landing page. */
 .header h1 {
-  font-size: 3em;
+  font-size: 4.5em;
   margin-top: 0;
+
+  @media #{$mq-small} {
+    font-size: 3em;
+  }
 
   @media #{$mq-medium} {
     font-size: 3.5em;
