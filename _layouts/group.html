@@ -20,10 +20,18 @@
         </div>
         {% endif %}
         <div class="description">
-          <div class="text col-lg-7 col-lg-offset-4 col-md-7 col-md-offset-4 col-sm-10 col-sm-offset-1 col-xs-12" data-file="text/{{ page.group }}.md">
-            {% assign file = "text/" | append: page.group | append: ".md" %}
-            {% capture filecontents %}{% include {{file}} %}{% endcapture %}
-            {{ filecontents | markdownify }}
+          <div class="text col-lg-7 col-lg-offset-4 col-md-7 col-md-offset-4 col-sm-10 col-sm-offset-1 col-xs-12">
+            <div data-file="text/{{ page.group }}.md">
+              {% assign file = "text/" | append: page.group | append: ".md" %}
+              {% capture filecontents %}{% include {{file}} %}{% endcapture %}
+              {{ filecontents | markdownify }}
+            </div>
+            <div class="images">
+              <div id="carousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators"></ol>
+                <div class="carousel-inner" role="listbox"></div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -31,5 +39,6 @@
         {% include navbar.html %}
       </section>
       {% include scripts.html %}
+
     </body>
   </html>

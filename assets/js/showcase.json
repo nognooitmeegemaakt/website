@@ -1,0 +1,36 @@
+{
+  "welpen": [
+    "welpen_2.jpg",
+    "welpen_3.jpg",
+    "welpen_4.jpg",
+    "welpen_5.jpg",
+    "welpen_6.jpg"
+  ],
+  "gidsen": [
+    "gidsen_3.jpg",
+    "gidsen_4.jpg",
+    "gidsen_5.jpg",
+    "gidsen_6.jpg",
+    "gidsen_7.jpg",
+    "gidsen_8.jpg"
+  ],
+  "scouts": [
+    "scouts_3.jpg",
+    "scouts_4.jpg",
+    "scouts_5.jpg",
+    "scouts_6.jpg",
+    "scouts_7.jpg",
+    "scouts_8.jpg",
+    "scouts_9.jpg"
+  ],
+  "stam": [
+    "stam_2.jpg",
+    "stam_3.jpg",
+    "stam_4.jpg",
+    "stam_5.jpg",
+    "stam_6.jpg",
+    "stam_7.jpg",
+    "stam_8.jpg",
+    "stam_9.jpg"
+  ]
+}

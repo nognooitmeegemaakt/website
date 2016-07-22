@@ -372,6 +372,8 @@ html {
   background-color: #3b5998;
 }
 
+/* Expanded news item. */
+
 .expanded-news {
   position: absolute;
   top: 0;
@@ -508,5 +510,13 @@ html {
   background: $brand-dark;
   border-top: 8px solid $brand-color;
   margin-bottom: 5em;
-  /*font-size: 18px;*/
+}
+
+.description .images {
+  margin: -2em;
+  margin-top: 2em;
+}
+
+.description .images img {
+  width: 100%;
 }
