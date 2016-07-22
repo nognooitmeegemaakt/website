@@ -4,6 +4,8 @@ version: "1.0.0"
 title: "Nog Nooit Meegemaakt"
 domain: "https://zomer.nognooitmeegemaakt.nl"
 logo: "https://zomer.nognooitmeegemaakt.nl/assets/img/logo.png"
+description: "Scoutinggroep P&P verzorgt activiteiten die jij nog nooit hebt meegemaakt! Lijkt het je leuk om mee te doen? Kom dan een keer kijken, of meld je aan!"
+keywords: "scouting, den bosch, P&P, petrus en paulus, nog nooit meegemaakt, outdoor, stoer"
 collections:
   groups:
     output: true
