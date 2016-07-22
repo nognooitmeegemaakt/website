@@ -318,6 +318,9 @@ html {
   border-top: $brand-border solid $brand-color;
   border-radius: 0 !important;
 
+  @media #{$mq-max-xsmall} {
+    font-size: 1.3em;
+  }
 }
 
 .news-item {
