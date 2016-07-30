@@ -39,7 +39,7 @@ function initNews() {
       if (news_item.message === null) {
         news_item.message = "";
       }
-      if (news_item.media === null) {
+      if (news_item.media === null || news_item.media === false) {
         media = "";
       } else {
         media = '<img src="/../'+news_item.media+'">';
