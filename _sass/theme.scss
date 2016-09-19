@@ -34,15 +34,26 @@ body {
   }
 }
 
-.btn-orange {
+.btn-agenda {
   border-radius: 0;
   margin: 0;
   margin-top: 20px;
-  background-color: #ff8b00;
   border-color: transparent;
   font-size: 20px;
   width: 100%;
-  color: #fff;
+}
+
+.btn-orange {
+  background-color: #ff8b00;
+  color: #fff !important;
+  &:hover {
+    background-color: #ea8000;
+    border-color: transparent;
+  }
+}
+
+.btn-speltak {
+  background-color: #fff;
 }
 
 /* Navbar. */

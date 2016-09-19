@@ -11,4 +11,7 @@ collections:
   groups:
     output: true
     permalink: /groep/:path/
+  agenda:
+    output: true
+    permalink: /programma/:path/
 markdown: kramdown
