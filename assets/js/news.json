@@ -1,15 +1,5 @@
 [
     {
-        "id": "479823012074705_1184142071642792",
-        "type": "video",
-        "message": "Pannekoeken op dinsdagavond, \ud83c\udf89\ud83d\udd25\ud83c\udf89 \nEerst ff #hakken, \ndan ff #snelstoken \ndan ff #koken.\n\nBekijk hier de legendarische #Flip",
-        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1184142071642792\/",
-        "date": "2016-09-27T19:28:39+0000",
-        "media": "\/assets\/img\/news\/thumb_3b33af28edd50c31c707ff3cf1322e2c78144eb0.jpg",
-        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/14515957_298554933861242_2537455936763592704_n.mp4?efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=300&vabr=157&oh=e005edd8cc1c453d3597d28167a88850&oe=57EC82CF",
-        "hash": "3b33af28edd50c31c707ff3cf1322e2c78144eb0"
-    },
-    {
         "id": "479823012074705_1181902071866792",
         "type": "photo",
         "message": "Zaterdag was het tijd voor Kook en Stook bij de welpen. Het werden de lekkerste appelbollen van Den Bosch. En tijdens het wachten speelden we ook nog een paar gave spellen.",
@@ -248,5 +238,15 @@
         "media": "\/assets\/img\/news\/thumb_7908f407432251bb486eb8d8a52d5c26c9d8c245.jpg",
         "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/13451340_1301464226548683_171625668_n.mp4?efg=eyJybHIiOjMwNiwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=306&vabr=170&oh=205ef56307fbae69cdd68f162960237a&oe=57ED8A49",
         "hash": "7908f407432251bb486eb8d8a52d5c26c9d8c245"
+    },
+    {
+        "id": "479823012074705_1092387484151585",
+        "type": "photo",
+        "message": "Jungledag 2016! Samen avonturen beleven! Voor zowel de 180 welpen en de talloze stafleden was het een supervette middag.",
+        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.482177185172621.103497.479823012074705\/1092385510818449\/?type=3",
+        "date": "2016-05-31T11:56:19+0000",
+        "media": "\/assets\/img\/news\/thumb_4d54b783535ee6f8ee218239c2ba2aded99278e3.jpg",
+        "source": "https:\/\/graph.facebook.com\/1092385510818449\/picture\/?type=normal",
+        "hash": "4d54b783535ee6f8ee218239c2ba2aded99278e3"
     }
 ]
