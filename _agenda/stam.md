@@ -13,6 +13,7 @@ Stam Programma van September - November.
 | 23 sept | Ketting reactie
 | 30 sept | Karbiet schieten in de polder
 | 7 okt | Posters met Piotr
+| 9 okt | Zandscheppen (9.00 het Veulen)
 | 14 okt | Poolse worst maken
 | 21 okt | Klimmen en klauteren met Levi
 | 28 okt | Herfstvakantie - Geen opkomst
