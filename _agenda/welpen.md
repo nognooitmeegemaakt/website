@@ -12,7 +12,7 @@ Welpen Programma van September - Januari.
 | 8 okt |	Superspel
 | 15 okt |	Zijderoute Spel
 | 22 okt |	Theater in een doosje
-| 29 okt |	Halloweeninstructie
+| 29 okt |	~~Halloweeninstructie~~ Geen opkomst
 | 5 nov |	Spoorzoeken
 | 12 nov |	Bastion sport en spel
 | 19 nov |	Luxe lunch show
