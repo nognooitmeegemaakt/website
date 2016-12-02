@@ -18,7 +18,7 @@ Welpen Programma van September - Januari.
 | 19 nov |	Luxe lunch show
 | 26 nov |	Bos spel
 | 3 dec |	Sinterklaas spel
-| 10 dec |	Krant maken
+| 10 dec |	Scoutingtechnieken
 | 17 dec |	Kerstweekend
 | 18 dec |	Kerstweekend
 | 24 dec |	Geen opkomst
