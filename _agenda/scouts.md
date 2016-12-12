@@ -3,7 +3,7 @@ title: Scouts Programma
 layout: agenda
 ---
 
-Scouts Programma van September - December.
+Scouts Programma van December - Februari.
 
 {:.table}
 |-------|---------
