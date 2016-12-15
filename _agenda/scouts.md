@@ -10,6 +10,7 @@ Scouts Programma van December - Februari.
 | 13 dec | Voorbereiding kerstviering
 | 17 dec | Kerstviering (17:00 tot 22:30)
 | 20 dec | Casino door Henk & Simon
+| 24 dec | Oefenhike
 | 27 dec | Geen opkomst
 | 31 dec | Geen opkomst
 | 3 jan | Geen opkomst
