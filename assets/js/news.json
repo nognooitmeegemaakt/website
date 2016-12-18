@@ -1,12 +1,22 @@
 [
     {
+        "id": "479823012074705_1278723022184696",
+        "type": "video",
+        "message": "De ontknoping!",
+        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1278723022184696\/",
+        "date": "2016-12-18T10:37:53+0000",
+        "media": "\/assets\/img\/news\/thumb_666de5ebbdd773631305a2cee9dd9e904e793241.png",
+        "source": "https:\/\/www.facebook.com\/video\/playback\/playlist.m3u8?v=1278723022184696",
+        "hash": "666de5ebbdd773631305a2cee9dd9e904e793241"
+    },
+    {
         "id": "479823012074705_1278696428854022",
         "type": "video",
         "message": "Een bom bij de welpen?!?!",
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1278696428854022\/",
         "date": "2016-12-18T09:44:18+0000",
         "media": "\/assets\/img\/news\/thumb_c3dac7b211d4d02412d417079c14565bc66a9541.jpg",
-        "source": "https:\/\/scontent.xx.fbcdn.net\/v\/t42.1790-29\/15614431_393730677633692_3024769153870331904_n.mp4?efg=eyJybHIiOjEwMjcsInJsYSI6MTE1MiwidmVuY29kZV90YWciOiJzZCJ9&rl=1027&vabr=571&oh=9ab2882d5a14bc9a90549d7ba3644a22&oe=5857E6E3",
+        "source": "https:\/\/scontent.xx.fbcdn.net\/v\/t42.1790-29\/15614431_393730677633692_3024769153870331904_n.mp4?efg=eyJybHIiOjEwMjcsInJsYSI6MTE1MiwidmVuY29kZV90YWciOiJzZCJ9&rl=1027&vabr=571&oh=c6ceb4d8863aab85a22032c86b2349ba&oe=58588FA3",
         "hash": "c3dac7b211d4d02412d417079c14565bc66a9541"
     },
     {
@@ -56,7 +66,7 @@
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1210539659003033\/",
         "date": "2016-10-24T15:00:45+0000",
         "media": "\/assets\/img\/news\/thumb_adceafcf05802910814cb624003706946fbe8708.jpg",
-        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/14848634_807107929431924_765288817673371648_n.mp4?efg=eyJybHIiOjU0MywicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=543&vabr=302&oh=36e2b62837808793583f3628be6a315f&oe=5857E107",
+        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/14848634_807107929431924_765288817673371648_n.mp4?efg=eyJybHIiOjU0MywicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=543&vabr=302&oh=3ba9bedf0e8bd89c0caa3c719fcbd651&oe=585889C7",
         "hash": "adceafcf05802910814cb624003706946fbe8708"
     },
     {
@@ -228,15 +238,5 @@
         "media": "\/assets\/img\/news\/thumb_d3fa8239a56c43690a0e7487c601331f78b8f592.jpg",
         "source": "https:\/\/graph.facebook.com\/1132432120147121\/picture\/?type=normal",
         "hash": "d3fa8239a56c43690a0e7487c601331f78b8f592"
-    },
-    {
-        "id": "479823012074705_1132024763521190",
-        "type": "photo",
-        "message": "De Olympische Spelen in ons eigen jasje, plus alle Griekse sporten er bij. \ud83c\udfc6\ud83c\udfd4 #hardgaan #meedoeniswinnen",
-        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.551501818240157.1073741828.479823012074705\/1132022026854797\/?type=3",
-        "date": "2016-07-29T17:37:29+0000",
-        "media": "\/assets\/img\/news\/thumb_124dbc311c10eb421457d6aa19c62a8d506025f1.jpg",
-        "source": "https:\/\/graph.facebook.com\/1132022026854797\/picture\/?type=normal",
-        "hash": "124dbc311c10eb421457d6aa19c62a8d506025f1"
     }
 ]
