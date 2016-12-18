@@ -16,7 +16,7 @@
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1278723022184696\/",
         "date": "2016-12-18T10:37:53+0000",
         "media": "\/assets\/img\/news\/thumb_666de5ebbdd773631305a2cee9dd9e904e793241.jpg",
-        "source": "https:\/\/www.facebook.com\/video\/playback\/playlist.m3u8?v=1278723022184696",
+        "source": "https:\/\/scontent.xx.fbcdn.net\/v\/t42.1790-29\/15640065_349285218770450_8472401158382551040_n.mp4?efg=eyJybHIiOjEwMTEsInJsYSI6NTEyLCJ2ZW5jb2RlX3RhZyI6InNkIn0%3D&rl=1011&vabr=562&oh=1b43c8c936f7ef227a4ece7d8bf0a690&oe=585900B7",
         "hash": "666de5ebbdd773631305a2cee9dd9e904e793241"
     },
     {
@@ -228,5 +228,15 @@
         "media": "\/assets\/img\/news\/thumb_85902ed59cc43c55075b6393265a53c472d599ee.jpg",
         "source": "https:\/\/graph.facebook.com\/1148799298510403\/picture\/?type=normal",
         "hash": "85902ed59cc43c55075b6393265a53c472d599ee"
+    },
+    {
+        "id": "479823012074705_1135419149848418",
+        "type": "photo",
+        "message": "Het was weer een fantastische ervaring voor zowel welp als staf, Zomerkamp 2016. We zien jullie weer in het nieuwe seizoen!",
+        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.482177185172621.103497.479823012074705\/1135418793181787\/?type=3",
+        "date": "2016-08-03T08:58:23+0000",
+        "media": "\/assets\/img\/news\/thumb_cb9380d3585fbdd1c368454dcdabb4e24015ec48.jpg",
+        "source": "https:\/\/graph.facebook.com\/1135418793181787\/picture\/?type=normal",
+        "hash": "cb9380d3585fbdd1c368454dcdabb4e24015ec48"
     }
 ]
