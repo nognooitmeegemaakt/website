@@ -1,11 +1,21 @@
 [
     {
+        "id": "479823012074705_1278724872184511",
+        "type": "video",
+        "message": "De ontknoping",
+        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1278724872184511\/",
+        "date": "2016-12-18T10:41:24+0000",
+        "media": "\/assets\/img\/news\/thumb_b9e634766e1ea3bca5c576aad895b574e57b2132.jpg",
+        "source": "https:\/\/scontent.xx.fbcdn.net\/v\/t42.1790-29\/15651877_1867396753494442_6499932879324184576_n.mp4?efg=eyJybHIiOjEwNTQsInJsYSI6NTYxLCJ2ZW5jb2RlX3RhZyI6InNkIn0%3D&rl=1054&vabr=586&oh=d82eb922dc7ae2ae380d9e36eafde1ad&oe=5858EDBB",
+        "hash": "b9e634766e1ea3bca5c576aad895b574e57b2132"
+    },
+    {
         "id": "479823012074705_1278723022184696",
         "type": "video",
         "message": "De ontknoping!",
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1278723022184696\/",
         "date": "2016-12-18T10:37:53+0000",
-        "media": "\/assets\/img\/news\/thumb_666de5ebbdd773631305a2cee9dd9e904e793241.png",
+        "media": "\/assets\/img\/news\/thumb_666de5ebbdd773631305a2cee9dd9e904e793241.jpg",
         "source": "https:\/\/www.facebook.com\/video\/playback\/playlist.m3u8?v=1278723022184696",
         "hash": "666de5ebbdd773631305a2cee9dd9e904e793241"
     },
@@ -218,25 +228,5 @@
         "media": "\/assets\/img\/news\/thumb_85902ed59cc43c55075b6393265a53c472d599ee.jpg",
         "source": "https:\/\/graph.facebook.com\/1148799298510403\/picture\/?type=normal",
         "hash": "85902ed59cc43c55075b6393265a53c472d599ee"
-    },
-    {
-        "id": "479823012074705_1135419149848418",
-        "type": "photo",
-        "message": "Het was weer een fantastische ervaring voor zowel welp als staf, Zomerkamp 2016. We zien jullie weer in het nieuwe seizoen!",
-        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.482177185172621.103497.479823012074705\/1135418793181787\/?type=3",
-        "date": "2016-08-03T08:58:23+0000",
-        "media": "\/assets\/img\/news\/thumb_cb9380d3585fbdd1c368454dcdabb4e24015ec48.jpg",
-        "source": "https:\/\/graph.facebook.com\/1135418793181787\/picture\/?type=normal",
-        "hash": "cb9380d3585fbdd1c368454dcdabb4e24015ec48"
-    },
-    {
-        "id": "479823012074705_1132433013480365",
-        "type": "photo",
-        "message": "#bouzouki #sirtaki #souflaki #IkVoelMeZorbaDeGriek \n\nGezellige togaparty op de laatste avond met zelfgemaakte meze en sirtaki dansen rond het kampvuur!\n\nOm ongeveer half vijf zijn we weer terug op het troeplokaal.",
-        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.551501818240157.1073741828.479823012074705\/1132432120147121\/?type=3",
-        "date": "2016-07-30T06:58:52+0000",
-        "media": "\/assets\/img\/news\/thumb_d3fa8239a56c43690a0e7487c601331f78b8f592.jpg",
-        "source": "https:\/\/graph.facebook.com\/1132432120147121\/picture\/?type=normal",
-        "hash": "d3fa8239a56c43690a0e7487c601331f78b8f592"
     }
 ]
