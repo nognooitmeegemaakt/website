@@ -51,7 +51,9 @@ html {
 }
 
 .callout {
-  margin-bottom: 5em !important;
+  @media #{$mq-medium} {
+    margin-bottom: 5em !important;
+  }
 }
 
 /* Navbar. */
