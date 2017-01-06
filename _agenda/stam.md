@@ -1,6 +1,7 @@
 ---
 title: Stam Programma
 layout: agenda
+category: agenda
 ---
 
 Stam Programma van September - November.

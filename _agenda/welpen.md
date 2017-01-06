@@ -1,6 +1,7 @@
 ---
 title: Welpen Programma
 layout: agenda
+category: agenda
 ---
 
 Welpen Programma van Januari - Juli.
