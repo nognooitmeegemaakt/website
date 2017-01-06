@@ -3,26 +3,35 @@ title: Welpen Programma
 layout: agenda
 ---
 
-Welpen Programma van September - Januari.
+Welpen Programma van Januari - Juli.
 
 {:.table}
 |-------|---------
-| 24 sept |	Koken en Stoken met pompoen
-| 1 okt |	English Program
-| 8 okt |	Superspel
-| 15 okt |	Zijderoute Spel
-| 22 okt |	Theater in een doosje
-| 29 okt |	~~Halloweeninstructie~~ Geen opkomst
-| 5 nov |	Spoorzoeken
-| 12 nov |	Bastion sport en spel
-| 19 nov |	Luxe lunch show
-| 26 nov |	Bos spel
-| 3 dec |	Sinterklaas spel
-| 10 dec |	Scoutingtechnieken
-| 17 dec |	Kerstweekend
-| 18 dec |	Kerstweekend
-| 24 dec |	Geen opkomst
-| 31 dec |	Geen opkomst
-| 7 jan |	Geen opkomst
-| 13 jan |	Nieuwjaarsborrel (avond)
-| 14 jan |	Spel in de bossen
+| 13 jan | Nieuwjaarsreceptie (avond)
+| 14 jan | Spel in het bos
+| 21 jan | Stad speurtocht
+| 28 jan | Handel spel
+| 4 feb | Hutten bouwen
+| 11 feb | Chemische proefjes
+| 18 feb | Krant maken
+| 25 feb | Oliebollenfantengeloop
+| 4 mrt | Geen troep
+| 11 mrt | Casinotrefbalslag
+| 18 mrt | Spionnenspel in de stad
+| 25 mrt | Handel spel
+| 1 apr | Yukigassen
+| 8 apr | Vlieger maken
+| 15 apr | Paaseirenrace
+| 22 apr | Geen troep
+| 29 apr | Apekooien
+| 6 mei | Natuurkoken
+| 13 mei | Bossche Scouting Dag 2017
+| 20 mei | Varen op een boot
+| 27 mei | Instructiespel
+| 3 jun | Ouder Welp Weekend
+| 10 jun | Volkstuintjes Amazones
+| 17 jun | Paarden/koeienfokkerij Bezoeken
+| 24 jun | Openluchttheater
+| 1 jul | Openluchttheater
+| 8 jul | De Waterspelen
+| 16 jul | Zomerkamp Welpen
