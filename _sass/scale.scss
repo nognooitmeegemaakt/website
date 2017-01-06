@@ -31,12 +31,25 @@ html {
   font-size: 4.5em;
   margin-top: 0;
 
+  img {
+    height: .8em;
+    width: auto;
+    margin-top: .2em;
+    margin-left: .5em;
+  }
+
   @media #{$mq-small} {
     font-size: 3em;
+    img {
+      height: .8em;
+    }
   }
 
   @media #{$mq-medium} {
     font-size: 3.5em;
+    img {
+      height: .8em;
+    }
   }
 
   @media #{$mq-large} {
