@@ -476,6 +476,11 @@ html {
 
 .callout p {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  a {
+    color: $brand-color;
+    text-decoration: underline;
+  }
 }
 
 @media (max-width: 768px) {

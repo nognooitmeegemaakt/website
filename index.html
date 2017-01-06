@@ -17,6 +17,7 @@ title: Home
 
 <div class="row callout">
   <div class="col-lg-5 col-md-8 col-sm-12 col-xs-12">
-    {% include text/index-callout.html %}
+    {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
+    {{ filecontents | markdownify }}
   </div>
 </div>
