@@ -1,5 +1,6 @@
 {% assign c = page.category %}
 {% assign g = page.group %}
+{% assign a = page.agenda %}
         <nav class="navbar navbar-inverse navbar-fixed-bottom">
           <div class="container-fluid">
 
@@ -37,10 +38,10 @@
                   </a>
                   <ul class="dropdown-menu">
                     <li>Kies een speltak</li>
-                    <li{% if g == "welpen" %} class="active"{% endif %}><a href="/programma/welpen">Welpen</a></li>
-                    <li{% if g == "gidsen" %} class="active"{% endif %}><a href="/programma/gidsen">Gidsen</a></li>
-                    <li{% if g == "scouts" %} class="active"{% endif %}><a href="/programma/scouts">Scouts</a></li>
-                    <li{% if g == "stam" %} class="active"{% endif %}><a href="/programma/stam">Stam</a></li>
+                    <li{% if a == "welpen" %} class="active"{% endif %}><a href="/programma/welpen">Welpen</a></li>
+                    <li{% if a == "gidsen" %} class="active"{% endif %}><a href="/programma/gidsen">Gidsen</a></li>
+                    <li{% if a == "scouts" %} class="active"{% endif %}><a href="/programma/scouts">Scouts</a></li>
+                    <li{% if a == "stam" %} class="active"{% endif %}><a href="/programma/stam">Stam</a></li>
                   </ul>
                 </li>
 

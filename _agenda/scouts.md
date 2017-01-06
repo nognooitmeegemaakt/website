@@ -2,6 +2,7 @@
 title: Scouts Programma
 layout: agenda
 category: agenda
+agenda: scouts
 ---
 
 Scouts Programma van December - Februari.
