@@ -103,5 +103,10 @@ nav {
 }
 
 .notice {
-  font-size: .6em !important;
+
+  font-size: 1em;
+
+  @media #{$mq-small} {
+    font-size: .6em;
+  }
 }
