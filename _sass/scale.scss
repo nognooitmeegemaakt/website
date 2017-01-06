@@ -97,9 +97,11 @@ nav {
 /* Contact page. */
 .contact-mails {
   font-size: 1em;
-
   @media #{$mq-medium} {
     font-size: .6em;
   }
+}
 
+.notice {
+  font-size: .6em !important;
 }
