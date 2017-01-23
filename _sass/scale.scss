@@ -117,15 +117,15 @@ nav {
 
   /* responsive displays */
   @media #{$mq-max-xsmall} {
-    font-size: 1rem !important;
+    font-size: 1rem;
   }
   @media #{$mq-xsmall} {
-    font-size: 1.3rem !important;
+    font-size: 1.3rem;
   }
   @media #{$mq-small} {
-    font-size: 0.9rem !important;
+    font-size: 0.9rem;
   }
   @media #{$mq-large} {
-    font-size: 1.3rem !important;
+    font-size: 1.3rem;
   }
 }
