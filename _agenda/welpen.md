@@ -11,7 +11,7 @@ Welpen Programma van Januari - Juli.
 |-------|---------
 | 13 jan | Nieuwjaarsreceptie (avond)
 | 14 jan | Spel in het bos
-| 21 jan | Stad speurtocht
+| 21 jan | Casinotrefbalslag
 | 28 jan | Handel spel
 | 4 feb | Hutten bouwen
 | 11 feb | Chemische proefjes
