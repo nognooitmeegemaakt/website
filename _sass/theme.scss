@@ -386,7 +386,6 @@ html {
   margin-top: 20px;
   background-color: #3b5998;
   border-color: #3b5998;
-  font-size: 20px;
   width: 100%;
 }
 
@@ -453,7 +452,8 @@ html {
   padding: 0;
 }
 
-.news-fb > a {
+
+.news-fb > a:not(.btn-fb) { /* Make sure to exclude the btn-fb as it's font size is determined in scale.scss */
   margin-top: 0;
   font-size: 0.9rem;
 }

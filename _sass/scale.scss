@@ -110,3 +110,22 @@ nav {
     font-size: .6em;
   }
 }
+
+/* Facebook button (news page & contact page) */
+.btn-fb {
+  font-size: 0.9rem;
+
+  /* responsive displays */
+  @media #{$mq-max-xsmall} {
+    font-size: 1rem;
+  }
+  @media #{$mq-xsmall} {
+    font-size: 1.3rem;
+  }
+  @media #{$mq-small} {
+    font-size: 0.9rem;
+  }
+  @media #{$mq-large} {
+    font-size: 1.3rem;
+  }
+}
