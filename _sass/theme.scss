@@ -357,6 +357,10 @@ html {
   width: 100%;
 }
 
+.news-item .image {
+  min-height: 222px;
+}
+
 .news-item h5 {
   text-transform: uppercase;
   font-size: 36px;
@@ -365,7 +369,7 @@ html {
 }
 
 .news .content {
-  height: 150px;
+  min-height: 150px;
   text-overflow: ellipsis;
   overflow: hidden;
   font-family: "Raleway", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
