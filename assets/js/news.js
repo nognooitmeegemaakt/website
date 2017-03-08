@@ -69,6 +69,7 @@ function initNews() {
       </div>\
     </div>\
     ');
+    shave('.news-item:not(.see-more) .content', 150)
   });
 }
 
@@ -134,29 +135,4 @@ function expandNewsItem(post_id) {
 /* Close expanded news on back button click. */
 $(".expanded-news").on("click", ".news-close", function() {
   $(".expanded-news").hide();
-});
-
-/* Apply special scrollbar only to desktops without touch. */
-if (!is_touch_device()) {
-  /*$("head").append('\
-  <style>\
-    ::-webkit-scrollbar {\
-      width: 12px;\
-      background-color: #222;\
-    }\
-    ::-webkit-scrollbar-thumb {\
-      background-color: #ff8b00;\
-    }\
-  </style>\
-  ');*/
-}
-
-/* Horizontal scrolling for desktop. */
-$.getScript("/../assets/js/jquery.mousewheel.min.js", function() {
-  /*$(".news > .row").mousewheel(function(event, delta) {
-    if (!is_touch_device() && !(navigator.platform.toUpperCase().indexOf('MAC')>=0)) {
-      this.scrollLeft -= (delta * 30);
-      event.preventDefault();
-    }
-  });*/
 });
