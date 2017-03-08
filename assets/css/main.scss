@@ -51,7 +51,7 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)";
 $mq-max-xsmall: "(max-width: #{$bp-xsmall})";
 
 // Import fonts.
-@import "https://fonts.googleapis.com/css?family=Open+Sans|Special+Elite|Raleway";
+@import "https://fonts.googleapis.com/css?family=Ek+Mukta:200|Open+Sans|Special+Elite|Raleway";
 
 // Import files from sass directory.
-@import "theme", "bootstrap-modifications", "scale";
+@import "theme", "bootstrap-modifications", "scale", "mobile-nav";

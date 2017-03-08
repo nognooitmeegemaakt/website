@@ -23,3 +23,11 @@ $(".speltak-open a").on("click", function() {
 $(".speltak-close").on("click", function() {
   $(".speltak-mobile").fadeOut("fast")
 })
+
+
+var burger = document.querySelector('.burger-container'),
+header = document.querySelector('.nav-mob-header');
+
+burger.onclick = function() {
+  header.classList.toggle('menu-opened');
+}
