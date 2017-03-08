@@ -54,4 +54,4 @@ $mq-max-xsmall: "(max-width: #{$bp-xsmall})";
 @import "https://fonts.googleapis.com/css?family=Open+Sans|Special+Elite|Raleway";
 
 // Import files from sass directory.
-@import "theme", "bootstrap-modifications", "scale";
+@import "theme", "bootstrap-modifications", "scale", "mobile-nav";
