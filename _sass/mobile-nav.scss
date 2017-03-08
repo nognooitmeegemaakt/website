@@ -20,13 +20,14 @@ $menuItems: 7;
         display: block;
         top: 0;
         left: 0;
-        height: 50px;
+        height: 55px;
         width: 100%;
-        background: rgba(#000,0.8);
+        background: #101010;
         overflow: hidden;
         transition: all 0.5s ease-out, background 1s ease-out;
         transition-delay: 0.2s;
         z-index: 1;
+        border-top: 5px solid $brand-color;
         .burger-container {
             position: relative;
             display: inline-block;
@@ -91,7 +92,7 @@ $menuItems: 7;
             list-style: none;
             z-index: -1;
             li.menu-item {
-                border-bottom: 1px solid #333;
+                border-bottom: 1px solid #5a5a5a;
                 margin-top: 5px;
                 transform: scale(1.15) translateY(-30px);
                 opacity: 0;
@@ -117,7 +118,7 @@ $menuItems: 7;
         }
         &.menu-opened {
             height: 100%;
-            background-color: #000;
+            background-color: #333;
             transition: all 0.3s ease-in, background 0.5s ease-in;
             transition-delay: 0.25s;
             .burger-container {
