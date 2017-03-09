@@ -15,11 +15,12 @@
 
 /* Basic stuff. */
 html, body {
-  background-color: transparent;
+  background-color: #222;
   font-family: $font-family;
   color: $text-color;
   font-size: $font-size;
   /*height: 130%;*/
+  overflow-x: hidden;
 }
 
 body {
@@ -208,10 +209,15 @@ html {
 
 /* Header. */
 .header {
-  margin: $spacing-unit;
-  margin-top: 0;
-  padding-top: $spacing-unit;
+  padding: 2em;
   text-transform: uppercase;
+
+  background-size: cover;
+  background-position: 40%;
+
+  h1 {
+    margin: 0;
+  }
 }
 
 .header img {
@@ -232,7 +238,7 @@ html {
 /* Everything below sm. */
 @media (max-width: 768px) {
   .header {
-    margin: $spacing-unit-sm;
+    margin-top: $spacing-unit-sm * 3;
     text-align: center;
   }
   .header img {
@@ -284,16 +290,7 @@ html {
    *********************** */
 
 .news {
-  margin: $spacing-unit;
-  margin-top: -25px !important;
-  margin-bottom: 5em;
-}
-
-.news > .row-horizon {
-  padding-top: 30px;
-  /*overflow-y: scroll;*/
-  -webkit-overflow-scrolling: touch;
-  margin-bottom: 40px;
+  padding: $spacing-unit;
 }
 
 .news-item:hover {
@@ -322,10 +319,6 @@ html {
 
 .news-item .image img {
   width: 100%;
-}
-
-.news-item .image {
-  min-height: 222px;
 }
 
 .news-item h5 {
@@ -473,30 +466,12 @@ html {
         Contact Page.
    *************************** */
 
-.contact {
-  margin-bottom: 5em;
-}
-
 .contact-info h2 {
   font-weight: bold;
 }
 
-.contact-maps {
-  margin: -2em;
-  margin-top: 2em;
-  margin-bottom: -3.2em;
-}
-
 .contact-mails tr > td:first-of-type {
-  //@media #{$mq-medium} {
-    padding-right: 1em;
-  //}
-}
-
-@media (max-width: 768px) {
-  .contact {
-    margin-bottom: 5em;
-  }
+  padding-right: 1em;
 }
 
  /* ***************************
@@ -507,12 +482,11 @@ html {
   padding: 2em;
   background: $brand-dark;
   border-top: 8px solid $brand-color;
-  margin-bottom: 5em;
-}
-
-.description .images {
-  margin: -2em;
-  margin-top: 2em;
+  //margin-bottom: 5em;
+  p {
+    margin-bottom: 20px;
+    line-height: 1.4 !important;
+  }
 }
 
 .description .images img {

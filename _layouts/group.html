@@ -16,28 +16,27 @@
       </section>
 
       <section id="content">
-        {% if page.category != 'index' %}
+
         <div class="header">
-          <div class="col-sm-12">
-            <h1><img class="hidden-xs" src='{{ site.logo }}'>{{ page.title }}</h1>
-          </div>
+          <h1>{{ page.title }}</h1>
         </div>
-        {% endif %}
+
         <div class="description">
-          <div class="text col-lg-7 col-lg-offset-4 col-md-7 col-md-offset-4 col-sm-10 col-sm-offset-1 col-xs-12">
-            <div data-file="text/{{ page.group }}.md">
-              {% assign file = "text/" | append: page.group | append: ".md" %}
-              {% capture filecontents %}{% include {{file}} %}{% endcapture %}
-              {{ filecontents | markdownify }}
-            </div>
-            <div class="images">
+          <div class="text row">
+            <div class="col-md-6 images">
               <div id="carousel" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators"></ol>
                 <div class="carousel-inner" role="listbox"></div>
               </div>
             </div>
+            <div class="col-md-6" data-file="text/{{ page.group }}.md">
+              {% assign file = "text/" | append: page.group | append: ".md" %}
+              {% capture filecontents %}{% include {{file}} %}{% endcapture %}
+              {{ filecontents | markdownify }}
+            </div>
           </div>
         </div>
+
       </section>
 
       {% include scripts.html %}
