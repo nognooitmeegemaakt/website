@@ -11,6 +11,9 @@
     </head>
     <body>
       <!--//<section id="background"></section>//-->
+      <section id="navbar">
+        {% include navbar.html %}
+      </section>
       <section id="content">
         {% if page.category != 'index' %}
         <div class="row header">
@@ -20,9 +23,6 @@
         </div>
         {% endif %}
         {{ content }}
-      </section>
-      <section id="navbar">
-        {% include navbar.html %}
       </section>
       {% include scripts.html %}
     </body>

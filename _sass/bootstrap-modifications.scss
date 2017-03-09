@@ -3,6 +3,12 @@
         bootstrap-modifications.scss
     ====================================== */
 
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+  border: none;
+}
+
 .navbar-inverse .navbar-nav>.active>a,
 .navbar-inverse .navbar-nav>.active>a:focus,
 .navbar-inverse .navbar-nav>.active>a:hover {

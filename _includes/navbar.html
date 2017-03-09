@@ -1,6 +1,8 @@
 {% assign c = page.category %}
 {% assign g = page.group %}
 {% assign a = page.agenda %}
+
+        <!--// Mobile navigation. //-->
         <div class="window visible-xs">
           <div class="nav-mob-header">
             <div class="burger-container">
@@ -19,23 +21,13 @@
             </ul>
           </div>
         </div>
-        <nav class="navbar navbar-inverse navbar-fixed-bottom hidden-xs">
+
+        <!--// Desktop navigation. //-->
+        <nav class="navbar navbar-inverse hidden-xs">
           <div class="container-fluid">
-
-            <div class="navbar-header">
-              <div class="visible-xs">
-                <!--//<ul class="navbar-mobile">
-                  <li{% if c == "index" %} class="active"{% endif %}><a href="/">Home</a></li>
-                  <li class="type-groepen speltak-open{% if c == 'group' %} active{% endif %}"><a href="#" class="btn-select-group">Groepen</a></li>
-                  <li{% if c == "news" %} class="active"{% endif %}><a href="/nieuws">Nieuws</a></li>
-                  <li class="type-agenda speltak-open{% if c == 'agenda' %} active{% endif %}"><a href="#">Programma</a></li>
-                  <li{% if c == "contact" %} class="active"{% endif %}><a href="/contact">Contact</a></li>
-                </ul>//-->
-              </div>
-            </div>
-
             <div class="collapse navbar-collapse" id="navbar-main">
               <ul class="nav navbar-nav">
+                {% unless page.category == "index" %}<li><img class="hidden-xs" style="max-height: 66px;" src='{{ site.logo }}'></li>{% endunless %}
                 <li{% if c == "index" %} class="active"{% endif %}><a href="/">Home</a></li>
                 <li class="dropdown{% if c == 'group' %} active{% endif %}">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
