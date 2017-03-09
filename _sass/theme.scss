@@ -23,7 +23,6 @@ html, body {
 }
 
 body {
-  /*background-color: $background-color;*/
   position: relative;
   width: 100%;
 }
@@ -61,18 +60,13 @@ nav {
   text-transform: uppercase;
   background-color: $brand-dark !important;
   border-top: $brand-border solid $brand-color !important;
-  /*padding-top: 10px;
-  padding-bottom: 10px;*/
-  /*font-size: 18px;*/
 }
 
 .dropdown-menu>li>a {
-  /*font-size: 17px;*/
   color: #9d9d9d;
 }
 
 .dropdown-menu> li:first-of-type {
-  /*font-size: 12px;*/
   text-align: center;
   color: $brand-light;
   padding-bottom: 5px;
@@ -189,7 +183,6 @@ ul.dropdown-menu {
 
 .speltak-mobile .row > div:hover a,
 .speltak-mobile .row > div.active a {
-  //text-decoration: underline !important;
   text-shadow: 0px 2px 3px #555;
 }
 
@@ -249,12 +242,8 @@ html {
     margin-left: -100px;
   }
   .header h1.title {
-    /*font-size: 47px;*/
     text-align: left;
     margin-top: 50px;
-  }
-  section#background {
-    /*position: fixed;*/
   }
 }
 
@@ -262,9 +251,6 @@ html {
 @media (min-width: 1024px) {
   .header img {
     max-width: 200px;
-  }
-  .header h1.title {
-    /*font-size: 75px !important;*/
   }
 }
 
@@ -274,7 +260,6 @@ html {
     margin-top:  40px;
   }
   .header h1.title {
-    /*font-size: 64px !important;*/
     margin-top: 27px;
     margin-bottom: 100px;
     margin-left: 223px;
@@ -288,27 +273,9 @@ html {
 @media (min-width: 768px) {
   .header h1.title {
     margin-left: 50px;
-    /*font-size: 67px !important;*/
   }
   .header img {
     width: 200px;
-  }
-}
-
-/* Very small viewports. */
-@media (max-width: 340px) {
-  .header h1.title {
-    /*font-size: 38px !important;*/
-  }
-}
-@media (max-width: 370px) {
-  .header h1.title {
-    /*font-size: 42px;*/
-  }
-}
-@media (min-width: 425px) {
-  .header h1.title {
-    /*font-size: 52px;*/
   }
 }
 
