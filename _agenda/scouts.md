@@ -36,7 +36,7 @@ Scouts Programma van mrt - junii.
 | 30 mei | Opruimen RSW
 | 3 juni | Trampoline paradijs
 | 6 juni | Programma maken
-| 10 juni | Herbarium maken
+| 10 juni | Herbarium maken met Lucas en Niels
 | 13 juni | Ereraad
 
 _* Gymzaal wordt gehuurd door de Staf, maar de spellen worden bedacht door Lans & Henk._
