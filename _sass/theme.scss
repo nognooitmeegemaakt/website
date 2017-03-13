@@ -438,6 +438,10 @@ html {
 .callout {
   padding: $spacing-unit;
   border-top: $brand-border solid $brand-color;
+
+  img {
+    margin-bottom: 30px;
+  }
 }
 
 .callout p {
