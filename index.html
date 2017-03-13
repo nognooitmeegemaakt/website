@@ -16,8 +16,30 @@ title: Home
 </div>
 
 <div class="row callout">
-  <div class="col-lg-5 col-md-8 col-sm-12 col-xs-12">
-    {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
-    {{ filecontents | markdownify }}
+
+  <div class="container grid-custom">
+    <div class="row">
+      <div class="callout-text col-sm-6">
+        {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
+        {{ filecontents | markdownify }}
+      </div>
+      <div class="row col-md-6">
+        <div class="col-xs-6"><img src="/assets/img/social/activities/welpen_groep2.jpg" alt="" class="img-responsive"></div>
+        <div class="col-xs-6"><img src="/assets/img/social/activities/gidsen_brug.jpg" alt="" class="img-responsive"></div>
+        <div class="col-xs-6"><img src="/assets/img/social/activities/scouts_zipline.jpg" alt="" class="img-responsive"></div>
+        <div class="col-xs-6"><img src="/assets/img/social/activities/welpen_installatie.jpg" alt="" class="img-responsive"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="row col-md-6">
+        <div class="col-xs-6"><img src="/assets/img/social/activities/stam_hike.jpg" alt="" class="img-responsive"></div>
+        <div class="col-xs-6"><img src="/assets/img/social/activities/welpen_apekooi2.jpg" alt="" class="img-responsive"></div>
+        <div class="col-xs-6"><img src="/assets/img/social/activities/gidsen_stadsmuur.jpg" alt="" class="img-responsive"></div>
+        <div class="col-xs-6"><img src="/assets/img/social/activities/scouts_rsw.jpg" alt="" class="img-responsive"></div>
+      </div>
+      <div class="col-md-6">
+        <img src="/assets/img/social/activities/gidsen_kampvuur.jpg" alt="" class="img-responsive center-block">
+      </div>
+    </div>
   </div>
 </div>

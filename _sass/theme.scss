@@ -438,10 +438,16 @@ html {
 .callout {
   padding: $spacing-unit;
   border-top: $brand-border solid $brand-color;
+
+  img, .callout-text {
+    margin-bottom: 30px;
+  }
 }
 
 .callout p {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.4em;
+  padding-bottom: .5em;
 
   a {
     color: $brand-color;
