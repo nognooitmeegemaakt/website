@@ -8,3 +8,8 @@
 | Stam           |  [Syquin van den Berg](mailto:syquin@nognooitmeegemaakt.nl)  |
 |||
 | Webmaster      |  [Sander Laarhoven](mailto:sander@nognooitmeegemaakt.nl)     |
+
+[ Stuur Bericht op Facebook ](https://m.me/nognooitmeegemaakt){:.btn .btn-primary .btn-fb}{:target='_blank_'}
+
+{:.notice}
+**Ons groepsgebouw is niet beschikbaar voor verhuur.**

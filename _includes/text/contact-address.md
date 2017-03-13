@@ -1,15 +1,10 @@
 ## Scouting Groep P&P
 
-#### Stichting Scouting Groep Petrus en Paulus  
-
-> KvK 16090087  
-RSIN 806665373
+### Stichting Scouting Groep Petrus en Paulus  
 
 Kruisbroedershof 29  
-5211 GX 's-Hertogenbosch  
+5211GX Den Bosch  
 
-
-[ Stuur Bericht op Facebook ](https://m.me/nognooitmeegemaakt){:.btn .btn-primary .btn-fb}{:target='_blank_'}
-
-{:.notice}
-**Ons groepsgebouw is niet beschikbaar voor verhuur.**
+{:.monospace}
+| KvK   | 16090087  
+| RSIN  | 806665373
