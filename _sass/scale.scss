@@ -27,9 +27,12 @@ html {
 }
 
 /* Landing page. */
+.header h1.title {
+  margin-top: .3em;
+}
 .header h1 {
   font-size: 4.5em;
-  margin-top: .2em;
+
 
   img {
     height: .8em;

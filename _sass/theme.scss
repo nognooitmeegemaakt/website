@@ -436,7 +436,8 @@ html {
    ************************ */
 
 .callout {
-  margin: $spacing-unit;
+  padding: $spacing-unit;
+  border-top: $brand-border solid $brand-color;
 }
 
 .callout p {
@@ -457,7 +458,7 @@ html {
     padding: 28px;
     margin: 0 -15px;
     background-color: $background-color;
-    border-top: $brand-border solid $brand-color;
+
   }
 }
 
