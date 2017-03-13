@@ -250,7 +250,7 @@ html {
   }
   .header h1.title {
     text-align: left;
-    margin-top: 50px;
+    //margin-top: 50px;
   }
 }
 
@@ -455,8 +455,7 @@ html {
     margin: 15px;*/
     padding-top: 10px;
     padding: 28px;
-    margin: -15px;
-    margin-top: 15px;
+    margin: 0 -15px;
     background-color: $background-color;
     border-top: $brand-border solid $brand-color;
   }
