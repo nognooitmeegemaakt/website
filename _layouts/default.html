@@ -11,18 +11,16 @@
     </head>
     <body>
       <!--//<section id="background"></section>//-->
+      <section id="navbar">
+        {% include navbar.html %}
+      </section>
       <section id="content">
         {% if page.category != 'index' %}
-        <div class="row header">
-          <div class="col-sm-12">
-            <h1>{{ page.title }}</h1>
-          </div>
+        <div class="header">
+          <h1>{{ page.title }}</h1>
         </div>
         {% endif %}
         {{ content }}
-      </section>
-      <section id="navbar">
-        {% include navbar.html %}
       </section>
       {% include scripts.html %}
     </body>

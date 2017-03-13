@@ -6,8 +6,22 @@ permalink: /contact/
 ---
 <div class="contact">
   <div class="description">
-    <div class="text col-lg-7 col-lg-offset-4 col-md-7 col-md-offset-4 col-sm-8 col-sm-offset-2">
-      {% include text/contact.html %}
+    <div class="text">
+      <div class="contact-info">
+        <div class="col-md-6 col-sm-12" data-file="text/contact-address.md">
+          {% capture filecontents %}{% include text/contact-address.md %}{% endcapture %}
+          {{ filecontents | markdownify }}
+        </div>
+        <div class="col-md-6 col-sm-12 contact-mails" data-file="text/contact-mails.md">
+          {% capture filecontents %}{% include text/contact-mails.md %}{% endcapture %}
+          {{ filecontents | markdownify }}
+        </div>
+      </div>
+    </div>
+    <div class="contact-maps">
+      <iframe width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2473.5749785481416!2d5.297271916263225!3d51.685922379664774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x44ed948ce55cefd9!2sStichting+Scouting+Groep+Petrus+en+Paulus!5e0!3m2!1snl!2snl!4v1466241208518">
+      </iframe>
     </div>
   </div>
 </div>
