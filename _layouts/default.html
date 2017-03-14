@@ -18,5 +18,8 @@
         {{ content }}
       </section>
       {% include scripts.html %}
+      {% if page.category == 'news' %}
+      <script src="{{ site.domain }}/assets/js/shave.min.js"></script>
+      {% endif %}
     </body>
   </html>
