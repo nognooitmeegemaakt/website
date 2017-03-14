@@ -17,19 +17,19 @@ Welpen Programma van Januari - Juli.
 | 11 feb | Chemische proefjes
 | 18 feb | Krant maken
 | 25 feb | Oliebollenfantengeloop
-| 4 mrt | Geen troep
-| 11 mrt | Casinotrefbalslag
-| 18 mrt | Spionnenspel in de stad
-| 25 mrt | Handel spel
-| 1 apr | Yukigassen
+| 4 mrt | Geen bijeenkomst
+| 11 mrt | ~~Casinotrefbalslag~~ Stadspeurtocht
+| 18 mrt | Scoutingtechnieken
+| 25 mrt | ~~Handel spel~~ Yukigassen
+| 1 apr | ~~Yukigassen~~ Sjakie en de Chocolade Fabriek
 | 8 apr | Vlieger maken
 | 15 apr | Paaseirenrace
-| 22 apr | Geen troep
-| 29 apr | Apekooien
+| 22 apr | Geen bijeenkomst
+| 29 apr | ~~Apekooien~~ Geen bijeenkomst
 | 6 mei | Natuurkoken
 | 13 mei | Bossche Scouting Dag 2017
-| 20 mei | Varen op een boot
-| 27 mei | Instructiespel
+| 20 mei | Varen op een boot (9:00 - 11:00)
+| 27 mei | ~~Instructiespel~~ Spionnenspel in de stad
 | 3 jun | Ouder Welp Weekend
 | 10 jun | Volkstuintjes Amazones
 | 17 jun | Paarden/koeienfokkerij Bezoeken
