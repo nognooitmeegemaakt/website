@@ -15,6 +15,7 @@
         </div>
         <div class="description agenda">
           <div class="text">
+            <div class="pull-right"><a id="print-button" class="btn btn-lg btn-orange" href="#">Download PDF</a></div>
             <div data-file="agenda/{{ page.group }}.md">
               {% capture filecontents %}{{ content }}{% endcapture %}
               {{ filecontents | markdownify }}
@@ -23,6 +24,7 @@
         </div>
       </section>
       {% include scripts.html %}
-
+      <script src="{{ site.domain }}/assets/js/jspdf.min.js"></script>
+      <script src="{{ site.domain }}/assets/js/jspdf.plugin.autotable.min.js"></script>
     </body>
   </html>
