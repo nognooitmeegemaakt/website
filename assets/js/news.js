@@ -56,6 +56,9 @@ function initNews() {
           <div class="image">'+media+'</div>\
         </div>\
       </div>');
+      if ((index+1) % 3 === 0) {
+        $(".news > .row").append('<div class="clearfix hidden-xs-block"></div>')
+      }
     });
     $(".news > .row").append('\
     <div class="news-item see-more col-xs-12 col-sm-4 col-md-4 col-lg-4">\
