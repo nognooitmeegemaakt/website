@@ -5,7 +5,7 @@ category: agenda
 agenda: scouts
 ---
 
-Scouts Programma van mrt - junii.
+Scouts Programma van maart - juni.
 
 {:.table}
 |-------|---------
