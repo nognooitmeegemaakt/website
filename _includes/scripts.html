@@ -1,8 +1,6 @@
 <script src="{{ site.domain }}/assets/js/jquery.min.js"></script>
       <script src="{{ site.domain }}/assets/js/bootstrap.min.js"></script>
-      <script src="{{ site.domain }}/assets/js/shave.min.js"></script>
       <script src="{{ site.domain }}/assets/js/backgrounds.js"></script>
-      <script src="{{ site.domain }}/assets/js/showcase.js"></script>
       <script src="{{ site.domain }}/assets/js/speltak.js"></script>
       {% for static_file in site.static_files %}{% capture page_js_path %}{{ "/assets/js/" }}{{ page.category }}{{ ".js" }}{% endcapture %}{% if static_file.path == page_js_path %}<script src="{{ site.domain }}/assets/js/{{ page.category }}.js?build={{ site.github.build_revision }}"></script>{% endif %}{% endfor %}
 

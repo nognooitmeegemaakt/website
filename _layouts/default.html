@@ -1,10 +1,5 @@
 <!DOCTYPE html>
-  <!--//
-    {{ site.title }} v{{ site.version }}
-    {{ site.copyright }}
-    By {{ site.author }}
-    GitHub Pages Build {{ site.github.build_revision }}
-  //-->
+  {% include comment.html %}
   <html lang="nl">
     <head>
       {% include head.html %}
@@ -23,5 +18,8 @@
         {{ content }}
       </section>
       {% include scripts.html %}
+      {% if page.category == 'news' %}
+      <script src="{{ site.domain }}/assets/js/shave.min.js"></script>
+      {% endif %}
     </body>
   </html>
