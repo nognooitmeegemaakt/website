@@ -7,6 +7,8 @@ agenda: welpen
 
 Welpen Programma van Januari - Juli.
 
+Aangepast op 1 mei 2017
+
 {:.table}
 |-------|---------
 | 13 jan | Nieuwjaarsreceptie (avond)
@@ -27,12 +29,12 @@ Welpen Programma van Januari - Juli.
 | 22 apr | Geen bijeenkomst
 | 29 apr | Geen bijeenkomst
 | 6 mei | Natuurkoken
-| 13 mei | Bossche Scouting Dag 2017
-| 20 mei | Varen op een boot (9:00 - 11:00)
-| 27 mei | Spionnenspel in de stad
+| 13 mei | Bossche Scouting Dag 2017 (12:30 - 17:00)
+| 20 mei | Varen met Dolfijnen (9:00 - 11:00) + Tienerdag
+| 27 mei | Spionnenspel in de stad + Installaties
 | 3 jun | Ouder Welp Weekend
-| 10 jun | Volkstuintjes Amazones
-| 17 jun | Paarden/koeienfokkerij Bezoeken
+| 10 jun | Jungledag 2017 (13:00 - 16:00)
+| 17 jun | Champignonkwekerij bezoeken
 | 24 jun | Openluchttheater
 | 1 jul | Openluchttheater
 | 8 jul | De Waterspelen
