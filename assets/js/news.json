@@ -1,5 +1,15 @@
 [
     {
+        "id": "479823012074705_1454741531249510",
+        "type": "photo",
+        "message": "Afgelopen zaterdag een bezoek gebracht aan Zeeverkennersgroep Sint Joris.",
+        "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.551501818240157.1073741828.479823012074705\/1454741397916190\/?type=3",
+        "date": "2017-05-23T11:30:34+0000",
+        "media": "\/assets\/img\/news\/thumb_8a44f50a5b7271ee451b0f6e652317150c0ac7da.jpg",
+        "source": "https:\/\/graph.facebook.com\/1454741397916190\/picture\/?type=normal",
+        "hash": "8a44f50a5b7271ee451b0f6e652317150c0ac7da"
+    },
+    {
         "id": "479823012074705_1445073302216333",
         "type": "photo",
         "message": "Nog nooit meegemaakt: de allereerste Bossche scoutingdag. Een samenwerking tussen verschillende verenigingen uit de regio en de gemeente om te laten zien wat scouting zoal te bieden heeft. Gaaf om met honderden bevers, welpen, scouts en explorers te openen op de parade onder leiding van onze eigen Leo Melkert. En natuurlijk waren wij ook van de partij met meerdere stoere activiteiten.",
@@ -112,7 +122,7 @@
     {
         "id": "479823012074705_1385212101535787",
         "type": "photo",
-        "message": null,
+        "message": "De Stam heeft zo zijn fotogenieke momenten \ud83d\udcf8.",
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/photos\/a.482177185172621.103497.479823012074705\/1385212101535787\/?type=3",
         "date": "2017-03-17T23:38:15+0000",
         "media": "\/assets\/img\/news\/thumb_9190d8716bd3ba4d3a6bc7f1a656901acfa340e6.jpg",
@@ -196,7 +206,7 @@
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1346593785397619\/",
         "date": "2017-02-11T19:13:05+0000",
         "media": "\/assets\/img\/news\/thumb_10d32baf5b12cd344ab9e57851a633cb4533b87a.jpg",
-        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/16700936_695459540632646_8216013291806261248_n.mp4?efg=eyJybHIiOjMxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=318&vabr=177&oh=9158a9da5e6c7554f42120106fba0b11&oe=591A73E5",
+        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/16700936_695459540632646_8216013291806261248_n.mp4?efg=eyJybHIiOjMxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=318&vabr=177&oh=ee39f419b23382e0295aa7ccb6da60e3&oe=59265165",
         "hash": "10d32baf5b12cd344ab9e57851a633cb4533b87a"
     },
     {
@@ -236,17 +246,7 @@
         "link": "https:\/\/www.facebook.com\/NogNooitMeegemaakt\/videos\/1312081188848879\/",
         "date": "2017-01-13T12:04:52+0000",
         "media": "\/assets\/img\/news\/thumb_b7d21944257f86786efe15e547deac57b7ecb26e.jpg",
-        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/16047862_1795736900747411_20225838515486720_n.mp4?efg=eyJybHIiOjQ4NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=484&vabr=269&oh=5f7a5f922d1c27ffec7687d18257edd1&oe=591A4CE0",
-        "hash": "b7d21944257f86786efe15e547deac57b7ecb26e"
-    },
-    {
-        "id": "479823012074705_1312798598777138",
-        "type": "event",
-        "message": "Het nieuwe jaar is aangebroken! Tijdens het weekend van de welpen hebben we Kerstmis gevierd en zondag sloten de Scouts en de Gidsen hun 3-daagse winterhike af. Om het nieuwe jaar in te luiden als groep nodigen wij u, ouder, verzorger, familie of P&P lid, uit om op vrijdag 13 januari langs te komen voor een hapje en een drankje op het troeplokaal. \n\nMet een diashow en een praatje van de voorzitter wordt het nieuwe jaar ingeluid. Voor de jongsten onder ons wordt een film afgespeeld. De borrel begint om half 8 en zal rond half 10 afgelopen zijn.",
-        "link": "https:\/\/www.facebook.com\/events\/1831810410374926\/",
-        "date": "2017-01-13T07:06:31+0000",
-        "media": false,
-        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/16047862_1795736900747411_20225838515486720_n.mp4?efg=eyJybHIiOjQ4NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=484&vabr=269&oh=5f7a5f922d1c27ffec7687d18257edd1&oe=591A4CE0",
+        "source": "https:\/\/video.xx.fbcdn.net\/v\/t42.1790-2\/16047862_1795736900747411_20225838515486720_n.mp4?efg=eyJybHIiOjQ4NCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=484&vabr=269&oh=d5279795d420a17f67117d227b56af20&oe=59262A60",
         "hash": "b7d21944257f86786efe15e547deac57b7ecb26e"
     }
 ]
