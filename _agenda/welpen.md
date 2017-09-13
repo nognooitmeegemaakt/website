@@ -11,31 +11,23 @@ Aangepast op 1 mei 2017
 
 {:.table}
 |-------|---------
-| 13 jan | Nieuwjaarsreceptie (avond)
-| 14 jan | Spel in het bos
-| 21 jan | Casinotrefbalslag
-| 28 jan | Handel spel
-| 4 feb | Hutten bouwen
-| 11 feb | Chemische proefjes
-| 18 feb | Krant maken
-| 25 feb | Oliebollenfantengeloop
-| 4 mrt | Geen bijeenkomst
-| 11 mrt | Stadspeurtocht
-| 18 mrt | Scoutingtechnieken
-| 25 mrt | Yukigassen
-| 1 apr | Sjakie en de Chocolade Fabriek
-| 8 apr | Vlieger maken
-| 15 apr | Paaseirenrace
-| 22 apr | Geen bijeenkomst
-| 29 apr | Geen bijeenkomst
-| 6 mei | Natuurkoken
-| 13 mei | Bossche Scouting Dag 2017 (12:30 - 17:00)
-| 20 mei | Varen met Dolfijnen (9:00 - 11:00) + Tienerdag
-| 27 mei | Spionnenspel in de stad + Installaties
-| 3 jun | Ouder Welp Weekend
-| 10 jun | Jungledag 2017 (13:00 - 16:00)
-| 17 jun | Champignonkwekerij bezoeken
-| 24 jun | Openluchttheater
-| 1 jul | Openluchttheater
-| 8 jul | De Waterspelen
-| 16 jul | Zomerkamp Welpen
+|16 sept|Maritiem
+|23 sept|Burendag Sleutelhangers Knopen
+|30 sept|Hutten Bouwen
+|7 okt|EHBO Dokter Baloe
+|14 okt|Natuurkoken
+|21 okt|Levend Stratego 
+|28 okt|Instructiespel + Installaties
+|4 nov|Natuurwerkdag
+|11 nov|Pleintjesfeest
+|18 nov|Chemische Vatenspel
+|25 nov|Luxe Lunch Show
+|2 dec|Sinterklaas
+|9 dec|Theater
+|16 dec|Kerstweekend
+|23 dec|Geen opkomst
+|30 dec|Geen opkomst
+|6 jan|Geen opkomst
+|13 jan|Handelsspel
+|20 jan|Uitwisseling Zeeverkenners Sint Joris
+|27 jan|Kampvuureten
