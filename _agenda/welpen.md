@@ -7,7 +7,7 @@ agenda: welpen
 
 Welpen Programma van Januari - Juli.
 
-Aangepast op 1 mei 2017
+Aangepast op 13 september 2017
 
 {:.table}
 |-------|---------
