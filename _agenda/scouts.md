@@ -9,34 +9,29 @@ Scouts Programma van maart - juni.
 
 {:.table}
 |-------|---------
-| 7 mrt | Abseilen
-| 11 mrt | Manhunt door Olivier & Reimer
-| 14 mrt | Pow-wow debat met Lucas
-| 18 mrt | Reuze vlieger maken met Max & Storm
-| 21 mrt | Gymzaal * spellen door Lans & Henk
-| 25 mrt | Color run / Bladblazer fotografie
-| 28 mrt | Reuze Jenga en Mikado door Reimer
-| 1 apr | Karten
-| 4 apr | De super scouting quiz door Olivier & Max
-| 8 apr | Survival op onbewoond eiland met Milo & Brynn
-| 11 apr | Schuine scene door Simon
-| 15 apr | Paaseierenrace (andere tijd)
-| 18 apr | Workshop goudsmid door Olivier
-| 22 apr | Geen bijeenkomst
-| 25 apr | Geen bijeenkomst
-| 29 apr | Buddy-middag
-| 2 mei | Kampvoorbereiding
-| 6-7 mei | Voorbereidingskamp RSW
-| 9 mei | Zwarte valk
-| 13 mei | Bezoek aan Kamp Vught
-| 16 mei | Vette expirimenten met Henk
-| 20 mei | Slider Madness
-| 23 mei | Voorbereiding RSW
-| 25-27 mei | RSW
-| 30 mei | Opruimen RSW
-| 3 juni | Trampoline paradijs
-| 6 juni | Programma maken
-| 10 juni | Herbarium maken met Lucas en Niels
-| 13 juni | Ereraad
+| 26 sept | Hakken en zagen
+| 30 sept | Highland Games door Henk, Job en Brynn
+| 3 okt | Kleding maken met Lucas
+| 7 okt | Groepsbijeenkomst om 12:30
+| 10 okt | Rookbommen met Reimer en Simon
+| 14 okt t/m 21 okt | Geen bijeenkomst
+| 24 okt | Fotografie wedstrijd door Femke en Max
+| 28 okt | Survivalrun
+| 31 okt | Nightwalk K&K
+| 4 nov & 5 nov | Herfstkamp
+| 7 nov | Casinoavond door Reimer en Olivier
+| 11 nov | Abseilen Moerputten
+| 14 nov | Kimproeven door Janneke
+| 18 nov | Smokkelspel door Sterre en Olivier
+| 21 nov | Sinterklaas Bakken door Milo en Storm
+| 25 nov | Dias de la Muerte door Janneke en Lucas
+| 28 nov | Muziek en Toneel Talent door Qamar en Asmen
+| 2 dec | Sinterklaasviering
+| 5 dec | Geen bijeenkomst
+| 9 dec | McDonalds door Sarah, Tessa en Lieve
+| 12 dec | Raket Maken met Max en Simon
+| 15 dec | Kerstgala *
+| 16 dec t/m 4 jan | Geen bijeenkomst
+| 5 jan t/m 7 jan | Winterhike
 
-_* Gymzaal wordt gehuurd door de Staf, maar de spellen worden bedacht door Lans & Henk._
+_* Dit is op een vrijdag avond._
