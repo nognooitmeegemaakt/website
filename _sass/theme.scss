@@ -57,10 +57,25 @@ body {
   background-color: #fff;
 }
 
-#print-button {
+#print-button, #year-schedule {
   border-radius: 0;
   margin-top: 0;
   margin-bottom: 14px;
+}
+
+.btn-year {
+  margin-right: 15px;
+}
+
+.btn-normal {
+  color: #333;
+  background-color: #fff !important;
+  border: 1px solid #fff !important;
+}
+
+.btn-normal:hover {
+  background-color: #ccc !important;
+  border-color: #ccc !important;
 }
 
 /* Navbar. */
