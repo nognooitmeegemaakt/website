@@ -15,7 +15,9 @@
         </div>
         <div class="description agenda">
           <div class="text">
-            <div class="pull-right"><a id="print-button" class="btn btn-md btn-fb btn-orange" href="#">Download PDF</a></div>
+            <div class="pull-right btn-print"><a id="print-button" class="btn btn-md btn-fb btn-orange" href="#">Download PDF</a></div>
+            <div class="pull-right btn-year"><a id="year-schedule" class="btn btn-md btn-fb btn-normal" href="{{ site.jaarplanning }}">Jaarplanning</a></div>
+            <div class="visible-xs"><br><br><br></div>
             <div data-file="agenda/{{ page.group }}.md">
               {% capture filecontents %}{{ content }}{% endcapture %}
               {{ filecontents | markdownify }}
