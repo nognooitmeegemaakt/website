@@ -5,7 +5,7 @@ category: agenda
 agenda: welpen
 ---
 
-Welpen Programma van Januari - Juli.
+Welpen Programma van September - Januari.
 
 Aangepast op 13 september 2017
 
