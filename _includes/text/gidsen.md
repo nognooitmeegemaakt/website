@@ -4,4 +4,4 @@ Gezelligheid en avontuur gaan hand in hand en in niets doen de gidsen onder voor
 
 Zaterdagmiddag van 14.30 tot 17.30
 
-Contactpersoon: [levi@nognooitmeegemaakt.nl](mailto:levi@nognooitmeegemaakt.nl)
+Contactpersoon: [guidon@nognooitmeegemaakt.nl](mailto:guidon@nognooitmeegemaakt.nl)
