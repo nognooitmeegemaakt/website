@@ -1,4 +1,3 @@
-
 Dit zijn jongens en meisjes van 7 tot 11 jaar. Een welp zal zeggen dat hij heel veel leuke dingen doet, die hij thuis of op vakantie nooit eerder heeft gedaan.
 
 
