@@ -509,10 +509,12 @@ html {
   p {
     margin-bottom: 0 !important;
   }
-  tr > td:first-of-type {
+  tr > td:first-of-type,
+  tr > th:first-of-type {
     padding-right: 1em;
   }
-  tr > td:last-of-type {
+  tr > td:last-of-type,
+  tr > th:last-of-type {
     font-family: monospace;
     font-size: 1.2em;
   }
