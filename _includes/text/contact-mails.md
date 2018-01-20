@@ -9,7 +9,7 @@
 |                |                                                               |
 | Webteam        |  [Tom, Fabrizio, Jesse & Sander](mailto:webteam@nognooitmeegemaakt.nl)|
 
-[ Stuur Bericht op Facebook ](https://m.me/nognooitmeegemaakt){:.btn .btn-primary .btn-fb}{:target='_blank_'}
+[ Stuur Bericht op Facebook ](https://m.me/nognooitmeegemaakt){:.btn .btn-primary .btn-fb target='_blank_'}
 
-{:.notice}
 **Ons groepsgebouw is niet beschikbaar voor verhuur.**
+{:.notice}
