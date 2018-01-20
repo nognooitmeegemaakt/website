@@ -509,6 +509,9 @@ html {
   p {
     margin-bottom: 0 !important;
   }
+  th {
+    font-weight: inherit;
+  }
   tr > td:first-of-type,
   tr > th:first-of-type {
     padding-right: 1em;
