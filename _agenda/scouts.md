@@ -3,9 +3,12 @@ title: Scouts Programma
 layout: agenda
 category: agenda
 agenda: scouts
+footer:
 ---
 
 Scouts Programma van september - januari.
+
+Aangepast op 4 oktober.
 
 {:.table}
 |-------|---------
@@ -34,4 +37,4 @@ Scouts Programma van september - januari.
 | 16 dec t/m 4 jan | Geen bijeenkomst
 | 5 jan t/m 7 jan | Winterhike
 
-_* Dit is op een vrijdag avond._
+{{ page.footer }}
