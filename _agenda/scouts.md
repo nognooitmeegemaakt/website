@@ -3,14 +3,13 @@ title: Scouts Programma
 layout: agenda
 category: agenda
 agenda: scouts
-footer:
+footer: "_* Dit is op een vrijdag avond._"
 ---
 
 Scouts Programma van september - januari.
 
 Aangepast op 4 oktober.
 
-{:.table}
 |-------|---------
 | 26 sept | Hakken en zagen
 | 30 sept | Highland Games door Henk, Job en Brynn
@@ -36,5 +35,6 @@ Aangepast op 4 oktober.
 | 15 dec | Kerstgala *
 | 16 dec t/m 4 jan | Geen bijeenkomst
 | 5 jan t/m 7 jan | Winterhike
+{:.table}
 
 {{ page.footer }}
