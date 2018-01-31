@@ -1,4 +1,3 @@
-
 ---
 title: Stam Programma
 layout: agenda
@@ -30,4 +29,3 @@ Aangepast op 31 januari.
 {: .table :}
 
 {{ page.footer }}
-  
