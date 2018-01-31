@@ -9,7 +9,7 @@ Stam Programma van September - November.
 
 {:.table}
 |-------|---------
-| 9-10 sept | Appelpop
+| 9 sept & 10 sept | Appelpop
 | 16 sept | Drone flying over
 | 17 sept | Overvliegen (12.30)
 | 23 sept | Ketting reactie
@@ -20,6 +20,6 @@ Stam Programma van September - November.
 | 21 okt | Klimmen en klauteren met Levi
 | 28 okt | Herfstvakantie - Geen opkomst
 | 4 nov | Smeden met een Smid
-| 11-12 nov | Hubertus Kamp
+| 11 nov t/m 12 nov | Hubertus Kamp
 | 18 nov | Tasty & Nifty met Ari
 | 25 nov | Stam installatie & identificatie
