@@ -3,7 +3,7 @@ title: Stam Programma
 layout: agenda
 category: agenda
 agenda: stam
-footer: "__"
+footer: ""
 ---
 
 Stam Programma van September - November.
