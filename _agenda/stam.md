@@ -12,7 +12,7 @@ Aangepast op 31 januari.
 
 | | |
 |---|---|
-| 12 jan. '18 | Nieuwjaarsborrel |
+| 12 jan. '18 | Nieuwjaarsborrel (19:30) |
 | 19 jan. '18 | Carnavalsbadge maken met Syquin & Jesse |
 | 26 jan. '18 | Bowlen |
 | 2 feb. '18 | Koken op houtvuur door Robin |
