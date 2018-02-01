@@ -32,6 +32,7 @@ function handlePrintOrder(event) {
     var tds = $(table[index]).find('td')
     var date = tds[0]
     var item = tds[1]
+    if (date == '' || item == '') continue
     rows.push([ date, item ])
   })
 
