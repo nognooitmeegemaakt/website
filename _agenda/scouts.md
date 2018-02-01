@@ -3,38 +3,48 @@ title: Scouts Programma
 layout: agenda
 category: agenda
 agenda: scouts
-footer: "_* Dit is op een vrijdag avond._"
+footer: ""
 ---
 
-Scouts Programma van september - januari.
+Scouts Programma van januari - mei.
 
-Aangepast op 4 oktober.
+Aangepast op 1 februari.
 
-|-------|---------
-| 26 sept | Hakken en zagen
-| 30 sept | Highland Games door Henk, Job en Brynn
-| 3 okt | Kleding maken met Lucas
-| 7 okt | Groepsbijeenkomst om 12:30
-| 10 okt | Rookbommen met Reimer en Simon
-| 14 okt t/m 21 okt | Geen bijeenkomst
-| 24 okt | Fotografie wedstrijd door Femke en Max
-| 28 okt | Survivalrun
-| 31 okt | Nightwalk K&K
-| 4 nov & 5 nov | Herfstkamp
-| 7 nov | Casinoavond door Reimer en Olivier
-| 11 nov | Abseilen Moerputten
-| 14 nov | Kimproeven door Janneke
-| 18 nov | Smokkelspel door Sterre en Olivier
-| 21 nov | Sinterklaas Bakken door Milo en Storm
-| 25 nov | Dias de la Muerte door Janneke en Lucas
-| 28 nov | Muziek en Toneel Talent door Qamar en Asmen
-| 2 dec | Sinterklaasviering
-| 5 dec | Geen bijeenkomst
-| 9 dec | McDonalds door Sarah, Tessa en Lieve
-| 12 dec | Raket Maken met Max en Simon
-| 15 dec | Kerstgala *
-| 16 dec t/m 4 jan | Geen bijeenkomst
-| 5 jan t/m 7 jan | Winterhike
-{:.table}
+| | |
+|---|---|
+| 20 jan. '18 | Spelletjesdag XXL door Fenna en Storm |
+| 23 jan. '18 | Emblemen ontwerpen door Janneke en Sarah |
+| 27 jan. '18 | Brug Pionieren door Max en Simon |
+| 30 jan. '18 | Glow in the dark Badminton |
+| 3 feb. '18 | Het Grote Aftekenspel |
+| 6 feb. '18 | Cultuur avond |
+| 10 feb. '18 | Oliebollenfantengeloop |
+| 13 feb. '18 - 17 feb. '18 | Geen Bijeenkomst (Carnavalsvakantie) |
+| 20 feb. '18 | Keramieken met Lucas |
+| 24 feb. '18 | Gidsen vs. Verkenners door Simon en Sterre |
+| 27 feb. '18 | Spa Wellness door Asmen en Olivier |
+| 3 mrt. '18 | Veldoven maken |
+| 6 mrt. '18 | Schuimparty door Janneke en Rosie |
+| 10 mrt. '18 | Paintball door Milo en Job |
+| 13 mrt. '18 | Graffiti door Tessa en Job |
+| Invalid date |  |
+| 16 mrt. '18 - 17 mrt. '18 | The Hunt (19:00) |
+| 20 mrt. '18 | Dansles |
+| 24 mrt. '18 | Zwarte Valk |
+| 27 mrt. '18 | Sporten in Gymzaal door Henk en Brynn |
+| 31 mrt. '18 | Paaseierenrace |
+| 3 apr. '18 | Kimproeven |
+| 7 apr. '18 | Geen Bijeenkomst |
+| 10 apr. '18 | Weerkunde |
+| 14 apr. '18 | EHBO |
+| 17 apr. '18 | Reclame Maken |
+| 21 apr. '18 - 22 apr. '18 | Voorbereidingsweekend RSW |
+| 24 apr. '18 | Karaoke door Lucas en Qamar |
+| 28 apr. '18 - 5 mei '18 | Geen Bijeenkomst (Vakantie) |
+| 8 mei '18 | RSW Voorbereiden |
+| 10 mei '18 - 12 mei '18 | Regionale Scouting Wedstrijden |
+| 15 mei '18 | Programma maken |
+| 19 mei '18 - 21 mei '18 | Landelijke Scouting Wedstrijden |
+{: .table :}
 
 {{ page.footer }}
