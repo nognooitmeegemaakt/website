@@ -44,6 +44,7 @@ Aangepast op 1 februari.
 | 10 mei '18 - 12 mei '18 | Regionale Scouting Wedstrijden |
 | 15 mei '18 | Programma maken |
 | 19 mei '18 - 21 mei '18 | Landelijke Scouting Wedstrijden |
+| 7 jul. '18 - 14 jul. '18 | Zomerkamp |
 {: .table :}
 
 {{ page.footer }}
