@@ -32,7 +32,9 @@ function handlePrintOrder(event) {
     var tds = $(table[index]).find('td')
     var date = tds[0]
     var item = tds[1]
-    if (date == '' || item == '') return true
+    if (typeof date == 'undefined' && typeof item == 'undefined') {
+      return true
+    }
     rows.push([ date, item ])
   })
 
