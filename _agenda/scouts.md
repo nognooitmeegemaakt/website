@@ -27,7 +27,6 @@ Aangepast op 1 februari.
 | 6 mrt. '18 | Schuimparty door Janneke en Rosie |
 | 10 mrt. '18 | Paintball door Milo en Job |
 | 13 mrt. '18 | Graffiti door Tessa en Job |
-| Invalid date |  |
 | 16 mrt. '18 - 17 mrt. '18 | The Hunt (19:00) |
 | 20 mrt. '18 | Dansles |
 | 24 mrt. '18 | Zwarte Valk |
