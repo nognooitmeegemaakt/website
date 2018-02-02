@@ -18,7 +18,7 @@ Aangepast op 2 februari.
 | 10 feb. '18 | Oliebollenfantengeloop 10:30-13:30 |
 | 17 feb. '18 | Geen bijeenkomst |
 | 24 feb. '18 | Bosspel |
-| 3 mrt. '18 | Pionieren  |
+| 3 mrt. '18 | Pionieren |
 | 10 mrt. '18 | Actiedag Instructie |
 | 17 mrt. '18 | Welpen Got Talent |
 | 24 mrt. '18 | Bosspel |
@@ -36,7 +36,7 @@ Aangepast op 2 februari.
 | 16 jun. '18 | Timmeren, zagen, schroeven (Tienerdag |
 | 23 jun. '18 | Apenkooien |
 | 30 jun. '18 | Voorbereiden Zomerkamp |
-| 8 jul. '18 - 14 jul. '18 |  |
+| 8 jul. '18 - 14 jul. '18 | Zomerkamp |
 {: .table :}
 
 {{ page.footer }}
