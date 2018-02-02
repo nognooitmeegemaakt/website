@@ -3,31 +3,40 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
+footer: ""
 ---
 
-Welpen Programma van September - Januari.
+Welpen Programma van januari - Zomerkamp
 
-Aangepast op 13 september 2017
+Aangepast op 2 februari.
 
-{:.table}
-|-------|---------
-|16 sept|Maritiem
-|23 sept|Burendag Sleutelhangers Knopen
-|30 sept|Hutten Bouwen
-|7 okt|EHBO Dokter Baloe
-|14 okt|Natuurkoken
-|21 okt|Levend Stratego 
-|28 okt|Instructiespel + Installaties
-|4 nov|Natuurwerkdag
-|11 nov|Pleintjesfeest
-|18 nov|Chemische Vatenspel
-|25 nov|Luxe Lunch Show
-|2 dec|Sinterklaas
-|9 dec|Theater
-|16 dec|Kerstweekend
-|23 dec|Geen opkomst
-|30 dec|Geen opkomst
-|6 jan|Geen opkomst
-|13 jan|Handelsspel
-|20 jan|Uitwisseling Zeeverkenners Sint Joris
-|27 jan|Kampvuureten
+| | |
+|---|---|
+| 20 jan. '18 | Stadskoekenspel |
+| 27 jan. '18 | Bosspel |
+| 3 jan. '18 | Crea Grafitti |
+| 10 feb. '18 | Oliebollenfantengeloop 10:30-13:30 |
+| 17 feb. '18 | Geen bijeenkomst |
+| 24 feb. '18 | Bosspel |
+| 3 mrt. '18 | Pionieren  |
+| 10 mrt. '18 | Actiedag Instructie |
+| 17 mrt. '18 | Welpen Got Talent |
+| 24 mrt. '18 | Bosspel |
+| 31 mrt. '18 | Paaseierenhazenspel |
+| 7 apr. '18 | Geen bijeenkomst |
+| 14 apr. '18 | Muziekclinic |
+| 21 apr. '18 | Moestuinen |
+| 28 apr. '18 | Bosspel |
+| 5 mei '18 | Geen bijeenkomst |
+| 12 mei '18 | Stadsspel |
+| 19 mei '18 - 20 mei '18 | Ouder-Welp weekend |
+| 26 mei '18 | Brandweer |
+| 2 jun. '18 | Bosspel |
+| 9 jun. '18 | Waterspelen |
+| 16 jun. '18 | Timmeren, zagen, schroeven (Tienerdag |
+| 23 jun. '18 | Apenkooien |
+| 30 jun. '18 | Voorbereiden Zomerkamp |
+| 8 jul. '18 - 14 jul. '18 |  |
+{: .table :}
+
+{{ page.footer }}
