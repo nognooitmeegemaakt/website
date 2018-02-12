@@ -6,9 +6,9 @@ agenda: stam
 footer: ""
 ---
 
-Stam Programma van Januari - Maart.
+Stam Programma van januari - maart.
 
-Aangepast op 5 februari.
+Aangepast op 12 februari.
 
 | | |
 |---|---|
