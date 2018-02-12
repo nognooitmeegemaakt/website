@@ -16,8 +16,7 @@ Aangepast op 12 februari.
 | 19 jan. '18 | Carnavalsbadge maken met Syquin & Jesse |
 | 26 jan. '18 | Bowlen |
 | 2 feb. '18 | Koken op houtvuur door Robin |
-| 9 feb. '18 | Carbid Schieten met Jesse |
-| 16 feb. '18 | Geen bijeenkomst |
+| 9 feb. '18 - 16 feb. '18 | Geen Bijeenkomst |
 | 23 feb. '18 | Pieke's Kapla Paradijs |
 | 2 mrt. '18 | Smeden met een Smid |
 | 9 mrt. '18 | Nadenken over Zomerkamp |
