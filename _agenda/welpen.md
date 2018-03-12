@@ -8,7 +8,7 @@ footer: ""
 
 Welpen Programma van januari - Zomerkamp
 
-Aangepast op 2 februari.
+Aangepast op 12 maart.
 
 | | |
 |---|---|
@@ -33,7 +33,7 @@ Aangepast op 2 februari.
 | 26 mei '18 | Brandweer |
 | 2 jun. '18 | Bosspel |
 | 9 jun. '18 | Waterspelen |
-| 16 jun. '18 | Timmeren, zagen, schroeven (Tienerdag |
+| 16 jun. '18 | Timmeren, zagen, schroeven (Tienerdag) |
 | 23 jun. '18 | Apenkooien |
 | 30 jun. '18 | Voorbereiden Zomerkamp |
 | 8 jul. '18 - 14 jul. '18 | Zomerkamp |
