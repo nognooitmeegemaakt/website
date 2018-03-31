@@ -1,6 +1,8 @@
 # NogNooitMeegemaakt.nl
 **:deciduous_tree: Website of Scouting group [Petrus & Paulus](https://nognooitmeegemaakt.nl) in 's-Hertogenbosch, The Netherlands.**
 
+*This is the `v3` work-in-progress branch of the website.*
+
 ## Summary
 The `gh-pages` branch of this repository is hosted live on [GitHub Pages](https://pages.github.com) through [CloudFlare](https://cloudflare.com) DNS. Content is dynamically updated through our custom content management system (CMS) [Beheer](https://github.com/nognooitmeegemaakt/project-powell).
 
