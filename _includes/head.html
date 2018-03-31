@@ -1,47 +1,28 @@
-  <title>{{ page.title }} - {{ site.title }}</title>
+
+        <title>{{ page.title }} - {{ site.title }}</title>
         <meta charset="utf-8">
 
         <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 
-        <meta name="description" content="{{ site.description }}">
+        <meta name="description" content="{{ page.description | default: site.description }}">
         <meta name="keywords" content="{{ site.keywords }}">
         <meta name="author" content="{{ site.owner }}">
         <meta name="designer" content="{{ site.author }}">
 
         <meta property="og:title" content="{{ site.title }} - {{ page.title }}">
-        <meta property="og:image" content="{{ site.domain }}/assets/img/social/background-boat.png">
-        <meta property="og:url" content="{{ site.domain }}">
-        <meta property="og:description" content="{{ site.description }}">
+        <meta property="og:image" content="/assets/img/social/background-boat.png">
+        <meta property="og:url" content="{{ page.url }}">
+        <meta property="og:description" content="{{ page.description | default: site.description }}">
 
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:url" content="{{ site.domain }}">
-        <meta name="twitter:description" content="{{ site.description }}">
-        <meta name="twitter:image" content="{{ site.domain }}/assets/img/social/background-boat.png">
+        <meta name="twitter:url" content="{{ page.url }}">
+        <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+        <meta name="twitter:image" content="/assets/img/social/background-boat.png">
 
-        <link rel="icon" href="{{ site.domain }}/assets/img/favicon.png">
+        <link rel="icon" href="/assets/img/favicon.png">
 
-        <link rel="stylesheet" href="{{ site.domain }}/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="{{ site.domain }}/assets/css/bootstrap-horizon.css">
-        <link rel="stylesheet" href="{{ site.domain }}/assets/css/ionicons.min.css">
-        <link rel="stylesheet" href="{{ site.domain }}/assets/css/crackhouse.css">
-        <link rel="stylesheet" href="{{ site.domain }}/assets/css/main.css?build={{ site.github.build_revision }}">
-
-        {% if page.category == "index" or page.category == "news" %}
-        <style>
-          @media (max-width: 768px) {
-            #content {
-              padding-bottom: 158px !important;
-            }
-          }
-        </style>
-        {% endif %}
-        {% if page.category == "news" %}
-        <style>
-          @media (max-width: 768px) {
-            .header {
-              font-size: 1.4em;
-            }
-          }
-        </style>
-        {% endif %}
+        <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/assets/css/ionicons.min.css">
+        <link rel="stylesheet" href="/assets/css/crackhouse.css">
+        <link rel="stylesheet" href="/assets/css/main-v3.css?_={{ site.github.build_revision }}">

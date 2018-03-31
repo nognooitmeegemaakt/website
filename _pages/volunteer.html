@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /word-vrijwilliger/
+title: "Word vrijwilliger"
+header: "Wij zoeken vrijwilligers."
+---
+
+<section id="volunteer-content" class="block">
+
+  {% capture filecontents %}{% include text/volunteer-content.md %}{% endcapture %}
+  {{ filecontents | markdownify }}
+
+</section>
+
+<section id="volunteer-media" class="block-media block-media-scroll">
+  <!--// TODO: Implement media solution. //-->
+</section>
+
+<section id="volunteer-requirements" class="block">
+
+  {% capture filecontents %}{% include text/volunteer-requirements.md %}{% endcapture %}
+  {{ filecontents | markdownify }}
+
+</section>
+
+<section id="volunteer-signup" class="block theme-signup">
+
+  {% include signup-lead-volunteer.html %}
+
+</section>

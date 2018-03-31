@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /visie/
+title: Visie
+header: "De visie van onze groep."
+---
+
+<section id="vision-content" class="block">
+  {% capture filecontents %}{% include text/vision.md %}{% endcapture %}
+  {{ filecontents | markdownify }}
+</section>

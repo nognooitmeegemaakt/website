@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+  {% include comment.html %}
+  <html lang="nl">
+    <head>
+      {% include head.html %}
+    </head>
+    <body>
+
+      <section id="navbar">
+        {% include navbar.html %}
+      </section>
+
+      <section id="header">
+        <h1>{{ page.header | default: page.title }}</h1>
+      </section>
+
+      {{ content }}
+
+      <section id="footer">
+        {% include footer.html %}
+      </section>
+
+      {% include scripts.html %}
+
+      {% if page.scripts or scripts %}
+        {{ page.scripts | default: scripts }}
+      {% endif %}
+
+    </body>
+  </html>

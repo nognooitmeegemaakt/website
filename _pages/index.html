@@ -1,0 +1,34 @@
+---
+layout: page
+permalink: /
+title: Home
+header: "Al 85 jaar een begrip in Den Bosch."
+---
+
+<section id="block index-skills">
+
+
+
+</section>
+
+<section id="block index-callout">
+
+  {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
+  {{ filecontents | markdownify }}
+
+</section>
+
+<section id="block index-groups">
+
+
+
+</section>
+
+<section id="block theme-signup">
+
+  {% capture filecontents %}{% include text/index-signup.md %}{% endcapture %}
+  {{ filecontents | markdownify }}
+
+  {% include signup-lead.html %}
+
+</section>

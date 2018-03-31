@@ -5,28 +5,35 @@
       {% include head.html %}
     </head>
     <body>
-      <section id="background"></section>
+
       <section id="navbar">
         {% include navbar.html %}
       </section>
-      <section id="content">
-        <div class="header">
-          <h1>{{ page.title }}</h1>
-        </div>
-        <div class="description agenda">
-          <div class="text">
-            <div class="pull-right btn-print"><a id="print-button" class="btn btn-md btn-fb btn-orange" href="#">Download PDF</a></div>
-            <div class="pull-right btn-year"><a id="year-schedule" class="btn btn-md btn-fb btn-normal" href="{{ site.jaarplanning }}">Jaarplanning</a></div>
-            <div class="visible-xs"><br><br><br></div>
-            <div data-file="agenda/{{ page.group }}.md">
-              {% capture filecontents %}{{ content }}{% endcapture %}
-              {{ filecontents | markdownify }}
-            </div>
-          </div>
-        </div>
+
+      <section id="header">
+        <h1>{{ page.header | default: page.title }}</h1>
       </section>
+
+      <section id="block agenda-info">
+        <!--// TODO: Migrate agenda format to include some information
+        in front matter. //-->
+      </section>
+
+      <section id="block agenda-content">
+
+        {% capture filecontents %}{{ content }}{% endcapture %}
+        {{ filecontents | markdownify }}
+
+      </section>
+
+      <section id="footer">
+        {% include footer.html %}
+      </section>
+
       {% include scripts.html %}
+
       <script src="{{ site.domain }}/assets/js/jspdf.min.js"></script>
       <script src="{{ site.domain }}/assets/js/jspdf.plugin.autotable.min.js"></script>
+
     </body>
   </html>
