@@ -1,6 +1,58 @@
+{% assign pages = site.pages | sort: 'order' %}
+{% assign groups = site.groups | sort: 'order' %}
 
-<nav class="navbar navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">
+{% assign currentPage = page %}
+
+{% assign _groupsUriParts = groups[0].url | split: '/' %}
+{% assign groupsBaseUri = _groupsUriParts[1] %}
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+  <a class="navbar-brand" href="/">
     <img src="{{ site.logo }}" width="30" class="d-inline-block align-top" alt="">
   </a>
+
+  <div class="collapse navbar-collapse" id="navbar">
+    <ul class="nav navbar-nav">
+      {% for page in pages %}
+
+        {% if currentPage.url == page.url %}
+          {% assign active = 'active' %}
+        {% else %}
+          {% assign active = '' %}
+        {% endif %}
+
+        {% if page.groups %}
+
+          {% if currentPage.url contains groupsBaseUri %}
+            {% assign active = 'active' %}
+          {% else %}
+            {% assign active = '' %}
+          {% endif %}
+
+          <li class="nav-item dropdown {{ active }}">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Groepen</a>
+            <div class="dropdown-menu">
+            {% for group in groups %}
+
+              {% if currentPage.url contains group.group %}
+                {% assign groupActive = 'active' %}
+              {% else %}
+                {% assign groupActive = '' %}
+              {% endif %}
+
+              <a class="dropdown-item {{ groupActive }}" href="{{ group.url }}">{{ group.title }}</a>
+            {% endfor %}
+            </div>
+          </li>
+
+        {% else %}
+
+          <li class="nav-item {{ active }}"><a class="nav-link" href="{{ page.url}}">{{ page.title }}</a></li>
+
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
 </nav>
