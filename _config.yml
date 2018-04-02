@@ -14,6 +14,8 @@ logo: "/assets/img/logo.png"
 
 jaarplanning: "/assets/docs/jaarplanning-2017-2018.pdf"
 
+ga: "UA-81173104-1"
+
 collections:
   pages:
     output: true
