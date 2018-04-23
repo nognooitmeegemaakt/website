@@ -8,7 +8,7 @@ footer: ""
 
 Welpen Programma van januari - Zomerkamp
 
-Aangepast op 22 april.
+Aangepast op 23 april.
 
 | | |
 |---|---|
@@ -26,9 +26,9 @@ Aangepast op 22 april.
 | 7 apr. | Geen bijeenkomst |
 | 14 apr. | Bossen in! |
 | 21 apr. | Moestuinen |
-| 28 apr. | Bosspel |
-| 5 mei | Geen bijeenkomst |
-| 12 mei | Stadsspel |
+| 28 apr. | Geen bijeenkomst |
+| 5 mei | Stadsspel |
+| 12 mei | Bossen in! |
 | 19 mei - 20 mei | Ouder-Welp weekend |
 | 26 mei | Brandweer |
 | 2 jun. | Bosspel |
