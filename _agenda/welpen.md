@@ -12,7 +12,7 @@ Aangepast op 23 april.
 
 | | |
 |---|---|
-| 20 jan. | Stadskoekenspel |
+| 20 jan. | Stadskoekenspel:( |
 | 27 jan. | Bosspel |
 | 3 jan. | Crea Grafitti |
 | 10 feb. | Oliebollenfantengeloop 10:30-13:30 |
