@@ -28,7 +28,7 @@ Aangepast op 30 april.
 | 21 apr. | Moestuinen |
 | 28 apr. | Geen bijeenkomst |
 | 5 mei | Stadsspel |
-| 12 mei | Varen met Dolfijnen Sint Joris |
+| 12 mei | Varen met Dolfijnen Sint Joris 09:00-10:30 |
 | 19 mei - 20 mei | Ouder-Welp weekend |
 | 26 mei | Brandweer |
 | 2 jun. | Bosspel |
