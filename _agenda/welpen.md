@@ -8,7 +8,7 @@ footer: ""
 
 Welpen Programma van januari - Zomerkamp
 
-Aangepast op 1 mei.
+Aangepast op 8 mei.
 
 | | |
 |---|---|
@@ -30,7 +30,7 @@ Aangepast op 1 mei.
 | 5 mei | Stadsspel met GPS |
 | 12 mei | Varen met Dolfijnen Sint Joris 09:00-10:30 |
 | 19 mei - 20 mei | Ouder-Welp weekend |
-| 26 mei | Jungle dag 12:00-16:00 |
+| 26 mei | Jungle dag 12:30/13:00-16:00 |
 | 2 jun. | Bosspel |
 | 9 jun. | Waterspelen |
 | 16 jun. | Timmeren, zagen, schroeven (Tienerdag) |
