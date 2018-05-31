@@ -8,7 +8,7 @@ footer: ""
 
 Welpen Programma van januari - Zomerkamp
 
-Aangepast op 8 mei.
+Aangepast op 31 mei.
 
 | | |
 |---|---|
@@ -34,7 +34,7 @@ Aangepast op 8 mei.
 | 2 jun. | Bosspel |
 | 9 jun. | Waterspelen |
 | 16 jun. | Timmeren, zagen, schroeven (Tienerdag) |
-| 23 jun. | Apenkooien |
+| 23 jun. | Apenkooien + Installaties Krista, Jasper en Lars |
 | 30 jun. | Voorbereiden Zomerkamp |
 | 8 jul. - 14 jul. | Zomerkamp |
 {: .table :}
