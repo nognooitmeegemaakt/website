@@ -1,0 +1,34 @@
+#header
+  position: relative
+
+  background-color: $color-background
+  color: $color-text
+
+  .header-background
+    width: 100%
+    height: 50vh
+    min-height: 600px
+
+  .content-wrapper
+    width: 100%
+    position: absolute
+    top: 0
+    left: 0
+
+    .header-content
+      padding: $spacing-unit
+      padding-top: $spacing-unit*2 // padding for absolute navbar
+      //padding-bottom: $spacing-unit*1.5
+
+      h1
+        font-weight: bold
+        font-size: $font-size-header
+        max-width: 45vw
+        line-height: 1
+        margin-bottom: $spacing-unit/2
+
+      p
+        font-size: $font-size-header/2.7
+        font-weight: 300
+        line-height: $lead-line-height
+        max-width: 45vw
