@@ -16,6 +16,10 @@ jaarplanning: "/assets/docs/jaarplanning-2017-2018.pdf"
 
 ga: "UA-81173104-1"
 
+social:
+  facebook: "https://facebook.com/NogNooitMeegemaakt"
+  linkedin: "https://linkedin.com/company/scouting-den-bosch"
+
 collections:
   pages:
     output: true
