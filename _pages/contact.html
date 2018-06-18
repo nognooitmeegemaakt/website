@@ -3,25 +3,58 @@ order: 6
 layout: page
 permalink: /contact/
 title: Contact
+description: "Neem contact op met de groep of individuele vertegenwoordigers van speltakken of bestuursleden."
 ---
 
-<section id="block contact-info">
-
-  {% capture filecontents %}{% include text/contact-address.md %}{% endcapture %}
-  {{ filecontents | markdownify }}
-
+<section id="contact-people" class="block edge-top edge-bottom">
+  <div class="row">
+    <div class="col">
+      {% capture filecontents %}{% include text/contact-intro.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    </div>
+    <div class="col">
+      {% capture filecontents %}{% include text/contact-people.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    </div>
+  </div>
 </section>
 
-<section id="block contact-people">
-
-  {% capture filecontents %}{% include text/contact-mails.md %}{% endcapture %}
-  {{ filecontents | markdownify }}
-
+<section id="contact-images" class="block block-fluid-images block-centered">
+  <div class="row">
+    <div class="col">
+      <div class="item-image" style="background-image: url('https://via.placeholder.com/350x650');"></div> <!--// poort //-->
+    </div>
+    <div class="col">
+      <div class="item-image" style="background-image: url('https://via.placeholder.com/350x650');"></div> <!--// gebouw //-->
+    </div>
+    <div class="col">
+      <div class="item-image" style="background-image: url('https://via.placeholder.com/350x650');"></div> <!--// binnenplaats //-->
+    </div>
+    <div class="col">
+      <div class="item-image" style="background-image: url('https://via.placeholder.com/350x650');"></div> <!--// parkeerplaats //-->
+    </div>
+    <div class="col">
+      <div class="item-image" style="background-image: url('https://via.placeholder.com/350x650');"></div> <!--// 3D-view Google Maps //-->
+    </div>
+  </div>
 </section>
 
-<section id="block contact-maps">
+<section id="contact-info" class="block edge-top">
+  <div class="row">
+    <div class="col">
+      {% capture filecontents %}{% include text/contact-location.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    </div>
+    <div class="col">
+      {% capture filecontents %}{% include text/contact-address.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    </div>
+  </div>
+</section>
 
-  <iframe width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen
+<section id="contact-maps" class="">
+
+  <iframe width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2473.5749785481416!2d5.297271916263225!3d51.685922379664774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x44ed948ce55cefd9!2sStichting+Scouting+Groep+Petrus+en+Paulus!5e0!3m2!1snl!2snl!4v1466241208518">
   </iframe>
 

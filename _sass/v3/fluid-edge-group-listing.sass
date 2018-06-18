@@ -1,4 +1,10 @@
-#index-groups
+/**
+ * TODO: As soon as #index-groups has been ported to
+ * use .block-fluid-images on the home page this can
+ * be moved to the theme stylesheet.
+ */
+#index-groups,
+.block-fluid-images
   // remove padding from block styles.
   padding-left: 0
   padding-right: 0
@@ -20,7 +26,8 @@
     float: left
     padding: 0
 
-  .group-info
+  .group-info,
+  .item-info
     padding: 150px 40px 40px
     position: absolute
     z-index: 10
@@ -32,7 +39,8 @@
     h4
       font-size: 3rem
 
-  .group-image
+  .group-image,
+  .item-image
     background-size: cover
     background-position: center
     display: inline-block
