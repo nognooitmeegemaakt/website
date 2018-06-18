@@ -11,7 +11,7 @@
       </section>
 
       <section id="header">
-        <h1>{{ page.header | default: page.title }}</h1>
+        {% include header.html %}
       </section>
 
       {{ content }}
