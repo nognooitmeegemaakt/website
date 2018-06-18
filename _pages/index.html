@@ -12,10 +12,40 @@ header: "Al 85 jaar een begrip in Den Bosch."
 
 </section>
 
-<section id="block index-callout">
+<section class="block block-split block-split-images edge-top edge-bottom" id="index-callout">
 
-  {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
-  {{ filecontents | markdownify }}
+  <div class="row">
+    <div class="col">
+      {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    </div>
+    <div class="col">
+      <div class="container">
+        <div class="row row-images">
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/stam_hike.jpg">
+          </div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/welpen_installatie.jpg">
+          </div>
+          <div class="w-100"></div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/scouts_zipline.jpg">
+          </div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/gidsen_brug.jpg">
+          </div>
+          <div class="w-100"></div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/gidsen_vlot.jpg">
+          </div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/gidsen_kampvuur.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </section>
 
