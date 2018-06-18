@@ -1,8 +1,12 @@
-Nog Nooit Meegemaakt organiseert wekelijks op zaterdag,
-dinsdag en vrijdag stoere eigentijdse activiteiten voor jongeren
-tussen de 7 en 21 jaar uit Den Bosch en omstreken.
+# Maak het mee.
 
-Jong, oud, stoere jongens, nog stoerdere meiden, nieuwsgierige kids, iedereen zal zeggen
-dat ze met plezier naar Scouting Petrus & Paulus gaan. Want dit hebben ze **nog nooit meegemaakt**.
+Iedereen die bij de P&P zit of heeft gezeten zal zeggen dat het een
+bijzondere groep is. Maar wat doe je er eigenlijk?
 
-Lijkt het je leuk om mee te doen? Kom dan een keer kijken, of [stuur ons een bericht](/contact)!
+De buitenwereld denkt vaak aan knopen, kompas en vuurtje stoken. Maar dit zijn ‘slechts’ de middelen in de zoektocht naar een beter doel: samenwerking, zelfontplooiing, zelfstandigheid en verantwoordelijkheid.
+
+Jong, oud, stoere jongens, nog stoerdere meiden, nieuwsgierige kids, iedereen zal zeggen dat ze met plezier naar Scouting Petrus & Paulus gaan.
+
+Het gevoel. De beleving, het enthousiasme, de spanning, de verbazing, het plezier, de mentaliteit en het genieten.
+
+Dat hebben ze nog nooit meegemaakt.
