@@ -71,11 +71,19 @@ header: "Al 85 jaar een begrip in Den Bosch."
 
 </section>
 
-<section id="block theme-signup">
+<section class="block block-signup block-centered edge-top edge-bottom" id="index-signup">
 
-  {% capture filecontents %}{% include text/index-signup.md %}{% endcapture %}
-  {{ filecontents | markdownify }}
+  <div class="centered-text">
+    {% capture filecontents %}{% include text/index-signup.md %}{% endcapture %}
+    {{ filecontents | markdownify }}
+  </div>
 
-  {% include signup-lead.html %}
+</section>
 
+<section class="block block-button block-centered block-bg block-bg-bottom" id="index-signup-button"
+  style="background-image: url('/assets/img/social/activities/5x7/gidsen_zand.jpg');">
+
+    <div class="callout-box callout-box-skew col-4 offset-4">
+      {% include signup-lead.html %}
+    </div>
 </section>
