@@ -1,0 +1,104 @@
+html, body
+  font-size: $font-size
+  font-family: $font-family
+
+.block
+
+  position: relative
+
+  padding-left: $spacing-unit
+  padding-right: $spacing-unit
+
+  padding-top: $spacing-unit
+  padding-bottom: $spacing-unit*1.7
+
+  h1
+    font-weight: bold
+    font-size: $font-size-header*.7
+
+    margin-bottom: 1.5rem
+
+.block-groups
+
+  padding-bottom: 4rem
+
+  h4
+
+    .group-logo
+
+    .group-title
+
+  .group-info
+    font-size: $font-size/1.2
+
+.block-signup
+
+.block-button
+  //cursor: pointer
+  a
+    color: $color-brand
+
+.block-centered
+  text-align: center
+
+  padding-top: 5rem
+
+  .centered-text
+
+    p
+      max-width: 50vw
+      margin-left: auto
+      margin-right: auto
+
+
+.block-split.block-split-images
+
+  .row-images
+    margin-right: 0 !important
+    margin-left: 0 !important
+
+    .w-100
+      height: $spacing-unit/3
+
+  img
+    max-width: 100%
+
+.block-background,
+.block-bg
+  background-size: cover
+  background-position: center
+
+.block-bg-bottom
+  background-position: bottom !important
+
+.edge-bottom::after,
+.edge-top::before
+  display: block
+  position: absolute
+
+  background: inherit
+  content: ''
+  height: 50%
+  left: 0
+  right: 0
+
+  -webkit-backface-visibility: hidden
+
+  transform: skewY(-1.5deg)
+  z-index: -1
+
+.edge-bottom::after
+  bottom: 0
+  transform-origin: 100%
+
+.edge-top::before
+  top: 0
+  transform-origin: 0 0
+
+.callout-box
+  background-color: #fff
+  border-radius: 6px
+  padding: 1rem
+
+.callout-box-skew
+  transform: skewY(-1.5deg)
