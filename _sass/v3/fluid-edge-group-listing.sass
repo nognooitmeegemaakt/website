@@ -1,0 +1,40 @@
+#index-groups
+  // remove padding from block styles.
+  padding-left: 0
+  padding-right: 0
+  padding-top: 0
+  padding-bottom: 0
+
+  // prevent horizontal overflow
+  &> .row
+    margin-left: 0
+    margin-right: 0
+
+  // special styles for fluid group listing.
+  &> .row > .col
+    position: relative
+    width: 25%
+    display: inline-block
+    overflow: hidden
+    margin: 0
+    float: left
+    padding: 0
+
+  .group-info
+    padding: 150px 40px 40px
+    position: absolute
+    z-index: 10
+    top: 0
+    height: 100%
+    width: 100%
+    color: #fff
+
+    h4
+      font-size: 3rem
+
+  .group-image
+    background-size: cover
+    background-position: center
+    display: inline-block
+    height: 500px
+    width: 100%

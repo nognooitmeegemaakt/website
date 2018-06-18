@@ -19,9 +19,25 @@ header: "Al 85 jaar een begrip in Den Bosch."
 
 </section>
 
-<section id="block index-groups">
+<section class="block block-groups block-centered" id="index-groups">
 
+  <div class="row">
+    {% assign groups = site.groups | sort: 'order' %}
+    {% for group in groups %}
+      <div class="col">
+        <!--//<img class="group-image" src="/assets/img/social/activities/{{ group.image }}">//-->
+        <div class="group-image" style="background-image: url('/assets/img/social/activities/{{ group.image }}');"></div>
 
+        <div class="group-info">
+          <h4>
+            <span class="group-title">{{ group.title }}</span>
+          </h4>
+          {% capture filecontents %}{% include text/groupinfo-{{ group.group }}.md %}{% endcapture %}
+          {{ filecontents | markdownify }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 
 </section>
 
