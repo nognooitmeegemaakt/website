@@ -91,9 +91,15 @@ html, body
   bottom: 0
   transform-origin: 100%
 
+  // prevent early cut of content in bottom left corner of section.
+  margin-bottom: -9px
+
 .edge-top::before
   top: 0
   transform-origin: 0 0
+
+  // prevent early cut of content in bottom left corner of section.
+  margin-top: -9px
 
 .callout-box
   background-color: #fff
