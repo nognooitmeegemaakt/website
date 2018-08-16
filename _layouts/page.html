@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+  {% include comment.html %}
+  <html lang="nl">
+    <head>
+      {% include head.html %}
+
+      {% if page.icons %}
+      <link rel="stylesheet" href="/assets/css/ionicons.min.css">
+      {% endif %}
+    </head>
+    <body>
+
+      <section id="navbar">
+        {% include navbar.html %}
+      </section>
+
+      <section id="header">
+        {% include header.html %}
+      </section>
+
+      {{ content }}
+
+      <section id="footer">
+        {% include footer.html %}
+      </section>
+
+      {% include scripts.html %}
+
+      {% if page.scripts or scripts %}
+        {{ page.scripts | default: scripts }}
+      {% endif %}
+
+    </body>
+  </html>

@@ -1,0 +1,3 @@
+- <i class="icon ion-ios-call"></i> Laat een bericht achter op [073 203 2556](tel:0732032556)
+- <i class="icon ion-ios-text"></i> [Stuur een bericht via Facebook](https://m.me/NogNooitMeegemaakt)
+- <i class="icon ion-ios-mail"></i> [Neem contact op via e-mail](#email)

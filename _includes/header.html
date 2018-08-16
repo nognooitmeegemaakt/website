@@ -1,0 +1,13 @@
+
+<img class="header-background" src="/assets/img/bg/main.jpg">
+<div class="content-wrapper">
+  <div class="header-content">
+    <h1>{{ page.header | default: page.title }}</h1>
+    {% if page.order == 1 %}
+      {% capture filecontents %}{% include text/index-header.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    {% else %}
+      <p>{{ page.header | default: page.description }}</p>
+    {% endif %}
+  </div>
+</div>

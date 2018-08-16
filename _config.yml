@@ -1,13 +1,29 @@
-author: "Sander Laarhoven"
+##
+## nognooitmeegemaakt.nl
+##
+
 owner: "Stichting Scouting Groep Petrus en Paulus"
-copyright: "Copyright (c) Nog Nooit Meegemaakt 2016"
-version: "1.0.0"
+author: "Sander Laarhoven & Jesse van der Pluijm"
+copyright: "Copyright (c) Nog Nooit Meegemaakt 1934-2018"
+version: 3.0.0
+
 title: "Nog Nooit Meegemaakt"
-domain: "https://nognooitmeegemaakt.nl"
-logo: "https://nognooitmeegemaakt.nl/assets/img/logo.png"
 description: "Scoutinggroep P&P verzorgt activiteiten die jij nog nooit hebt meegemaakt! Lijkt het je leuk om mee te doen? Kom dan een keer kijken, of meld je aan!"
 keywords: "scouting, den bosch, P&P, petrus en paulus, nog nooit meegemaakt, outdoor, stoer"
+
+logo: "/assets/img/logo.png"
+
+jaarplanning: "/assets/docs/jaarplanning-2017-2018.pdf"
+
+ga: "UA-81173104-1"
+
+social:
+  facebook: "https://facebook.com/NogNooitMeegemaakt"
+  linkedin: "https://linkedin.com/company/scouting-den-bosch"
+
 collections:
+  pages:
+    output: true
   groups:
     output: true
     permalink: /groep/:path/
@@ -15,4 +31,3 @@ collections:
     output: true
     permalink: /programma/:path/
 markdown: kramdown
-jaarplanning: "/assets/docs/jaarplanning-2017-2018.pdf"

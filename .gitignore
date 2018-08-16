@@ -1,3 +1,20 @@
+
+# Ignore Jekyll build folder.
 _site/
+
+# Ignore SASS cache folder.
 .sass-cache/
+
+# Ignore MacOS files.
 .DS_Store
+
+# Ignore temporary files.
+assets/img/social/njb.png
+assets/img/social/njb.psd
+
+# Ignore old files.
+*.old.*
+
+# Ignore Adobe Lightroom archives.
+*.lrdata
+*.lrcat

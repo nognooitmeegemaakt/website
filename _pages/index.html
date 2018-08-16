@@ -1,0 +1,89 @@
+---
+order: 1
+layout: page
+permalink: /
+title: Home
+header: "Al 85 jaar een begrip in Den Bosch."
+---
+
+<section class="block" id="index-skills" style="display: none;">
+
+  <!--// TODO: Implement skills section. //-->
+
+</section>
+
+<section class="block block-split block-split-images edge-top edge-bottom" id="index-callout">
+
+  <div class="row">
+    <div class="col">
+      {% capture filecontents %}{% include text/index-callout.md %}{% endcapture %}
+      {{ filecontents | markdownify }}
+    </div>
+    <div class="col">
+      <div class="container">
+        <div class="row row-images">
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/stam_hike.jpg">
+          </div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/welpen_installatie.jpg">
+          </div>
+          <div class="w-100"></div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/scouts_zipline.jpg">
+          </div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/gidsen_brug.jpg">
+          </div>
+          <div class="w-100"></div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/gidsen_vlot.jpg">
+          </div>
+          <div class="col">
+            <img src="/assets/img/social/activities/5x7/gidsen_kampvuur.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<section class="block block-groups block-centered" id="index-groups">
+
+  <div class="row">
+    {% assign groups = site.groups | sort: 'order' %}
+    {% for group in groups %}
+      <div class="col">
+        <!--//<img class="group-image" src="/assets/img/social/activities/{{ group.image }}">//-->
+        <div class="group-image" style="background-image: url('/assets/img/social/activities/{{ group.image }}');"></div>
+
+        <div class="group-info">
+          <h4>
+            <span class="group-title">{{ group.title }}</span>
+          </h4>
+          {% capture filecontents %}{% include text/groupinfo-{{ group.group }}.md %}{% endcapture %}
+          {{ filecontents | markdownify }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+</section>
+
+<section class="block block-signup block-centered edge-top edge-bottom" id="index-signup">
+
+  <div class="centered-text">
+    {% capture filecontents %}{% include text/index-signup.md %}{% endcapture %}
+    {{ filecontents | markdownify }}
+  </div>
+
+</section>
+
+<section class="block block-button block-centered block-bg block-bg-bottom" id="index-signup-button"
+  style="background-image: url('/assets/img/social/activities/5x7/gidsen_zand.jpg');">
+
+    <div class="callout-box callout-box-skew col-4 offset-4">
+      {% include signup-lead.html %}
+    </div>
+</section>
