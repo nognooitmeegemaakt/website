@@ -12,7 +12,7 @@ Aangepast op 6 september.
 
 | | |
 |---|---|
-| 1 jan. '08 | Appelpop bakwedstrijd - Luna en Morris |
+| 8 sep. '18 | Appelpop bakwedstrijd - Luna en Morris |
 | 1 jan. '11 | Badminton Toernooi - Brynn en Rosie |
 | 1 jan. '15 | Sop-Klasse-eisseen-Spel - Janneke, Lucas, Qamar |
 | 1 jan. '18 | Koekiemonsterprullenbakspel - Master van Liempt |
@@ -22,7 +22,7 @@ Aangepast op 6 september.
 | 1 jan. '02 - Invalid date | Apenkooi XXXL - Sterre en Henk |
 | 1 jan. '06 | Apenkooi XXXL - Sterre en Henk |
 | 1 jan. '09 | Bioscoop met Popcorn - Milo en Storm |
-| Invalid date | Halloween weekend (bring a friend)  |
+| Invalid date | Halloween weekend (bring a friend) |
 | 1 jan. '16 | AVA - Asmen en Tessa |
 | 1 jan. '30 | Programma maken |
 | 1 jan. '03 | Moerastocht - Janneke en Lucas |
