@@ -30,15 +30,15 @@ Aangepast op 6 september.
 | 10 nov. '18 - Invalid date | Survivalrun - Staf en Stam |
 | Invalid date |  |
 | Invalid date |  |
-| 8 sep. '18 | Kerstgala |
-| 8 sep. '18 | Jubileumkamp - Groepsweekend |
-| 8 sep. '18 | Nieuwjaarsborrel |
-| 8 sep. '18 | Oliebollenfantengloop |
-| 8 sep. '18 - Invalid date | The Hunt (Inc. Overnachting) |
-| 1 jan. '20 | Paasbijeenkomst, St Joris 12:30 tm 14:30 |
-| 1 dec. '11 - Invalid date | Voorbereidingsweekend RSW |
-| 1 jan. '30 | Regionale scoutingwedstrijden |
-| Invalid date - Invalid date | Zomerkamp |
+| 22 dec. '18 | Kerstgala |
+| 3 jan. '19 | Jubileumkamp - Groepsweekend |
+| 11 jan. '19 | Nieuwjaarsborrel |
+| 2 mrt. '19 | Oliebollenfantengloop |
+| 15 mrt. '19 - Invalid date | The Hunt (Inc. Overnachting) |
+| 20 apr. '19 | Paasbijeenkomst, St Joris 12:30 tm 14:30 |
+| 11 mei '19 - Invalid date | Voorbereidingsweekend RSW |
+| 30 mei '19 | Regionale scoutingwedstrijden |
+| 6 jul. '19 - 13 jul. '19 | Zomerkamp |
 | Invalid date |  |
 | Invalid date - Invalid date |  |
 | Invalid date - Invalid date |  |
