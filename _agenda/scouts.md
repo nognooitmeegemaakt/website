@@ -6,31 +6,28 @@ agenda: scouts
 footer: ""
 ---
 
-Scouts Programma van januari - mei.
+Scouts Programma van Sept- Nov
 
-Aangepast op 1 februari.
+Aangepast op 6 september.
 
 | | |
 |---|---|
-| 20 jan. '18 | Spelletjesdag XXL door Fenna en Storm |
-| 23 jan. '18 | Emblemen ontwerpen door Janneke en Sarah |
-| 27 jan. '18 | Brug Pionieren door Max en Simon |
-| 30 jan. '18 | Glow in the dark Badminton |
-| 3 feb. '18 | Het Grote Aftekenspel |
-| 6 feb. '18 | Cultuur avond |
-| 10 feb. '18 | Oliebollenfantengeloop |
-| 13 feb. '18 - 17 feb. '18 | Geen Bijeenkomst (Carnavalsvakantie) |
-| 20 feb. '18 | Keramieken met Lucas |
-| 24 feb. '18 | Gidsen vs. Verkenners door Simon en Sterre |
-| 27 feb. '18 | Spa Wellness door Asmen en Olivier |
-| 3 mrt. '18 | Veldoven maken |
-| 6 mrt. '18 | Schuimparty door Janneke en Rosie |
-| 10 mrt. '18 | Paintball door Milo en Job |
-| 13 mrt. '18 | Graffiti door Tessa en Job |
-| 16 mrt. '18 - 17 mrt. '18 | The Hunt (19:00) |
-| 20 mrt. '18 | Dansles |
-| 24 mrt. '18 | Zwarte Valk |
-| 27 mrt. '18 | Sporten in Gymzaal door Henk en Brynn |
+| 1 jan. '08 | Appelpop bakwedstrijd - Luna en Morris |
+| 1 jan. '11 | Badminton Toernooi - Brynn en Rosie |
+| 1 jan. '15 | Sop-Klasse-eisseen-Spel - Janneke, Lucas, Qamar |
+| 1 jan. '18 | Koekiemonsterprullenbakspel - Master van Liempt |
+| 1 jan. '22 | Skate hike - Sarah, Femke, Olivier |
+| 1 jan. '25 | Game-Spelletjes avond - Fenna, Islay en Lieve |
+| 1 jan. '29 | Escape Room - Staf |
+| 1 jan. '02 - Invalid date | Apenkooi XXXL - Sterre en Henk |
+| 1 jan. '06 | Apenkooi XXXL - Sterre en Henk |
+| 1 jan. '09 | Bioscoop met Popcorn - Milo en Storm |
+| Invalid date | Halloween weekend (bring a friend)  |
+| 1 jan. '16 | AVA - Asmen en Tessa |
+| 1 jan. '30 | Programma maken |
+| 1 jan. '03 | Moerastocht - Janneke en Lucas |
+| 1 jan. '06 | Zwarte Valk (alleen bijeenkomst voor PL's en APL's) |
+| 1 jan. '10 - Invalid date | Survivalrun - Staf en Stam |
 | 31 mrt. '18 | Paaseierenrace |
 | 3 apr. '18 | Kimproeven |
 | 7 apr. '18 | Geen Bijeenkomst |
