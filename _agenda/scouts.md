@@ -13,28 +13,28 @@ Aangepast op 6 september.
 | | |
 |---|---|
 | 8 sep. '18 | Appelpop bakwedstrijd - Luna en Morris |
-| 1 jan. '11 | Badminton Toernooi - Brynn en Rosie |
-| 1 jan. '15 | Sop-Klasse-eisseen-Spel - Janneke, Lucas, Qamar |
-| 1 jan. '18 | Koekiemonsterprullenbakspel - Master van Liempt |
-| 1 jan. '22 | Skate hike - Sarah, Femke, Olivier |
-| 1 jan. '25 | Game-Spelletjes avond - Fenna, Islay en Lieve |
-| 1 jan. '29 | Escape Room - Staf |
-| 1 jan. '02 - Invalid date | Apenkooi XXXL - Sterre en Henk |
-| 1 jan. '06 | Apenkooi XXXL - Sterre en Henk |
-| 1 jan. '09 | Bioscoop met Popcorn - Milo en Storm |
-| Invalid date | Halloween weekend (bring a friend) |
-| 1 jan. '16 | AVA - Asmen en Tessa |
-| 1 jan. '30 | Programma maken |
-| 1 jan. '03 | Moerastocht - Janneke en Lucas |
-| 1 jan. '06 | Zwarte Valk (alleen bijeenkomst voor PL's en APL's) |
-| 1 jan. '10 - Invalid date | Survivalrun - Staf en Stam |
+| 11 sep. '18 | Badminton Toernooi - Brynn en Rosie |
+| 15 sep. '18 | Sop-Klasse-eisseen-Spel - Janneke, Lucas, Qamar |
+| 18 sep. '18 | Koekiemonsterprullenbakspel - Master van Liempt |
+| 22 sep. '18 | Skate hike - Sarah, Femke, Olivier |
+| 25 sep. '18 | Game-Spelletjes avond - Fenna, Islay en Lieve |
+| 29 sep. '18 | Escape Room - Staf |
+| 2 okt. '18 - Invalid date | Apenkooi XXXL - Sterre en Henk |
+| 6 okt. '18 | Apenkooi XXXL - Sterre en Henk |
+| 9 okt. '18 | Bioscoop met Popcorn - Milo en Storm |
+| 12 okt. '18 | Halloween weekend (bring a friend) |
+| 16 okt. '18 | AVA - Asmen en Tessa |
+| 30 okt. '18 | Programma maken |
+| 3 nov. '18 | Moerastocht - Janneke en Lucas |
+| 6 nov. '18 | Zwarte Valk (alleen bijeenkomst voor PL's en APL's) |
+| 10 nov. '18 - Invalid date | Survivalrun - Staf en Stam |
 | Invalid date |  |
 | Invalid date |  |
-| 1 jan. '22 | Kerstgala |
-| 1 jun. '03 | Jubileumkamp - Groepsweekend |
-| 1 jan. '11 | Nieuwjaarsborrel |
-| 1 jan. '02 | Oliebollenfantengloop |
-| 1 jan. '15 - 1 jan. '16 | The Hunt (Inc. Overnachting) |
+| 8 sep. '18 | Kerstgala |
+| 8 sep. '18 | Jubileumkamp - Groepsweekend |
+| 8 sep. '18 | Nieuwjaarsborrel |
+| 8 sep. '18 | Oliebollenfantengloop |
+| 8 sep. '18 - Invalid date | The Hunt (Inc. Overnachting) |
 | 1 jan. '20 | Paasbijeenkomst, St Joris 12:30 tm 14:30 |
 | 1 dec. '11 - Invalid date | Voorbereidingsweekend RSW |
 | 1 jan. '30 | Regionale scoutingwedstrijden |
