@@ -1,6 +1,6 @@
 author: "Sander Laarhoven"
 owner: "Stichting Scouting Groep Petrus en Paulus"
-copyright: "Copyright (c) Nog Nooit Meegemaakt 2016"
+copyright: "Copyright (c) Nog Nooit Meegemaakt 2018"
 version: "1.0.0"
 title: "Nog Nooit Meegemaakt"
 domain: "https://nognooitmeegemaakt.nl"
@@ -15,4 +15,4 @@ collections:
     output: true
     permalink: /programma/:path/
 markdown: kramdown
-jaarplanning: "/assets/docs/jaarplanning-2017-2018.pdf"
+jaarplanning: "/assets/docs/jaarplanning-2018-2019.pdf"
