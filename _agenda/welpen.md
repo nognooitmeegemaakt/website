@@ -6,7 +6,7 @@ agenda: welpen
 footer: "_Laatste wijziging 17-09-2018_"
 ---
 
-Welpen Programma van september tot januari
+Welpen Programma van september tot en met januari
 
 Aangepast op 17 september.
 
