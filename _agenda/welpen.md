@@ -8,7 +8,7 @@ footer: "_Laatste wijziging 17-09-2018_"
 
 Welpen Programma van september tot en met januari
 
-Aangepast op 17 september.
+Aangepast op 18 september.
 
 | | |
 |---|---|
@@ -28,7 +28,7 @@ Aangepast op 17 september.
 | 15 dec. '18 | Kerst Engeltjes Vleugeltjes Verzamel Spel |
 | 22 dec. '18 | Kerstgala |
 | 29 dec. '18 | Geen Bijeenkomst |
-| 3 jan. '19 - 6 dec. '19 | KAMP Jubileum Weekend |
+| 3 jan. '19 - 6 jan. '19 | KAMP Jubileum Weekend |
 | 12 jan. '19 | Scheikundige Proefjes |
 | 19 jan. '19 | Landrotten Bosspel met Dolfijnen Sint Joris |
 | 26 jan. '19 | Stadsorentatie Boschelogie |
