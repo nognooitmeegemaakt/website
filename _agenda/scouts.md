@@ -8,7 +8,7 @@ footer: ""
 
 Scouts Programma van Sept- Nov
 
-Aangepast op 15 september.
+Aangepast op 14 oktober.
 
 | | |
 |---|---|
@@ -19,13 +19,16 @@ Aangepast op 15 september.
 | 22 sep. '18 | Skate hike - Sarah, Femke, Olivier |
 | 25 sep. '18 | Apenkooi XXXL - Sterre en Henk |
 | 29 sep. '18 | Apenkooi XXXL - Sterre en Henk |
-| 2 okt. '18 | Game-Spelletjes avond - Fenna, Islay en Lieve  |
+| 2 okt. '18 | Game-Spelletjes avond - Fenna, Islay en Lieve |
 | 6 okt. '18 | Escape Room - Baloe en Janneke |
 | 9 okt. '18 | Bioscoop met Popcorn - Milo en Storm |
 | 12 okt. '18 - 13 okt. '18 | Halloween weekend (bring a friend) |
-| 16 okt. '18 | AVA - Asmen en Tessa |
-| 30 okt. '18 | Programma maken |
-| 3 nov. '18 | Moerastocht - Janneke en Lucas |
+| 16 okt. '18 | Geen bijeenkomst - Herfstvakantie |
+| 20 okt. '18 | Geen bijeenkomst - Herfstvakantie |
+| 23 okt. '18 | Programma maken |
+| 27 okt. '18 | Instructie / Klasse eisen |
+| 30 okt. '18 | AVA - Asmen en Tessa |
+| 3 nov. '18 | Bosspel- Janneke en Lucas |
 | 6 nov. '18 | Zwarte Valk (alleen bijeenkomst voor PL's en APL's) |
 | 10 nov. '18 | Survivalrun - Staf en Stam |
 | 22 dec. '18 | Kerstgala |
