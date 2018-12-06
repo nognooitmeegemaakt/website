@@ -8,7 +8,7 @@ footer: "_Laatste wijziging 17-09-2018_"
 
 Welpen Programma van september tot en met januari
 
-Aangepast op 18 september.
+Aangepast op 6 december.
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ Aangepast op 18 september.
 | 1 dec. '18 | Het Grote Sinterklaasspel |
 | 8 dec. '18 | Handelsspel |
 | 15 dec. '18 | Kerst Engeltjes Vleugeltjes Verzamel Spel |
-| 22 dec. '18 | Kerstgala |
+| 22 dec. '18 | Bosspel |
 | 29 dec. '18 | Geen Bijeenkomst |
 | 3 jan. '19 - 6 jan. '19 | KAMP Jubileum Weekend |
 | 12 jan. '19 | Scheikundige Proefjes |
