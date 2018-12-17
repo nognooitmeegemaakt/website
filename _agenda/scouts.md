@@ -8,7 +8,7 @@ footer: ""
 
 Scouts Programma van Sept- Nov
 
-Aangepast op 10 november.
+Aangepast op 17 december.
 
 | | |
 |---|---|
@@ -23,9 +23,9 @@ Aangepast op 10 november.
 | 4 dec. '18 | Pepernoten bakken - Brynn & Lieve |
 | 8 dec. '18 | Kermisattractie pionieren - Vaandrig Trommelen |
 | 11 dec. '18 | Wie-is-Het/Over mij-spel - Qamar en Lucas |
-| 15 dec. '18 | Installatiemiddag - Brynn, Storm, Rens, Islay & Eva |
+| 15 dec. '18 | Klasse eisen - voorbereiding groepsweekend |
 | 18 dec. '18 | Internationale kerstgroet uit Den Bosch - Asmen en Sarah |
-| 22 dec. '18 | Kerstgala |
+| 22 dec. '18 | Afscheidprogramma Lucas, Janneke, Qamar, Femke |
 | 25 dec. '18 - 1 jan. '19 | Geen bijeenkomsten - Kerstvakantie |
 | 3 jan. '19 - 6 jan. '18 | Jubileumkamp - Groepsweekend |
 | 11 jan. '19 | Nieuwjaarsborrel |
