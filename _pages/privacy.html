@@ -1,0 +1,12 @@
+---
+order: 0
+layout: page
+permalink: /privacy/
+title: Privacy Beleid
+description: "Scouting P&P 's-Hertogenbosch verwerkt persoonsgegevens. Wij willen je hierover graag duidelijk en transparant informeren."
+---
+<section class="block block-white block-text edge-top" style="z-index:1;">
+	{% assign file = "text/privacy-policy.md" %}
+	{% capture filecontents %}{% include {{file}} %}{% endcapture %}
+	{{ filecontents | markdownify }}
+</section>
