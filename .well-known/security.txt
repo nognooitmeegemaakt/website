@@ -1,0 +1,4 @@
+Contact: webteam@nognooitmeegemaakt.nl
+Encryption: https://nognooitmeegemaakt.nl/.well-known/webteam.asc
+Policy: https://nognooitmeegemaakt.nl/responsible-disclosure
+Hiring: https://nognooitmeegemaakt.nl/word-vrijwilliger

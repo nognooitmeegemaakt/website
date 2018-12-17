@@ -1,0 +1,12 @@
+---
+order: 0
+layout: page
+permalink: /responsible-disclosure/
+title: Responsible Disclosure Beleid
+description: "Bij Scouting P&P 's-Hertogenbosch vinden wij de veiligheid van onze systemen erg belangrĳk. Ondanks onze zorg voor de beveiliging van onze systemen kan het voorkomen dat er toch een zwakke plek is."
+---
+<section class="block block-white block-text edge-top" style="z-index:1;">
+	{% assign file = "text/responsible-disclosure.md" %}
+	{% capture filecontents %}{% include {{file}} %}{% endcapture %}
+	{{ filecontents | markdownify }}
+</section>
