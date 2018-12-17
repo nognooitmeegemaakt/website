@@ -16,6 +16,10 @@
     <ul class="nav navbar-nav">
       {% for page in pages %}
 
+        {% if page.order == 0 %}
+          {% continue %}
+        {% endif %}
+
         {% if currentPage.url == page.url %}
           {% assign active = 'active' %}
         {% else %}
