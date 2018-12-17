@@ -52,7 +52,7 @@
 
         {% else %}
 
-          <li class="nav-item {{ active }}"><a class="nav-link" href="{{ page.url}}">{{ page.title }}</a></li>
+          <li class="nav-item {{ active }}"><a class="nav-link" href="{{ page.url}}">{{ page.shortTitle | default: page.title }}</a></li>
 
         {% endif %}
 
