@@ -6,7 +6,7 @@ agenda: scouts
 footer: ""
 ---
 
-Scouts Programma van Sept- Nov
+Scouts Programma van Jan- Feb
 
 Aangepast op 15 januari.
 
