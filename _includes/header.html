@@ -3,7 +3,7 @@
 <div class="content-wrapper">
   <div class="header-content">
     <h1>{{ page.header | default: page.title }}</h1>
-    {% if page.order == 1 %}
+    {% if page.permalink == "/" %}
       {% capture filecontents %}{% include text/index-header.md %}{% endcapture %}
       {{ filecontents | markdownify }}
     {% else %}
