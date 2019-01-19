@@ -2,7 +2,7 @@ Als u een zwakke plek in één van onze systemen heeft gevonden horen wij dit gr
 
 ## Wij vragen u:  
 
-- Uw bevindingen te mailen naar [webteam@nognooitmeegemaakt.nl](mailto:security@nognooitmeegemaakt.nl). Versleutel uw bevindingen met [onze PGP key](/.well-known/webteam.asc) om te voorkomen dat de informatie in verkeerde handen valt,
+- Uw bevindingen te mailen naar [webteam@nognooitmeegemaakt.nl](mailto:security@nognooitmeegemaakt.nl). Versleutel uw bevindingen met [onze PGP key](/.well-known/pgp.txt) om te voorkomen dat de informatie in verkeerde handen valt,
 - Het probleem niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of gegevens van derden in te kijken, verwijderen of aanpassen,
 - Het probleem niet met anderen te delen totdat het is opgelost en alle vertrouwelijke gegevens die zijn verkregen via het lek direct na het dichten van het lek te wissen,
 Geen gebruik te maken van aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden, en
@@ -24,4 +24,4 @@ Wij streven er naar om alle problemen zo snel mogelijk op te lossen en wij worde
 - Dit is geen uitnodiging om uitgebreid onze site te scannen; dat levert ons overlast op en zullen we daarom actief weren.
 - (D)DOS, fysieke beveiliging en social engineering vallen buiten deze bepalingen.
 
-(Bron: responsibledisclosure.nl & tweakers.net)
+*(Bron: responsibledisclosure.nl & tweakers.net)*
