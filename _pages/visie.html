@@ -2,11 +2,14 @@
 order: 2
 layout: page
 permalink: /visie/
-title: Visie
-header: "De visie van onze groep."
+shortTitle: Visie
+title: "De visie van onze groep."
+description: "In het hart van de binnenstad, verscholen tussen school en kerk huist de oudste
+jeugdvereniging van ‘s-Hertogenbosch. Al 85 jaar is de binnenstad het spelterrein van de
+Petrus &amp; Paulusgroep."
 ---
 
-<section id="vision-content" class="block">
+<section id="vision-content" class="block block-white edge-top" style="z-index: 1;">
   {% capture filecontents %}{% include text/vision.md %}{% endcapture %}
   {{ filecontents | markdownify }}
 </section>
