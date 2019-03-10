@@ -8,14 +8,14 @@ footer: "_Laatste wijziging 06-02-2019_"
 
 Welpen Programma van februari-juli
 
-Aangepast op 6 februari.
+Aangepast op 10 maart.
 
 | | |
 |---|---|
 | 9 feb. | Handelsspel |
 | 16 feb. | Bezoek Bouwhal |
 | 23 feb. | Bezoek Brandweer |
-| 2 mrt. | Oliebollenfantengeloop  |
+| 2 mrt. | Oliebollenfantengeloop |
 | 9 mrt. | Geen Bijeenkomst |
 | 16 mrt. | Pizza Bezorgspel |
 | 23 mrt. | Het Grote Groepsleider Spel |
@@ -31,7 +31,7 @@ Aangepast op 6 februari.
 | 1 jun. | AKELAND Waterfun |
 | 8 jun. | NTB |
 | 15 jun. | NTB |
-| 6 jul. - 13 jul. | ZOMERKAMP |
+| 7 jul. - 13 jul. | ZOMERKAMP |
 {: .table :}
 
 {{ page.footer }}
