@@ -3,7 +3,7 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 06-02-2019_"
+footer: "_Laatste wijziging 18-03-2019_"
 ---
 
 Welpen Programma van februari-juli
