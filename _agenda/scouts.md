@@ -22,7 +22,7 @@ Aangepast op 20 april.
 | 14 mei '19 | SurvivaltipQuiz - Olivier |
 | 18 mei '19 | Ranking the Scouts - Staf |
 | 21 mei '19 | Routetechnieken - instructie - Staf |
-| 25 mei '19 | Routetechnieken - hike - Staf |
+| 25 mei '19 | Klasse eisen spel - Staf |
 | 28 mei '19 | Klaarzetten RSW |
 | 30 mei '18 - 1 jun. '19 | Regionale scoutingwedstrijden |
 | 4 jun. '19 | De profielfoto van je dromen - ouders & staf |
