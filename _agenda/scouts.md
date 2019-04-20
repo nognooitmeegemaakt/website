@@ -6,7 +6,7 @@ agenda: scouts
 footer: ""
 ---
 
-Scouts Programma van Feb t/m April 2019
+Scouts Programma van April t/m Juli 2019
 
 Aangepast op 20 april.
 
