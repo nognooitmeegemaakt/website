@@ -2,7 +2,7 @@
 |----------------|---------------------------------------------------------------|
 | Bestuur        |  [Leo](mailto:leo@nognooitmeegemaakt.nl)                      |
 | Groepsleider   |  [Levi](mailto:levi@nognooitmeegemaakt.nl)                    |
-| Penningmeester |  [Lex](mailto:lex@nognooitmeegemaakt.nl)                      |
+| Penningmeester |  [Jos](mailto:jos@nognooitmeegemaakt.nl)                      |
 | Welpen         |  [Fabrizio](mailto:fabrizio@nognooitmeegemaakt.nl)            |
 | Scouts & Gidsen|  [Guidon](mailto:guidon@nognooitmeegemaakt.nl)                |
 | Stam           |  [Syquin](mailto:syquin@nognooitmeegemaakt.nl)                |
