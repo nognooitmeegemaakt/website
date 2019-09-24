@@ -6,24 +6,41 @@ agenda: scouts
 footer: ""
 ---
 
-Scouts Programma van April t/m Juli 2019
+Scouts Programma van September t/m December
 
-Aangepast op 2 juni.
+Aangepast op 24 september.
 
 | | |
 |---|---|
-| 30 mei '18 - 1 jun. '19 | Regionale scoutingwedstrijden |
-| 4 jun. '19 | Voorbereiden Landelijke Scouting Wedstrijden |
-| 8 jun. '19 - 10 jun. '19 | Haviken op LSW > helaas geen bijeenkomst voor de rest van de scouts |
-| 11 jun. '19 | Patrouilleavond zomerkamp - Staf |
-| 15 jun. '19 | Trappersbaan - Stam en Staf |
-| 18 jun. '19 | Sport en Spel in het Zuiderpark door de Valken |
-| 22 jun. '19 | Oudermiddag zomerkamp - 12:30 tot 14:30 |
-| 25 jun. '19 | Stadspel Tijgers |
-| 29 jun. '19 | Klaarzetten zomerkamp |
-| 2 jul. '19 | Strandspelen - Valken & Panters |
-| 6 jul. '19 - 13 jul. '19 | Zomerkamp |
-| 7 sep. '19 | Start seizoen en overvliegen in September, nadere info volgt. |
+| 28 sep. '19 | Escape room (VvL) |
+| 1 okt. '19 | Ouderavond / Welpen-games (Tygo & Storm) |
+| 5 okt. '19 - 6 okt. '19 | Herfstkamp |
+| 8 okt. '19 | Muziekavond (Simon) |
+| 12 okt. '19 - 19 okt. '19 | Herfstvakantie - geen bijeenkomsten |
+| 22 okt. '19 |  Herfstknutsel-Stop-motion-film (Rosie) |
+| 26 okt. '19 |  Herdenkingsbijeenkomst 13:00 - 14:00  &  Survivalrun koppelkoers (Staf) |
+| 29 okt. '19 |  Halloween Schminken (Lieve) |
+| 2 nov. '19 |  Moerastocht (Warme kleding meenemen) (Milo) |
+| 5 nov. '19 | Opbouwen Apekooi (Staf) |
+| 9 nov. '19 | Apekooien (Spel door Fenna)  |
+| 12 nov. '19 | Instructiespel (Luna & Staf) |
+| 16 nov. '19 | Advanced verstoppertje met walkies en morse (Isis)  |
+| 19 nov. '19 | Casino avond (Lucas, Eddy, Eva, Naomi) |
+| 23 nov. '19 | Speurtocht incl Hike-technieken (Olivier) |
+| 26 nov. '19 | Challenge roulette - fun-games & klasse eisen (Storm) |
+| 30 nov. '19 | Jachtseizoen - Zwarte Valk bijeenkomst (Staf) |
+| 3 dec. '19 | Quiz (Olivier) |
+| 7 dec. '19 | Sinterklaas (Staf) |
+| 10 dec. '19 | Kerstkaarten maken (Isis) |
+| 14 dec. '19 | Boulderen (Milo & Staf) |
+| 17 dec. '19 | Waarheen leidt de weg (Staf)  |
+| 21 dec. '19 - 23 dec. '19 | Kersthike |
+| 24 dec. '19 - 7 jan. '20 | Kerstvakantie |
+| 10 jan. '20 | Nieuwjaarsborrel 20:00 - 21:30 |
+| 11 jan. '20 | Programma maken |
+| 14 jan. '20 | Ereraad |
+| 18 jan. '20 | Kimproeven (Milo, Simon, Liuna) |
+| 21 jan. '20 |  |
 {: .table :}
 
 {{ page.footer }}
