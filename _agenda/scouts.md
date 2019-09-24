@@ -39,7 +39,7 @@ Aangepast op 24 september.
 | 10 jan. '20 | Nieuwjaarsborrel 20:00 - 21:30 |
 | 11 jan. '20 | Programma maken |
 | 14 jan. '20 | Ereraad |
-| 18 jan. '20 | Kimproeven (Milo, Simon, Liuna) |
+| 18 jan. '20 | Kimproeven (Milo, Simon, Luna) |
 | 21 jan. '20 |  |
 {: .table :}
 
