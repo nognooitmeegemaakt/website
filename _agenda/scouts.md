@@ -16,11 +16,11 @@ Aangepast op 18 januari.
 | 21 jan. | De Verlegen Voedsel Verjaardag - Pieke & Friends |
 | 25 jan. | Lego - Milo/ Lucas/ Eddy |
 | 28 jan. | Betoverend Doolhof - Jesse & Friends |
-| 1 feb. | Chase Tag - Simon & Tygo |
+| 1 feb. | Outdoor Chase Tag - Simon & Tygo |
 | 4 feb. | Challenge games - Cato & Storm |
-| 8 feb. | Pop-up Restaurant - Staf  |
+| 8 feb. | Pop-up Restaurant - Staf |
 | 11 feb. | Voorbereiding OBFG - Staf |
-| 15 feb. | Yukigassen & Zandkastelen bouwen - Olivier & Morris |
+| 15 feb. | Yukigassen & Zandkastelen bouwen op het strand - Olivier & Morris |
 | 18 feb. | Gymzaal (Trefbal met Yogaballen) - Sil & Staf |
 | 22 feb. | Het OBFG met Prins Jippe |
 | 22 feb. - 1 mrt. | Carnavalsvakantie |
