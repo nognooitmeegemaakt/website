@@ -3,10 +3,10 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 30-08-2019_"
+footer: "_Laatste wijziging 06-02-2020_"
 ---
 
-Welpen Programma van september - januari
+Welpen Programma van februari - juli
 
 Aangepast op 6 februari.
 
