@@ -8,45 +8,45 @@ footer: ""
 
 Scouts Programma van September t/m December
 
-Aangepast op 18 januari.
+Aangepast op 17 september.
 
 | | |
 |---|---|
-| 18 jan. | Kimproeven (Milo, Simon, Luna) |
-| 21 jan. | De Verlegen Voedsel Verjaardag - Pieke & Friends |
-| 25 jan. | Lego - Milo/ Lucas/ Eddy |
-| 28 jan. | Betoverend Doolhof - Jesse & Friends |
-| 1 feb. | Outdoor Chase Tag - Simon & Tygo |
-| 4 feb. | Challenge games - Cato & Storm |
-| 8 feb. | Pop-up Restaurant - Staf |
-| 11 feb. | Voorbereiding OBFG - Staf |
-| 15 feb. | Yukigassen & Zandkastelen bouwen op het strand - Olivier & Morris |
-| 18 feb. | Gymzaal (Trefbal met Yogaballen) - Sil & Staf |
-| 22 feb. | Het OBFG met Prins Jippe |
-| 22 feb. - 1 mrt. | Carnavalsvakantie |
-| 3 mrt. | Hout bewerken - Milo & Fenna |
-| 7 mrt. | Heel Scouting Bakt - Isis en Krista |
-| 10 mrt. | Zaklampenspel / Seinen - Lieve & Naomi |
-| 14 mrt. | Maffiaspel in het bos - Janneke |
-| 17 mrt. | GroepsGraffiti - Olivier & Eva |
-| 21 mrt. | Scouting got Talent, op podiumlocatie - Luna & Rosie |
-| 24 mrt. | Muziekavond - Simon & Storm |
-| 28 mrt. | Zwarte Valk / Ereraad - Staf |
-| 31 mrt. | Hunger games Stratego - Morris & Lucas |
-| 4 apr. | Klasse eisen Abseilen en Buikschuif - Staf |
-| 7 apr. | Cosplay-games - Tessa & Luna |
-| 11 apr. | Paaseierenrace - Staf (Tijd: 12:30 - 14:30) |
-| 14 apr. | EHBO - Staf |
-| 18 apr. | Wie is de Mol? - Master |
-| 21 apr. | Karaoke - Luna & Eva |
-| 25 apr. - 3 mei | Mei vakantie |
-| 25 apr. - 26 apr. | Geen Bijeenkomst i.v.m. Stafweekend |
-| 5 mei | Voorbereiding RSW PL's verplicht - Staf |
-| 9 mei - 10 mei | Voorbereidingsweekend RSW |
-| 21 mei - 23 mei | Regionale Scouting Wedstrijden |
-| 4 jul. | Gezamenlijke afsluiting seizoen (Tijd: 12:30 - 14:30) |
-| 11 jul. - 18 jul. | Zomerkamp |
-| 18 jul. - 29 aug. | Zomervakantie |
+| 19 sep. '20 | Touwbrug 8 Meter Lang (Staf) |
+| 22 sep. '20 | Casino (Lucas) |
+| 26 feb. '20 | Kim Proeven |
+| 29 sep. '20 | Surprise Powerpoint (Lieve) |
+| 3 okt. '20 | Klasse Eisen Spel (Staf) |
+| 6 okt. '20 | Wereld Record (Eddy & Storm) |
+| 8 okt. '20 | Moeras-Porto-tocht (Morris) |
+| 13 okt. '20 | Klaarzetten Spookweekend |
+| 17 okt. '20 - 18 okt. '20 | Spookweekend Za 09:00 - Zo 15:00 |
+| 20 okt. '20 | Herfstvakantie |
+| 24 okt. '20 | Herfstvakantie |
+| 27 okt. '20 | Stick-Olympics (Tygo) |
+| 3 nov. '20 | Bob Ross Schilderen (Morris,Luna,VVL) |
+| 7 nov. '20 | Snakes & Ladders (Hopman) / Lootjes trekken |
+| 10 nov. '20 | Zelfverdediging / Vechtsport (Master vd Pluym) |
+| 14 nov. '20 | Dingen Opblazen (VM) |
+| 17 nov. '20 | Blij-dat-ik-Brei (TL) |
+| 21 nov. '20 | Archery Tagg (Staf) / Tienerdag |
+| 24 nov. '20 | Crazy 88 (Olivier) |
+| 28 nov. '20 | Sinterklaasviering |
+| 1 dec. '20 | Zwarte Valk bijeenkomst |
+| 5 dec. '20 | Geen Bijeenkomst |
+| 8 dec. '20 | Kaart & Kompas  |
+| 12 dec. '20 | Excursie Politie (VvLiempt) |
+| 15 dec. '20 | Let's Get Spiritual (Isis & Luna) |
+| 19 dec. '20 - 21 dec. '20 | Kersthike |
+| 22 dec. '20 - 5 jan. '21 | Kerstvakantie |
+| 8 jan. '21 | Nieuwjaarsborrel |
+| 9 jan. '21 | Overvliegen - 12:30-14:30 |
+| 12 jan. '21 | Programma Maken |
+| 15 jan. '21 | Culturele Excursie (Milo) |
+| 5 mrt. '21 - 6 mrt. '21 | The Hunt |
+| 1 mei '21 - 2 mei '21 | Voorbereidingsweekend RSW |
+| 13 mei '21 - 15 mei '21 | Regionale Scouting Wedstrijden (Hemelvaart) |
+| 24 jul. '21 - 31 jul. '21 | Zomerkamp |
 {: .table :}
 
 {{ page.footer }}
