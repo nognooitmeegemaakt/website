@@ -3,39 +3,40 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 06-02-2020_"
+footer: "_Laatste wijziging 03-10-2020_"
 ---
 
-Welpen Programma van februari - juli
+Welpen Programma van oktober - december
 
-Aangepast op 6 februari.
+Aangepast op 3 oktober.
 
 | | |
 |---|---|
-| 8 feb. | Knutselen cv wagen |
-| 15 feb. | afmaken cv wagen |
-| 22 feb. | Carnaval: Oliebollenfantengeloop + Optocht (Tijden volgen tzt) |
-| 29 feb. | Geen opkomst |
-| 7 mrt. | Chemische vaten |
-| 14 mrt. | Toneel Sasha |
-| 21 mrt. | Pionieren |
-| 28 mrt. | EHBO Programma |
-| 4 apr. | Softbal met Ikki |
-| 11 apr. | Paaseierenrace (12:30-14:30) |
-| 18 apr. - 19 apr. | KAMP Ouder Welp Weekend! |
-| 25 apr. | Geen opkomst |
-| 2 mei | 75 jarige bevrijding |
-| 9 mei | Natuurprogramma Bossche Broek |
-| 16 mei | Luxe Lunch Show |
-| 23 mei | Waterspelen |
-| 30 mei | Sterrenwacht |
-| 6 jun. | Bezoek Boerderij Rosmalen |
-| 13 jun. | Uitwisseling Dolfijnen Sint Joris |
-| 20 jun. | Vuelta Spaanse Fietsprogramma |
-| 27 jun. | Voorbereiden Zomerkamp |
-| 4 jul. | Zomerkampviering (12:30-14:30) |
-| 18 apr. - 19 apr. | KAMP Ouder Welp Weekend |
-| 12 jul. - 18 jul. | KAMP Zomerkamp 2020 |
+| 10 okt. '20 | Mafiaspel |
+| 17 okt. '20 | Leuk Bosspel of anders |
+| 24 okt. '20 | Versla de Generaalspel |
+| 31 okt. '20 - 1 nov. '20 | KAMP Najaarsweekend |
+| 7 nov. '20 | Strontvliegenspel |
+| 14 nov. '20 | Softbal met Ikki |
+| 21 nov. '20 |  |
+| 28 nov. '20 |  |
+| 5 dec. '20 |  |
+| 12 dec. '20 |  |
+| 19 dec. '20 - 20 dec. '20 | KAMP Kerstweekend |
+| 26 dec. '20 | Geen Horde |
+| 2 jan. '21 | Geen Horde |
+| 8 jan. '21 | Nieuwjaarsborrel |
+| 9 jan. '20 |  |
+| 16 mei '20 |  |
+| 23 mei '20 |  |
+| 30 mei '20 |  |
+| 6 jun. '20 |  |
+| 13 jun. '20 |  |
+| 20 jun. '20 |  |
+| 27 jun. '20 |  |
+| 4 jul. '20 |  |
+| 27 mrt. '21 - 18 mrt. '21 | KAMP Ouder Welp Weekend |
+| 25 jul. '21 - 31 jul. '21 | KAMP Zomerkamp 2020 |
 {: .table :}
 
 {{ page.footer }}
