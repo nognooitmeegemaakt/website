@@ -8,7 +8,7 @@ footer: ""
 
 Scouts Programma van September t/m December
 
-Aangepast op 17 september.
+Aangepast op 31 oktober.
 
 | | |
 |---|---|
@@ -23,20 +23,21 @@ Aangepast op 17 september.
 | 17 okt. '20 - 18 okt. '20 | Spookweekend Za 09:00 - Zo 15:00 |
 | 20 okt. '20 | Herfstvakantie |
 | 24 okt. '20 | Herfstvakantie |
-| 27 okt. '20 | Stick-Olympics (Tygo) |
+| 27 okt. '20 | Stick-Olympics (Tygo) - Uitgesteld |
+| 31 okt. '20 | Halloween Katapult Schieten - Milo, Olivier |
 | 3 nov. '20 | Bob Ross Schilderen (Morris,Luna,VVL) |
 | 7 nov. '20 | Snakes & Ladders (Hopman) / Lootjes trekken |
-| 10 nov. '20 | Zelfverdediging / Vechtsport (Master vd Pluym) |
+| 10 nov. '20 | MultiMultiplayer Gamen vanuit huis - Milo, Lieve, Master de Nijs |
 | 14 nov. '20 | Dingen Opblazen (VM) |
-| 17 nov. '20 | Blij-dat-ik-Brei (TL) |
-| 21 nov. '20 | Archery Tagg (Staf) / Tienerdag |
-| 24 nov. '20 | Crazy 88 (Olivier) |
-| 28 nov. '20 | Sinterklaasviering |
+| 17 nov. '20 | Blij-dat-ik-Brei vanuit huis (Isis & TL) |
+| 21 nov. '20 | SnertTocht - Installatie Sil - Staf |
+| 24 nov. '20 | Crazy 88 in de binnenstad (Olivier & Master vd Pluym) |
+| 28 nov. '20 | Sinterklaasviering/Pakjesbootspel - Staf |
 | 1 dec. '20 | Zwarte Valk bijeenkomst |
-| 5 dec. '20 | Geen Bijeenkomst |
-| 8 dec. '20 | Kaart & Kompas  |
-| 12 dec. '20 | Excursie Politie (VvLiempt) |
-| 15 dec. '20 | Let's Get Spiritual (Isis & Luna) |
+| 5 dec. '20 | Geen Bijeenkomst ivm Pakjesavond |
+| 8 dec. '20 | Kaart & Kompas vanuit huis - Staf  |
+| 12 dec. '20 | Het V&V Vuur tegen je schenen spel - VvL, VvL. |
+| 15 dec. '20 | Let's Get Spiritual vanuit huis (Isis & Luna) |
 | 19 dec. '20 - 21 dec. '20 | Kersthike |
 | 22 dec. '20 - 5 jan. '21 | Kerstvakantie |
 | 8 jan. '21 | Nieuwjaarsborrel |
