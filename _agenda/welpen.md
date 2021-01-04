@@ -8,7 +8,7 @@ footer: "_Laatste wijziging 03-10-2020_"
 
 Welpen Programma van oktober - december
 
-Aangepast op 3 oktober.
+Aangepast op 4 januari.
 
 | | |
 |---|---|
@@ -26,9 +26,9 @@ Aangepast op 3 oktober.
 | 26 dec. '20 | Geen Horde |
 | 2 jan. '21 | Geen Horde |
 | 8 jan. '21 | Nieuwjaarsborrel |
-| 9 jan. '21 |  |
-| 16 mei '21 |  |
-| 23 mei '21 |  |
+| 9 jan. '21 | Digitale activiteit |
+| 16 jan. '21 | Schilderen als Bob Ross |
+| 23 jan. '21 | Weens programma |
 | 30 mei '21 |  |
 | 6 jun. '21 |  |
 | 13 jun. '21 |  |
