@@ -6,12 +6,13 @@ agenda: scouts
 footer: ""
 ---
 
-Scouts Programma van September t/m December
+Scouts Programma van Januari t/m Juli
 
 Aangepast op 27 februari.
 
 | | |
 |---|---|
+| 22 feb. | // i.v.m. Avondklok vooralsnog geen Dinsdagavond-bijeenkomsten |
 | 27 feb. | Aftekenspel & Stoken (Staf) |
 | 6 mrt. | Allesbal / James Bond Spel (Tijgers) |
 | 13 mrt. | Moerastocht (Morris) |
