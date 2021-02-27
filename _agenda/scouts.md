@@ -8,46 +8,36 @@ footer: ""
 
 Scouts Programma van September t/m December
 
-Aangepast op 31 oktober.
+Aangepast op 27 februari.
 
 | | |
 |---|---|
-| 19 sep. '20 | Touwbrug 8 Meter Lang (Staf) |
-| 22 sep. '20 | Casino (Lucas) |
-| 26 feb. '20 | Kim Proeven |
-| 29 sep. '20 | Surprise Powerpoint (Lieve) |
-| 3 okt. '20 | Klasse Eisen Spel (Staf) |
-| 6 okt. '20 | Wereld Record (Eddy & Storm) |
-| 8 okt. '20 | Moeras-Porto-tocht (Morris) |
-| 13 okt. '20 | Klaarzetten Spookweekend |
-| 17 okt. '20 - 18 okt. '20 | Spookweekend Za 09:00 - Zo 15:00 |
-| 20 okt. '20 | Herfstvakantie |
-| 24 okt. '20 | Herfstvakantie |
-| 27 okt. '20 | Stick-Olympics (Tygo) - Uitgesteld |
-| 31 okt. '20 | Halloween Katapult Schieten - Milo, Olivier |
-| 3 nov. '20 | Bob Ross Schilderen (Morris,Luna,VVL) |
-| 7 nov. '20 | Snakes & Ladders (Hopman) / Lootjes trekken |
-| 10 nov. '20 | MultiMultiplayer Gamen vanuit huis - Milo, Lieve, Master de Nijs |
-| 14 nov. '20 | Dingen Opblazen (VM) |
-| 17 nov. '20 | Blij-dat-ik-Brei vanuit huis (Isis & TL) |
-| 21 nov. '20 | SnertTocht - Installatie Sil - Staf |
-| 24 nov. '20 | Crazy 88 in de binnenstad (Olivier & Master vd Pluym) |
-| 28 nov. '20 | Sinterklaasviering/Pakjesbootspel - Staf |
-| 1 dec. '20 | Zwarte Valk bijeenkomst |
-| 5 dec. '20 | Geen Bijeenkomst ivm Pakjesavond |
-| 8 dec. '20 | Kaart & Kompas vanuit huis - Staf  |
-| 12 dec. '20 | Het V&V Vuur tegen je schenen spel - VvL, VvL. |
-| 15 dec. '20 | Let's Get Spiritual vanuit huis (Isis & Luna) |
-| 19 dec. '20 - 21 dec. '20 | Kersthike |
-| 22 dec. '20 - 5 jan. '21 | Kerstvakantie |
-| 8 jan. '21 | Nieuwjaarsborrel |
-| 9 jan. '21 | Overvliegen - 12:30-14:30 |
-| 12 jan. '21 | Programma Maken |
-| 15 jan. '21 | Culturele Excursie (Milo) |
-| 5 mrt. '21 - 6 mrt. '21 | The Hunt |
-| 1 mei '21 - 2 mei '21 | Voorbereidingsweekend RSW |
-| 13 mei '21 - 15 mei '21 | Regionale Scouting Wedstrijden (Hemelvaart) |
-| 24 jul. '21 - 31 jul. '21 | Zomerkamp |
+| 27 feb. | Aftekenspel & Stoken (Staf) |
+| 6 mrt. | Allesbal / James Bond Spel (Tijgers) |
+| 13 mrt. | Moerastocht (Morris) |
+| 20 mrt. | Het Grote V&V leggen je het Vuur aan de schenen spel |
+| 27 mrt. | Abseilen + Boomtoppentocht (Zipline)  (Masters)  |
+| 3 apr. | Scouting Kennis Quiz Klasse eisen ( Eva & Esmee) |
+| 10 apr. | Fietshike Routetechnieken - (Isis & Fenna) |
+| 17 apr. | Excursie Cultuur / Pow-Wow (Milo) |
+| 24 apr. | Speurtocht maken (Olivier & Levi) |
+| 1 mei | Flamkuchen vs. Pizza bakken & bezorgen (Lieve & Storm) |
+| 8 mei | Beach-Olympics / Highland Games (Fenna & Sanne) |
+| 15 mei | Houtbewerken - Gitaar maken (Master de Nijs / Hidde) |
+| 22 mei | Brug pionieren op water (Lucas) |
+| 29 mei | Smokkelspel Parcours (Lars & Jippe) |
+| 5 jun. | Scouting Got Talent (Rosie & Janne) |
+| 12 jun. | Levend Stratego (Tygo & Sil) |
+| 19 jun. | Speedgate (Vaandrig Melkert) |
+| 26 jun. | Survival-Run @ U-Base / HoogHei (Staf & Stam) |
+| 3 jul. | Cosplay / Levend Standbeeld / Schilderen (Isis & Tessa) |
+| 10 jul. | Raket bouwen (Hopman) |
+| 17 jul. | Voorbereiden Zomerkamp |
+| 24 jul. | ZOMERKAMP |
+| 5 mrt. - 6 mrt. | // Cancelled - The Hunt |
+| 1 mei - 2 mei | // Cancelled - Voorbereidingsweekend RSW |
+| 13 mei - 15 mei | // Cancelled - Regionale Scouting Wedstrijden (Hemelvaart) |
+| 24 jul. - 31 jul. | Zomerkamp |
 {: .table :}
 
 {{ page.footer }}
