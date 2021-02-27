@@ -17,9 +17,9 @@ Aangepast op 27 februari.
 | 6 mrt. | Allesbal / James Bond Spel (Tijgers) |
 | 13 mrt. | Moerastocht (Morris) |
 | 20 mrt. | Het Grote V&V leggen je het Vuur aan de schenen spel |
-| 27 mrt. | Abseilen + Boomtoppentocht (Zipline)  (Masters)  |
-| 3 apr. | Scouting Kennis Quiz Klasse eisen ( Eva & Esmee) |
-| 10 apr. | Fietshike Routetechnieken - (Isis & Fenna) |
+| 27 mrt. | Abseilen + Boomtoppentocht & Zipline  (Masters)  |
+| 3 apr. | Scouting Kennis Quiz Klasse eisen (Eva & Esmee) |
+| 10 apr. | Fietshike Routetechnieken (Isis & Fenna) |
 | 17 apr. | Excursie Cultuur / Pow-Wow (Milo) |
 | 24 apr. | Speurtocht maken (Olivier & Levi) |
 | 1 mei | Flamkuchen vs. Pizza bakken & bezorgen (Lieve & Storm) |
