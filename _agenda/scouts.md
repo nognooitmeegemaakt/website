@@ -17,8 +17,8 @@ Aangepast op 19 maart.
 | 6 mrt. | Allesbal / James Bond Spel (Tijgers) |
 | 13 mrt. | Escape Room |
 | 20 mrt. | Het Grote V&V leggen je het Vuur aan de schenen spel |
-| 27 mrt. | De Paaseierenrace |
-| 3 apr. | Moerastocht (Morris)  |
+| 27 mrt. | Moerastocht (Morris)  |
+| 3 apr. | De Paaseierenrace (Staf) |
 | 10 apr. | Fietshike Routetechnieken (Isis & Fenna) |
 | 17 apr. | Excursie Cultuur / Pow-Wow (Milo) |
 | 24 apr. | Speurtocht maken (Olivier & Levi) |
