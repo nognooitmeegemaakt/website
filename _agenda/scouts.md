@@ -18,11 +18,11 @@ Aangepast op 11 april.
 | 24 apr. | Excursie Cultuur / Pow-Wow (Milo)    |
 | 27 apr. | Film maken (Jasper) |
 | 1 mei | Flamkuchen vs. Pizza bakken & bezorgen (Lieve & Storm) |
-| 4 mei | Stadsspel Thema WOII / Herdenking |
+| 4 mei | Stadsspel Thema WOII / Herdenking (Staf) |
 | 8 mei | Beach-Olympics / Highland Games (Fenna & Sanne) |
 | 11 mei | DJ-Workshop (Vader Jippe) |
 | 15 mei | Houtbewerken - Gitaar maken (Master de Nijs / Hidde) |
-| 18 mei | (Sp)El Amrani |
+| 18 mei | (Sp)El Amrani (Troepleiders) |
 | 22 mei | Brug pionieren op water (Lucas) |
 | 25 mei | Speurtocht maken (Olivier & Levi) |
 | 29 mei | Smokkelspel Parcours (Lars & Jippe) |
@@ -34,7 +34,7 @@ Aangepast op 11 april.
 | 19 jun. | Scouting Kennis Quiz Klasse eisen (Eva & Esmee) |
 | 22 jun. | Het Perfecte Plaatje (Master de Nijs) |
 | 26 jun. | Survival-Run @ U-Base / HoogHei (Staf & Stam) |
-| 29 jun. | Insectenhotel maken op het Troeplokaal |
+| 29 jun. | Insectenhotel maken op het Troeplokaal (Master vd Pluym) |
 | 3 jul. | Cosplay / Levend Standbeeld / Schilderen (Isis & Tessa) |
 | 6 jul. | Speedgate (Vaandrig Melkert) |
 | 10 jul. | Abseilen + Boomtoppentocht & Zipline (Masters) |
