@@ -3,40 +3,39 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 03-10-2020_"
+footer: "_Laatste wijziging april 2021_"
 ---
 
-Welpen Programma van oktober - december
+Welpen Programma van april tot juli
 
-Aangepast op 4 januari.
+Aangepast op 20 april.
 
 | | |
 |---|---|
-| 10 okt. '20 | Mafiaspel |
-| 17 okt. '20 | Leuk Bosspel of anders |
-| 24 okt. '20 | Versla de Generaalspel |
-| 31 okt. '20 - 1 nov. '20 | KAMP Najaarsweekend |
-| 7 nov. '20 | Strontvliegenspel |
-| 14 nov. '20 | Softbal met Ikki |
-| 21 nov. '20 |  |
-| 28 nov. '20 |  |
-| 5 dec. '20 |  |
-| 12 dec. '20 |  |
-| 19 dec. '20 - 20 dec. '20 | KAMP Kerstweekend |
-| 26 dec. '20 | Geen Horde |
-| 2 jan. '21 | Geen Horde |
-| 8 jan. '21 | Nieuwjaarsborrel |
-| 9 jan. '21 | Digitale activiteit |
-| 16 jan. '21 | Schilderen als Bob Ross |
-| 23 jan. '21 | Weens programma |
-| 30 mei '21 |  |
-| 6 jun. '21 |  |
-| 13 jun. '21 |  |
-| 20 jun. '21 |  |
-| 27 jun. '21 |  |
-| 4 jul. '21 |  |
-| 17 mrt. '21 - 18 mrt. '21 | KAMP Ouder Welp Weekend |
-| 25 jul. '21 - 31 jul. '21 | KAMP Zomerkamp 2020 |
+| 24 apr. | Toneelprogramma |
+| 1 mei | Jeroen Bosch Kleien |
+| 8 mei | Scoutan |
+| 15 mei | Strandspelen |
+| 22 mei | Determineren Bos |
+| 29 mei | Bosspel |
+| 5 jun. - 6 jun. | KAMP (Helaas zonder Ouder) Welp Weekend |
+| 12 jun. | Muziek Maken |
+| 19 jun. | Knopen en Pionieren |
+| 26 jun. | Yukigassen  |
+| 3 jul. | Hindernisslagbal met Ikki |
+| 10 jul. | Nieuwe Stadsspelorientatie |
+| 17 jul. | Koken en Stoken |
+| 25 jul. - 31 jul. | KAMP Zomerkamp 2020 |
+| 9 jan. | Einde |
+| 16 jan. |  |
+| 23 jan. |  |
+| 30 mei |  |
+| 6 jun. |  |
+| 13 jun. |  |
+| 20 jun. |  |
+| 27 jun. |  |
+| 4 jul. |  |
+| 17 mrt. - 18 mrt. |  |
 {: .table :}
 
 {{ page.footer }}
