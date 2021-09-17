@@ -3,39 +3,39 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging april 2021_"
+footer: "_Laatste wijziging 17 september 2021_"
 ---
 
-Welpen Programma van april tot juli
+Welpen Programma van september - januari
 
-Aangepast op 20 april.
+Aangepast op 17 september.
 
 | | |
 |---|---|
-| 24 apr. | Toneelprogramma |
-| 1 mei | Jeroen Bosch Kleien |
-| 8 mei | Scoutan |
-| 15 mei | Strandspelen |
-| 22 mei | Determineren Bos |
-| 29 mei | Bosspel |
-| 5 jun. - 6 jun. | KAMP (Helaas zonder Ouder) Welp Weekend |
-| 12 jun. | Muziek Maken |
-| 19 jun. | Knopen en Pionieren |
-| 26 jun. | Yukigassen  |
-| 3 jul. | Hindernisslagbal met Ikki |
-| 10 jul. | Nieuwe Stadsspelorientatie |
-| 17 jul. | Koken en Stoken |
-| 25 jul. - 31 jul. | KAMP Zomerkamp 2020 |
-| 9 jan. | Einde |
-| 16 jan. |  |
-| 23 jan. |  |
-| 30 mei |  |
-| 6 jun. |  |
-| 13 jun. |  |
-| 20 jun. |  |
-| 27 jun. |  |
-| 4 jul. |  |
-| 17 mrt. - 18 mrt. |  |
+| 18 sep. '21 | Overvliegen (12:30-14:30) |
+| 25 sep. '21 | Met Baloe op pad in de Jungle |
+| 2 okt. '21 | Rennen met de Mor |
+| 9 okt. '21 | Vrijgeleide A38 |
+| 16 okt. '21 | Pannenkoekenhandelsspel met Dolfijnen Sint Joris |
+| 23 okt. '21 - 24 okt. '21 | KAMP Najaarsweekend |
+| 30 okt. '21 | Pompoen Snijden Halloween |
+| 6 nov. '21 | Capture the Flag Zandeditie |
+| 13 nov. '21 | Muziekclinic Attenooije |
+| 20 nov. '21 | Zadenballen maken |
+| 27 nov. '21 | Groepsavondstadsspel (19:30-21:00) |
+| 4 dec. '21 | Chocoladeletters gieten |
+| 11 dec. '21 | Sporten met Ikki |
+| 18 dec. '21 | Kerstviering (19:30-21:00) |
+| 25 dec. '21 | Geen opkomst |
+| 1 jan. '22 | Geen opkomst |
+| 8 jan. '22 - 9 jan. '22 | KAMP Kerstweekend |
+| 14 jan. '22 | Nieuwjaarsborrel (Vrijdagavond; 20:00-21:30) |
+| 15 jan. '22 |  |
+| 22 jan. '22 |  |
+| 29 jan. '22 |  |
+| 5 feb. '22 |  |
+| 30 apr. '22 - Invalid date | KAMP Ouder Welp Weekend |
+| 24 jul. '22 - 30 jul. '22 | KAMP Zomerkamp 2022!!!!! |
 {: .table :}
 
 {{ page.footer }}
