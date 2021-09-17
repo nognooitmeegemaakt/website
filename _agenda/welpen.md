@@ -34,7 +34,7 @@ Aangepast op 17 september.
 | 22 jan. '22 |  |
 | 29 jan. '22 |  |
 | 5 feb. '22 |  |
-| 30 apr. '22 - 1 mei '22 | KAMP Ouder Welp Weekend |
+| 23 apr. '22 - 24 apr. '22 | KAMP Ouder Welp Weekend |
 | 24 jul. '22 - 30 jul. '22 | KAMP Zomerkamp 2022!!!!! |
 {: .table :}
 
