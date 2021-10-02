@@ -8,7 +8,7 @@ footer: ""
 
 Scouts Programma van Sept t/m Okt
 
-Aangepast op 25 september.
+Aangepast op 2 oktober.
 
 | | |
 |---|---|
@@ -23,6 +23,7 @@ Aangepast op 25 september.
 | 23 okt. '21 | Minigolf (Storm) |
 | 26 okt. '21 | Pimp my Patrouillehok (APLs) |
 | 30 okt. '21 | Levend Stratego (Tygo & Sil) |
+| 10 nov. '21 | bb  |
 | Invalid date |  |
 | 27 nov. '21 | GroepsAvondStadSpel 19:30 tot 21:00 |
 | 18 dec. '21 | Kerstviering 19:30 tot 21:00 |
