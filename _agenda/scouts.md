@@ -8,7 +8,7 @@ footer: ""
 
 Scouts Programma van Sept t/m Okt
 
-Aangepast op 2 oktober.
+Aangepast op 3 oktober.
 
 | | |
 |---|---|
@@ -23,13 +23,26 @@ Aangepast op 2 oktober.
 | 23 okt. '21 | Minigolf (Storm) |
 | 26 okt. '21 | Pimp my Patrouillehok (APLs) |
 | 30 okt. '21 | Levend Stratego (Tygo & Sil) |
-| 10 nov. '21 | bb  |
-| Invalid date |  |
+| 2 nov. '21 | Smokkel/Zaklampen spel (Esmee/Lars) |
+| 6 nov. '21 | Kimproeven (Iedereen die afgetekend heeft) |
+| 9 nov. '21 | Casino/Spelletjes avond (morris) |
+| 13 nov. '21 | Zwarte valk + overnachting (Staf) |
+| 16 nov. '21 | Telescopie/Astronomie (Lucas/ Morris) |
+| 20 nov. '21 | Excursie/hout bewerken (Master de Nijs) |
+| 23 nov. '21 | Clowntjesdag (staf) |
 | 27 nov. '21 | GroepsAvondStadSpel 19:30 tot 21:00 |
+| 30 nov. '21 | Aftekenspel (Staf) |
+| 4 dec. '21 | Sinterklaas |
+| 7 dec. '21 | Klok maken (Lucas/Giel) |
+| 11 dec. '21 | Chaze tag (Olivier/Jasper) |
 | 18 dec. '21 | Kerstviering 19:30 tot 21:00 |
+| 21 dec. '21 | Schminken (Rosie/Lieve) |
 | 25 dec. '21 - 4 jan. '22 | Kerstvakantie: 25 dec t/m 4 jan, geen bijeenkomsten |
 | 7 jan. '22 - 9 jan. '22 | Winterhike |
+| 11 jan. '22 | Programma maken |
+| 15 jan. '22 | Scouting got talent (Fenna/Tygo |
 | 14 jan. '22 | Nieuwjaarsborrel van 20:00 tot 21:30 |
+| 18 jan. '22 | Filosofie (Olivier) |
 | 22 jan. '22 | Overvliegen |
 | 26 feb. '22 | Oliebollenfantegeloop |
 | 16 apr. '22 | Paaseierenrace van 12:30 tot 14:30 |
