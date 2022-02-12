@@ -15,4 +15,4 @@ collections:
     output: true
     permalink: /programma/:path/
 markdown: kramdown
-jaarplanning: "/assets/docs/jaarplanning-2018-2019.pdf"
+jaarplanning: "/assets/docs/jaarplanning-2020-2021.pdf"
