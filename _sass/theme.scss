@@ -229,6 +229,21 @@ html {
   background-size: cover;*/
 }
 
+/* Banner */
+.banner {
+  padding: 1em 2em;
+  background-color: pink;
+  color: #333;
+  text-align: center;
+
+  a {
+    font-weight: bold;
+  }
+  a:hover {
+    cursor: pointer;
+  }
+}
+
 /* Header. */
 .header {
   padding: 2em;
