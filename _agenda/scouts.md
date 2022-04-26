@@ -6,10 +6,6 @@ agenda: scouts
 footer: ""
 ---
 
-Scouts Programma van Sept t/m Okt
-
-Aangepast op 3 oktober.
-
 | | |
 |---|---|
 | 9 apr. '22 | Girlpower Event |
