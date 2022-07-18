@@ -35,6 +35,7 @@
                   </a>
                   <ul class="dropdown-menu">
                     <li>Kies een speltak</li>
+                    <li{% if g == "bevers" %} class="active"{% endif %}><a href="/groep/bevers/">Bevers</a></li>
                     <li{% if g == "welpen" %} class="active"{% endif %}><a href="/groep/welpen/">Welpen</a></li>
                     <!--// <li{% if g == "gidsen" %} class="active"{% endif %}><a href="/groep/gidsen/">Gidsen</a></li> //-->
                     <li{% if g == "scouts" %} class="active"{% endif %}><a href="/groep/scouts/">Scouts</a></li>
@@ -48,6 +49,7 @@
                   </a>
                   <ul class="dropdown-menu">
                     <li>Kies een speltak</li>
+                    <li{% if a == "bevers" %} class="active"{% endif %}><a href="/programma/bevers/">Bevers</a></li>
                     <li{% if a == "welpen" %} class="active"{% endif %}><a href="/programma/welpen/">Welpen</a></li>
                     <!-- // <li{% if a == "gidsen" %} class="active"{% endif %}><a href="/programma/gidsen/">Gidsen</a></li> //-->
                     <li{% if a == "scouts" %} class="active"{% endif %}><a href="/programma/scouts/">Scouts</a></li>
@@ -67,9 +69,10 @@
           <div class="speltak-close"><i class="ion-android-arrow-back"></i></div>
           <div class="speltak-text">Kies een speltak</div>
           <div class="row">
+            <div class="col-xs-6 bevers{% if g == "bevers" %} active{% endif %}"><div class="bg"></div><a href="/groep/bevers">Bevers</a></div>
             <div class="col-xs-6 welpen{% if g == "welpen" %} active{% endif %}"><div class="bg"></div><a href="/groep/welpen">Welpen</a></div>
             <!-- // <div class="col-xs-6 gidsen{% if g == "gidsen" %} active{% endif %}"><div class="bg"></div><a href="/groep/gidsen">Gidsen</a></div> //-->
             <div class="col-xs-6 scouts{% if g == "scouts" %} active{% endif %}"><div class="bg"></div><a href="/groep/scouts">Scouts</a></div>
-            <div class="col-xs-12 stam{% if g == "stam" %} active{% endif %}"><div class="bg"></div><a href="/groep/stam">Stam</a></div>
+            <div class="col-xs-6 stam{% if g == "stam" %} active{% endif %}"><div class="bg"></div><a href="/groep/stam">Stam</a></div>
           </div>
         </div>
