@@ -136,16 +136,3 @@ nav {
     font-size: 1.3rem;
   }
 }
-
-/* Banner */
-.banner {
-  margin-top: 55px;
-
-  @media #{$mq-small} {
-    margin-top: 0;
-    font-size: 0.9rem;
-  }
-  @media #{$mq-medium} {
-    font-size: 1rem;
-  }
-}
