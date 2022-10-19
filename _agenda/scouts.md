@@ -3,7 +3,7 @@ title: Scouts Programma
 layout: agenda
 category: agenda
 agenda: scouts
-footer: "_Laatste wijziging 27 september 2022_"
+footer: "_Laatste wijziging 19 oktober 2022_"
 ---
 
 | | |
@@ -18,7 +18,7 @@ footer: "_Laatste wijziging 27 september 2022_"
 | di 18 okt. '22 | klasse eisen instructieavond |
 | za 22 okt. '22 | — (herfstvakantie) |
 | di 25 okt. '22 | — (herfstvakantie) |
-| za 29 okt. '22 | kinderboerderij (Feline) |
+| za 29 okt. '22 | — (herfstvakantie) |
 | di 01 nov. '22 | voorbereiding bonte avond/musical (Storm & Lieve) |
 | za 05 nov. '22 | kamp in blokhut (za 5 t\m zo 6 nov.) |
 | di 08 nov. '22 | kimproeven |
