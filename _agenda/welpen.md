@@ -3,35 +3,42 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 27 september 2022_"
+footer: "_Laatste wijziging 31 januari 2022_"
 ---
 
-Welpen Programma van september - januari
+Welpen Programma van januari - juli
 
-Aangepast op 27 september.
+Aangepast op 31 januari 2023.
 
 | | |
 |---|---|
-| za 10 sep. '22 | Overvliegspel
-| za 17 sep. '22 | Overvliegen (12:30-14:30) |
-| za 24 sep. '22 | Kampkleding/zeefdrukken maken |
-| za 01 okt. '22 | Bosspel chemische vaten dumpen |
-| za 08 okt. '22 | Bezoek Politie |
-| za 15 okt. '22 | Spel Baloe |
-| za 22 okt. '22 | KAMP Herfstweekend |
-| za 29 okt. '22 | halloween (avond of op locatie) |
-| za 05 nov. '22 | Instructiespel |
-| za 12 nov. '22 | Spel |
-| za 19 nov. '22 | Instructie |
-| za 26 nov. '22 | Koken en stoken |
-| za 03 dec. '22 | Chocoladeletters gieten |
-| za 10 dec. '22 | kerstkransen maken |
-| za 17 dec. '22 | Kerstdiner (17:30 - 20:30) |
-| za 24 dec. '22 | Geen bijeenkomst |
-| za 31 dec. '22 | Geen bijeenkomst |
-| za 07 jan. '23 | KAMP Kerstkamp met groep |
-| vr 13 jan. '23 | NJ borrel Vrijdag (20:00-21:30) |
-| za 14 jan. '23 | Spel |
+| za 14 jan. '23 | Muziek met Professor Plof |
+| za 21 jan. '23 | Het grote verstop en overwinter spel |
+| za 28 jan. '23 | Spel Mor +INSTALLATIES |
+| za 04 feb. '23 | Levend Stratego + vlaggen |
+| za 11 feb. '23 | Bouwhal |
+| za 18 feb. '23 | Oliebollenfantengeloop  |
+| za 25 feb. '23 | Broodje op stok |
+| za 04 mar. '23 | Pijltjes schieten |
+| za 11 mar. '23 | Zeefdrukken? |
+| za 18 mar. '23 | Bosspel |
+| za 25 mar. '23 | Katapult bouwen |
+| za 01 apr. '23 | — Stafweekend (Geen opkomst) |
+| za 08 apr. '23 | Paaseieren Race (12:30-14:30) |
+| za 15 apr. '23 | Stadsoriëntatie |
+| za 22 apr. '23 | Suikerfeest (Baklava maken) |
+| za 29 apr. '23 | — Geen troep |
+| za 06 mei '23 | KAMP Ouder welp weekend |
+| za 13 mei '23 | Capture the Flag Zandverstuiving |
+| za 20 mei '23 | Frisbee games |
+| za 27 mei '23 | Spel Stam |
+| za 03 jun. '23 | Luxe Lunch Show |
+| za 10 jun. '23 | Sint-Joris + TIENERDAG |
+| za 17 jun. '23 | Apenkooien |
+| za 24 jun. '23 | Strandspelen Zuiderplas |
+| za 01 jul. '23 | Gezamelijke Seizoenafsl. (12:30-14:30) |
+| za 08 jul. '23 | Imkerdag |
+| za 16 jul. '23 | KAMP Zomerkamp '23 (zo. t\m za.) |
 {: .table :}
 
 {{ page.footer }}
