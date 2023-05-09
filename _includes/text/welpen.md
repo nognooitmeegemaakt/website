@@ -6,4 +6,4 @@ Ook de spellen die ze spelen zijn vaak in de bossen, er is geen computerspel dat
 
 Zaterdagmorgen van 10.30 tot 12.30
 
-Contactpersoon: [fabrizio@nognooitmeegemaakt.nl](mailto:fabrizio@nognooitmeegemaakt.nl)
+Contactpersoon: [welpen@nognooitmeegemaakt.nl](mailto:welpen@nognooitmeegemaakt.nl)

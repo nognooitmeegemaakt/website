@@ -6,5 +6,4 @@ Met bovenstaande karakters (leiding) bedenken we afwisselende programma’s. Het
 
 Zaterdagochtend van 8.45 tot 10.15
 
-<!-- TODO: @nognooitmeegemaakt.nl voor Janneke -->
-<!-- Contactpersoon: [fabrizio@nognooitmeegemaakt.nl](mailto:fabrizio@nognooitmeegemaakt.nl) -->
+Contactpersoon: [janneke@nognooitmeegemaakt.nl](mailto:janneke@nognooitmeegemaakt.nl)

@@ -1,9 +1,9 @@
 |                |                                                               |
 |----------------|---------------------------------------------------------------|
 | Bestuur        |  [Leo](mailto:leo@nognooitmeegemaakt.nl)                      |
-| Groepsleider   |  [Levi](mailto:levi@nognooitmeegemaakt.nl)                    |
+| Groepsleider   |  —                                                            |
 | Penningmeester |  [Jos](mailto:jos@nognooitmeegemaakt.nl)                      |
-| Bevers         |  [Janneke](mailto:jannekedeckers2003@gmail.com)             |
+| Bevers         |  [Janneke](mailto:janneke@nognooitmeegemaakt.nl)              |
 | Welpen         |  [Fabrizio](mailto:fabrizio@nognooitmeegemaakt.nl)            |
 | Scouts & Gidsen|  [Guidon](mailto:guidon@nognooitmeegemaakt.nl)                |
 | Stam           |  [Syquin](mailto:syquin@nognooitmeegemaakt.nl)                |
