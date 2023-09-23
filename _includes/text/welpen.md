@@ -1,4 +1,4 @@
-Dit zijn jongens en meisjes van 7 tot 11 jaar. Een welp zal zeggen dat hij heel veel leuke dingen doet, die hij thuis of op vakantie nooit eerder heeft gedaan.
+Dit zijn jongens en meisjes van 8 tot 11 jaar. Een welp zal zeggen dat hij heel veel leuke dingen doet, die hij thuis of op vakantie nooit eerder heeft gedaan.
 
 In de praktijk betekent het dat welpen de beginselen leren van een vuurtje maken om daar vervolgens zelf een broodje op te bakken. Of ze leren waarom een kompasnaald altijd naar het noorden wijst en gaan in de bossen controleren of het echt waar is.
 
