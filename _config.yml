@@ -16,4 +16,3 @@ collections:
     permalink: /programma/:path/
 markdown: kramdown
 jaarplanning: "/assets/docs/jaarplanning-2020-2021.pdf"
-jaarplanning_welpen: "/assets/docs/jaarplanning-welpen-2023-2024.pdf"
