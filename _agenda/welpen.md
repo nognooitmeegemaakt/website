@@ -6,6 +6,8 @@ agenda: welpen
 footer: "_Laatste wijziging 31 januari 2022_"
 ---
 
+<div class="pull-right btn-year"><a id="year-schedule" class="btn btn-md btn-fb btn-normal" target="_blank" href="{{ site.jaarplanning_welpen }}">Jaarplanning</a></div>
+
 Welpen Programma van januari - juli
 
 Aangepast op 31 januari 2023.
