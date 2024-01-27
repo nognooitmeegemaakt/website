@@ -36,7 +36,7 @@ footer: "_Laatste wijziging 23 september 2023_"
 | di 2 apr. '24   | Beat maken (Benjamin en zijn vader) |
 | za 6 apr. '24   | — GEEN BIJEENKOMST |
 | di 9 apr. '24   | Progama maken |
-| za 13 apr. '24  | Da-vinci brugbouwen (staf) |
+| za 13 apr. '24  | TIENERDAG (staf) |
 | di 16 apr. '24  | Voorbereiding voorjaarsweekend |
 | za 20 apr. '24  | Voorjaarsweekend 20 april 09:00 tot 21 april 15:00 |
 
