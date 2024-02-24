@@ -23,12 +23,12 @@ footer: "_Laatste wijziging 23 september 2023_"
 | za 17 feb. '24  | — VAKANTIE |
 | di 20 feb. '24  | Boksen (staf) |
 | za 24 feb. '24  | Hike-je op wielen (PL's) |
-| di 27 feb. '24  | Voorbereiding acteren (Feline en Sterre) |
-| za 2 mrt. '24   | Acteren (Feline en Sterre) |
+| di 27 feb. '24  | Apenkooi bouwen (Iskander en Jippe) |
+| za 2 mrt. '24  | Apenkooien (Iskander en Jippe) |
 | di 5 mrt. '24   | Plus 10 jaar identiteitskaart ontwerpen (Sil en Tijl) |
 | za 9 mrt. '24   | Zwarte Valk (Alleen PL’s/APL’s) Za 14:30 tot Zo 10 maart 12:00 |
-| di 12 mrt. '24  | Apenkooi bouwen (Iskander en Jippe) |
-| za 16 mrt. '24  | Apenkooien (Iskander en Jippe) |
+| di 12 mrt. '24  | Voorbereiding acteren (Feline en Sterre) |
+| za 16 mrt. '24  | Acteren (Feline en Sterre) |
 | di 19 mrt. '24  | Blind schilderen (Zenno en Thomas) |
 | za 23 mrt. '24  | Welpen Olympics |
 | di 26 mrt. '24  | Ketting reactie (Flynn en Lars) |
