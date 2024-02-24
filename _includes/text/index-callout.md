@@ -1,6 +1,6 @@
 Nog Nooit Meegemaakt organiseert wekelijks op zaterdag,
 dinsdag en vrijdag stoere eigentijdse activiteiten voor jongeren
-tussen de 7 en 21 jaar uit Den Bosch en omstreken.
+tussen de 5 en 21 jaar uit Den Bosch en omstreken.
 
 Jong, oud, stoere jongens, nog stoerdere meiden, nieuwsgierige kids, iedereen zal zeggen
 dat ze met plezier naar Scouting Petrus & Paulus gaan. Want dit hebben ze **nog nooit meegemaakt**.
