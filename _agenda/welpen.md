@@ -3,7 +3,7 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 31 januari 2022_"
+footer: "_Laatste wijziging 1 april 2024_"
 ---
 
 Welpen Programma van januari - juli
@@ -34,29 +34,29 @@ Aangepast op 31 januari 2023.
 | za 06 jan. '24 | Driepoot-Soep-Blik-spel |
 | za 13 jan. '24 | Pizza bezorg-spel |
 | za 20 jan. '24 | Scouting roulette spel |
-| za 27 jan. '24 | |
-| za 03 feb. '24 | |
+| za 27 jan. '24 | Soepblikken spel |
+| za 03 feb. '24 | Sport en spel |
 | za 10 feb. '24 | Oliebollenfantengeloop |
-| za 17 feb. '24 | |
-| za 24 feb. '24 | |
-| za 02 mrt. '24 | |
-| za 09 mrt. '24 | |
+| za 17 feb. '24 | Grote kleine deeltjes spel |
+| za 24 feb. '24 | Mokken maken |
+| za 02 mrt. '24 | Apenkooien |
+| za 09 mrt. '24 | Bos spel |
 | za 16/17 mrt. '24 | Ouderwelpweekend |
-| za 23 mrt. '24 | |
+| za 23 mrt. '24 | Spionage spel |
 | za 30 mrt. '24 | Paaseieren race 12.30-14.30 uur |
 | za 06 apr. '24 | — Geen Bijeenkomst |
-| za 13 apr. '24 | |
-| za 20 apr. '24 | |
+| za 13 apr. '24 | Boerengolfen |
+| za 20 apr. '24 | Muziek programma |
 | za 27 apr. '24 | — Geen Bijeenkomst |
-| za 04 mei '24  | |
-| do 09 t/m zo 12 mei '24 | Jubileumweekend (Duitsland) |
-| za 18 mei '24  | |
-| za 25 mei '24  | |
-| za 01 jun. '24 | Jungledag vanuit Regio De Meierij |
-| za 08 jun. '24 | |
-| za 15 jun. '24 | |
-| za 22 jun. '24 | |
-| za 29 jun. '24 | groeps afsluiting 12.30-14.30 |
+| za 04 mei '24 | Nationale Kinderherdenking in Den Haag (wrs. 14.00-21.00 uur) |
+| do 09 t/m zo 12 mei '24 | Jubileumweekend (buitenland) |
+| za 18 mei '24 | Bosspel gipsafdrukken |
+| za 25 mei '24 | Uitje |
+| za 01 jun. '24 | Jungledag vanuit Regio de Meijerij |
+| za 08 jun. '24 | Zeilen met Sint Joris |
+| za 15 jun. '24 | Levend Carcassonne |
+| za 22 jun. '24 | Strand spelen |
+| za 29 jun. '24 | Groeps afsluiting 12.30-14.30 |
 | zo 07 t/m za 13 jul. '24 | Zomerkamp |
 | | |
 | za 24 aug. '24 | Start nieuwe seizoen |
