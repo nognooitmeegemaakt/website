@@ -9,3 +9,7 @@ Kruisbroedershof 29
 |-------|----------
 | RSIN  | 806665373
 {:.monospace}
+
+---
+
+[Sociale veiligheid](/sociale-veiligheid/)

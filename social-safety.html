@@ -1,0 +1,19 @@
+---
+layout: default
+category: social-safety
+title: Sociale Veiligheid
+permalink: /sociale-veiligheid/
+---
+
+<div class="contact">
+  <div class="description">
+    <div class="text">
+      <div class="contact-info">
+        <div class="col-md-6 col-sm-12" data-file="social-safety.md">
+          {% capture filecontents %}{% include text/social-safety.md %}{% endcapture %}
+          {{ filecontents | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
