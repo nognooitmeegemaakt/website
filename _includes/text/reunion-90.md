@@ -8,3 +8,9 @@ Bouw je eigen kampement, stook een vuurtje, loop een mini-hike en stort jezelf i
 
 **P&P al 90 jaar ‘nog nooit meegemaakt’**
 Scoutinggroep Petrus & Paulus is opgericht in 1934. Je doet er ervaringen op die je niet zo snel ergens anders zou meemaken; vandaar de slogan nog nooit meegemaakt. Heb jij dit nou wèl meegemaakt? Je bent van harte uitgenodigd voor het reünieweekend op 7 en 8 september. Dus duik je klassenkaart op, oefen nog even op de verkennerswet en slijp je zakmes. Stuur een mail naar [reunie@nognooitmeegemaakt.nl](mailto:reunie@nognooitmeegemaakt.nl) om op de hoogte te blijven of je aan te melden. Ga je mee op kamp??
+
+---
+
+De reünie vind plaats in Vinkel. Zie voor meer informatie:
+- [Belevingskampeerplaats op Google Maps](https://maps.app.goo.gl/K7cP3TKuh1LACerw6)
+- ⁠[Belevingskampeerplaats op dierenbos.nl](https://www.dierenbos.nl/kamperen/belevingskampeerplaats)
