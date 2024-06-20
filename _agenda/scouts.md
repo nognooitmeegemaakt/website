@@ -19,9 +19,9 @@ footer: "_Laatste wijziging 14 mei 2024_"
 | za 15 jun '24 | Survival run |
 | di 18 jun '24 | Heel holland bakt (Jippe + Thomas) |
 | za 22 jun '24 | Hike met rugzak |
-| di 25 jun '24 | Voorbereiding Zomerkamp |
-| za 29 jun '24 | Klimmen & abseilen |
-| di 02 jul '24 | Seizoensafsluiting (ANDERE TIJD!) |
+| di 25 jun '24 | Voorbereiding patrouille avonden ZK |
+| za 29 jun '24 | Seizoensafsluiting (ANDERE TIJD!) |
+| di 02 jul '24 | Voorbereiding Zomerkamp |
 
 {: .table :}
 
