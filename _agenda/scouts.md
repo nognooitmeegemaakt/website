@@ -15,7 +15,7 @@ footer: "_Laatste wijziging 17 september 2024_"
 | za 28 sep ‘24        | Herbarium (Staf)                                   |
 | di 1 okt ‘24         | The Ultimate Scout (Jasper)                        |
 | za 5 okt ‘24         | Worstenbroodjes maken (Nomi + Feline)              |
-| di 8 okt ‘24         | Slagbal (Tieme + Staf)                             |
+| di 8 okt ‘24         | Chase-tag x Ballon spel (Benjamin)                 |
 | za 12 okt ‘24        | Paralympische spelen (Janne)                       |
 | di 15 okt ‘24        | Lingo & Bingo (Flynn)                              |
 | za 19 okt ‘24        | – HERFSTVAKANTIE (Zwerftocht PLs)                  |
@@ -26,7 +26,7 @@ footer: "_Laatste wijziging 17 september 2024_"
 | di 5 nov ‘24         | Klaarzetten kamp                                   |
 | za 9 – zo 10 nov ‘24 | Spooktocht (kamp)                                  |
 | di 12 nov ‘24        | Presentatie-twister (Jippe)                        |
-| za 16 nov ‘24        | Chase-tag x Ballon spel (Tijl)                     |
+| za 16 nov ‘24        | Slagbal (Tieme + Staf)                             |
 | di 19 nov ‘24        | Kimproeven                                         |
 | za 23 nov ‘24        | Hunger-games (in het bos) (Sterre)                 |
 | di 26 nov ‘24        | Jamboree promotie avond met memes (WSJ boys)       |
