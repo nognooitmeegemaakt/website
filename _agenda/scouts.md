@@ -14,7 +14,7 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | di 28 jan '25        | karaoke (Hidde en Tieme)                           |
 | za 1 feb '25         | Pionieren (Staf)                                   |
 | di 4 feb '25         | Jij en je EI (Janne)                               |
-| za 8 feb '25         | Muziek maken (jippe en wouter?)                    |
+| za 8 feb '25         | Muziek maken (jippe)                    |
 | di 11 feb '25        | Squid game maskers maken (Hopman)                  |
 | za 15 feb '25        | SQUID GAME (Staf)                                  |
 | di 18 feb '25        | Among us/Murder mystery (Flyn en Hidde)            |
