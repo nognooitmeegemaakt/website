@@ -18,8 +18,8 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | di 11 feb '25        | Squid game maskers maken (Hopman)                  |
 | za 15 feb '25        | SQUID GAME (Staf)                                  |
 | di 18 feb '25        | Among us/Murder mystery (Flyn en Hidde)            |
-| za 22 feb '25        | Yuki Gassen (Jurre, Thijmen, Master Hendriks)      |
-| di 25 feb '25        | Voorbereiden OBFG                                  |
+| za 22 feb '25        | Voorbereiden OBFG                                  |
+| di 25 feb '25        | Yuki Gassen (Jurre, Thijmen, Master Hendriks)      |
 | za 1 mrt '25         | OBFG                                               |
 | di 4 mrt '25         | — CV vakantie Geen bijenkomst                      |
 | za 8 mrt '25         | — CV vakantie Geen bijenkomst                      |
