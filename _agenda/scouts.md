@@ -33,8 +33,8 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | za 5 apr '25         | Culturele excursie (Zenno en Jippe)                |
 | di 8 apr '25         | Boksen (vaandrig vd Pluijm)                        |
 | za 12 apr '25        | Abseilen (Staf)                                    |
-| di 15 apr '25        | Paaseieren race                                    |
-| za 19 apr '25        | — Mei Vakantie                                     |
+| di 15 apr '25        |                                                    |
+| za 19 apr '25        | Paaseieren race                                    |
 | di 22 apr '25        | — Mei Vakantie                                     |
 | za 26 apr '25        | — Mei Vakantie                                     |
 | di 29 apr '25        | — Mei Vakantie                                     |
