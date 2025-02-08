@@ -34,7 +34,7 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | di 8 apr '25         | Boksen (vaandrig vd Pluijm)                        |
 | za 12 apr '25        | Abseilen (Staf)                                    |
 | di 15 apr '25        |                                                    |
-| za 19 apr '25        | Paaseieren race                                    |
+| za 19 apr '25        | Paaseieren race (12:30-14:30)                      |
 | di 22 apr '25        | — Mei Vakantie                                     |
 | za 26 apr '25        | — Mei Vakantie                                     |
 | di 29 apr '25        | — Mei Vakantie                                     |
@@ -52,7 +52,7 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | di 10 jun '25        | Klasse-eisen casino                                |
 | za 14 jun '25        | Speed Gate (Vaandrig van de P)                     |
 | di 17 jun '25        | Thema avond zomerkamp                              |
-| za 21 jun '25        | Gezamelijke afsluiting seizoen                     |
+| za 21 jun '25        | Gezamelijke afsluiting seizoen (12:30-14:30)       |
 | di 24 jun '25        | Waterspelletjes (julia & feline)                   |
 | za 28 jun '25        | Vossen jacht                                       |
 | di 1 jul '25         | Klaarleggen zomerkamp                              |
