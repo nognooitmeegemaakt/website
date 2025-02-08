@@ -25,9 +25,9 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | za 8 mrt '25         | — CV vakantie Geen bijenkomst                      |
 | di 11 mrt '25        | Klokhuis aflevering maken (karlijn en Benjamin)    |
 | za 15/16 mrt '25     | — Stafweekend (geen bijeenkomst)                   |
-| di 18 mrt '25        | Gymzaal (Iskander)                                 |
+| di 18 mrt '25        | Spelletjes avond op een bijzondere plek (thomas en staf) |
 | za 22 mrt '25        | Moerastocht                                        |
-| di 25 mrt '25        | Spelletjes avond op een bijzondere plek (thomas en staf) |
+| di 25 mrt '25        | Gymzaal (Iskander)                                 | 
 | za 29 mrt '25        | Blindlympische Spelen (Robin en Feline)            |
 | di 1 apr '25         | wereld record verbreken (Mees en Ashton)           |
 | za 5 apr '25         | Culturele excursie (Zenno en Jippe)                |
