@@ -47,9 +47,9 @@ footer: "_Laatste wijziging 25 januari 2025_"
 | za 24 mei '25        | Voetbal wedstrijd met voorbeschouwing (Jippe)      |
 | di 27 mei '25        | Klaarleggen RSW                                    |
 | za 29 t/m 31 mei '25 | RSW                                                |
-| di 3 jun '25         | Kermis pionieren (deel 1)                          |
+| di 3 jun '25         | Uitdraven RSW.                                     |
 | za 7 jun '25         | Kermis pionieren (deel 2)                          |
-| di 10 jun '25        | Klasse-eisen casino                                |
+| di 10 jun '25        | Kermis pionieren (deel 2)                          |
 | za 14 jun '25        | Speed Gate (Vaandrig van de P)                     |
 | di 17 jun '25        | Thema avond zomerkamp                              |
 | za 21 jun '25        | Gezamelijke afsluiting seizoen (12:30-14:30)       |
