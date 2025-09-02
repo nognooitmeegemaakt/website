@@ -3,60 +3,52 @@ title: Scouts Programma
 layout: agenda
 category: agenda
 agenda: scouts
-footer: "_Laatste wijziging 25 januari 2025_"
+footer: "_Laatste wijziging 3 sept 2025_"
 ---
 
 |                      |                                                    |
 | -------------------- | -------------------------------------------------- |
-| za 18 jan '25        | Jacht seizoen (jasper)                             |
-| di 21 jan '25        | Ereraad en miniatuur pionieren                     |
-| za 25 jan '25        | Boulderen (staf)                                   |
-| di 28 jan '25        | karaoke (Hidde en Tieme)                           |
-| za 1 feb '25         | Pionieren (Staf)                                   |
-| di 4 feb '25         | Jij en je EI (Janne)                               |
-| za 8 feb '25         | Muziek maken (jippe)                    |
-| di 11 feb '25        | Squid game maskers maken (Hopman)                  |
-| za 15 feb '25        | SQUID GAME (Staf)                                  |
-| di 18 feb '25        | Among us/Murder mystery (Flyn en Hidde)            |
-| za 22 feb '25        | Voorbereiden OBFG                                  |
-| di 25 feb '25        | Yuki Gassen (Jurre, Thijmen, Master Hendriks)      |
-| za 1 mrt '25         | OBFG                                               |
-| di 4 mrt '25         | — CV vakantie Geen bijenkomst                      |
-| za 8 mrt '25         | — CV vakantie Geen bijenkomst                      |
-| di 11 mrt '25        | Klokhuis aflevering maken (karlijn en Benjamin)    |
-| za 15/16 mrt '25     | — Stafweekend (geen bijeenkomst)                   |
-| di 18 mrt '25        | Spelletjes avond op een bijzondere plek (thomas en staf) |
-| za 22 mrt '25        | Moerastocht                                        |
-| di 25 mrt '25        | Gymzaal (Iskander)                                 | 
-| za 29 mrt '25        | Blindlympische Spelen (Robin en Feline)            |
-| di 1 apr '25         | wereld record verbreken (Mees en Ashton)           |
-| za 5 apr '25         | Culturele excursie (Zenno en Jippe)                |
-| di 8 apr '25         | Boksen (vaandrig vd Pluijm)                        |
-| za 12 apr '25        | Abseilen (Staf)                                    |
-| di 15 apr '25        |                                                    |
-| za 19 apr '25        | Paaseieren race (12:30-14:30)                      |
-| di 22 apr '25        | — Mei Vakantie                                     |
-| za 26 apr '25        | — Mei Vakantie                                     |
-| di 29 apr '25        | — Mei Vakantie                                     |
-| za 3 mei '25         | — Mei Vakantie                                     |
-| di 6 mei '25         | Klaar leggen Vrb. weekend                          |
-| za 10/11 mei '25     | Vrb. weekend RSW                                   |
-| di 13 mei '25        | Improv (Vaandrig van I)                            |
-| za 17 mei '25        | Survival Run                                       |
-| di 20 mei '25        | RSW Thema knutselen                                |
-| za 24 mei '25        | Voetbal wedstrijd met voorbeschouwing (Jippe)      |
-| di 27 mei '25        | Klaarleggen RSW                                    |
-| za 29 t/m 31 mei '25 | RSW                                                |
-| di 3 jun '25         | Uitdraven RSW.                                     |
-| za 7 jun '25         | Speed Gate (Vaandrig van de P)                     |
-| di 10 jun '25         | Klasse eisen.                                        |
-| za 14 jun '25         | Kermis pionieren                                     |
-| di 17 jun '25        | Thema avond zomerkamp                              |
-| za 21 jun '25        | Gezamelijke afsluiting seizoen (12:30-14:30)       |
-| di 24 jun '25        | Waterspelletjes (julia & feline)                   |
-| za 28 jun '25        | Vossen jacht                                       |
-| di 1 jul '25         | Klaarleggen zomerkamp                              |
-| za 5 t/m 12 jul '25  | Zomerkamp                                          |
+| za 30 aug '25        | Start seizoen                                      |
+| di 2 sep '25         | Programma maken & Ereraad                          |
+| za 6 sep '25         | Overvliegen                                        |
+| di 9 sep '25         | Leo 50 jaar lid                                    |
+| za 13 sep '25        | Touwbrug bouwen (Jasper + Cas)                     |
+| di 16 sep '25        | Ping-Pong (Sara + Nomi)                            |
+| za 20 sep '25        | Moerastocht                                        |
+| di 23 sep '25        | Pimp-je-hok (PLs)                                  |
+| za 27 sep '25        | Blind-lympische spelen (Robin + Staf)              |
+| di 30 sep '25        | Checkpoint dingen testen (Karlijn)                 |
+| za 4 okt '25         | Bootcamp (Hidde + Iskander)                        |
+| di 7 okt '25         | Casino avond (Jasper + Mees)                       |
+| za 11 okt '25        | - Herfst vakantie                                  |
+| di 14 okt '25        | - Herfst vakantie                                  |
+| za 18 okt '25        | - Herfst vakantie                                  |
+| di 21 okt '25        | Talentenjacht (Benjamin + Stam?)                   |
+| za 25 okt '25        | Minigolf (Zenno)                                   |
+| di 28 okt '25        | Voorbereiding spookweekend                         |
+| za 1 - zo 2 nov '25  | Spookweekend                                       |
+| di 4 nov '25         | Totems snijden (staf)                              |
+| za 8 nov '25         |                                                    |
+| di 11 nov '25        |  Patrioulle-vlag maken (Yazmin)                    |
+| za 15 nov '25        | Winter-hunger-games (Zenno + Benjamin)             |
+| di 18 nov '25        | Presentatie avond met gekke onderwerpen (Jasper)   |
+| za 22 nov '25        |                                                    |
+| di 25 nov '25        | Kimproeven                                         |
+| za 29 nov '25        | Keet Kleur's grote sinterklaasfeest                |
+| di 2 dec '25         |                                                    |
+| za 6 dec '25         | Gevulde koeken bakken (dutch ovens, staf)          |
+| di 9 dec '25         | Gymzaal (Thomas + Staf)                            |
+| za 13 dec '25        | Crazy 88 (PLs + overvliegers)                      |
+| di 16 dec '25        | Voorb. winterhike, Routetechnieken                 |
+| za 20 dec '25        | - Kerstvakantie                                    |
+| di 23 dec '25        | - Kerstvakantie                                    |
+| za 27 dec '25        | - Kerstvakantie                                    |
+| di 30 dec '25        | - Kerstvakantie                                    |
+| vr 2 - zo 4 jan '26  | Winter Hike                                        |
+| di 6 jan '26         | Programma maken                                    |
+| vr 9 jan '26         | Nieuwjaarsborrel 19:30-21:00                       |
+| za 10 jan '26        | Stop-motion (staf)                                 |
+| di 13 jan '26        | Sneeuw (Julia + Vanadi)                            |
 
 {: .table :}
 
