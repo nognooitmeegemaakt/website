@@ -1,10 +1,10 @@
 |                |                                                               |
 |----------------|---------------------------------------------------------------|
 | Bestuur        | [Leo](mailto:leo@nognooitmeegemaakt.nl)                      |
-| Groepsbegeleider | [Jos van M.](mailto:josvm@nognooitmeegemaakt.nl)           |
-| Penningmeester | Imke                                                         |
+| Groepsbegeleider | [Jos](mailto:josvm@nognooitmeegemaakt.nl)           |
+| Penningmeester | [Imke](mailto:penningmeester@nognooitmeegemaakt.nl)                                                         |
 | Bevers         | [Janneke](mailto:janneke@nognooitmeegemaakt.nl)              |
-| Welpen         | [Jos B.](mailto:jos@nognooitmeegemaakt.nl)                   |
+| Welpen         | [Koen](mailto:welpen@nognooitmeegemaakt.nl)                   |
 | Scouts         | [Pieke](mailto:pieke@nognooitmeegemaakt.nl)                  |
 | Stam           |  —                                                            |
 
