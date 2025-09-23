@@ -4,6 +4,6 @@ In de praktijk betekent het dat welpen de beginselen leren van een vuurtje maken
 
 Ook de spellen die ze spelen zijn vaak in de bossen, er is geen computerspel dat hier tegenop kan.
 
-Zaterdagmorgen van 10.30 tot 12.30
+Zaterdagmorgen van 11.00 tot 13.00
 
 Contactpersoon: [welpen@nognooitmeegemaakt.nl](mailto:welpen@nognooitmeegemaakt.nl)
