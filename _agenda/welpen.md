@@ -3,7 +3,7 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 23 september 2025_"
+footer: "_Laatste wijziging 7 oktober 2025_"
 ---
 
 Welpen Programma van september 2024 - januari 2025
