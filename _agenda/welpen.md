@@ -33,7 +33,7 @@ Welpen Programma van september 2024 - januari 2025
 
 {: .table :}
 
-Alvast voor in de agenda:
+### Alvast voor in de agenda:
 
 | | |
 |---|---|
