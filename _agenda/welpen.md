@@ -33,6 +33,19 @@ Welpen Programma van september 2024 - januari 2025
 
 {: .table :}
 
+Alvast voor in de agenda:
+
+| | |
+|---|---|
+| vr 4 apr            | Paaseieren Brunch 12.30 - 14.30 |
+| vr 11 apr           | Stafweekend (GEEN bijeenkomst)   |
+| vr 30 - za 31 mei   | Ouder Welp weekend              |
+| vr 13 jun           | JUNGLE DAG - alle welpen uit de regio - middag programma |
+| vr 27 jun           | Seizoensafsluiting (groepsbijeenkomst) 12.30 - 14.30 |
+| za 12 - vr 18 jul   | ZOMERKAMP                      |
+
+{: .table :}
+
 {{ page.footer }}
 
 
