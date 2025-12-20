@@ -45,7 +45,7 @@ footer: "_Laatste wijziging 3 sept 2025_"
 | za 27 dec '25        | - Kerstvakantie                                    |
 | di 30 dec '25        | - Kerstvakantie                                    |
 | vr 2 - zo 4 jan '26  | Winter Hike                                        |
-| di 6 jan '26         | Programma maken                                    |
+| di 6 jan '26         | — Geen programma                                   |
 | vr 9 jan '26         | Nieuwjaarsborrel 19:30-21:00                       |
 | za 10 jan '26        | Stop-motion (staf)                                 |
 | di 13 jan '26        | Sneeuw (Julia + Vanadi)                            |
