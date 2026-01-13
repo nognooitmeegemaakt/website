@@ -4,6 +4,6 @@ Een bever beleeft iedere zaterdagochtend spannende avonturen in het dorp Hotsjie
 
 Met bovenstaande karakters (leiding) bedenken we afwisselende programma’s. Het doel is dat de bevers avonturen beleven, waarbij ze de leren over samenwerking en vriendschappen opbouwen.
 
-Zaterdagochtend van 8.45 tot 10.15
+Zaterdagochtend van 9.30 tot 11.00
 
 Contactpersoon: [janneke@nognooitmeegemaakt.nl](mailto:janneke@nognooitmeegemaakt.nl)
