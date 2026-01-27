@@ -9,4 +9,4 @@ Stap je bij de Scouts naar binnen? Dan loop je vindingrijk en zelfredzaam naar b
 Zaterdagmiddag van 14.30 tot 17.30  
 Dinsdagavond van 19.30 tot 21.00
 
-Contactpersoon: [guidon@nognooitmeegemaakt.nl](mailto:guidon@nognooitmeegemaakt.nl)
+Contactpersoon: [pieke@nognooitmeegemaakt.nl](mailto:pieke@nognooitmeegemaakt.nl)

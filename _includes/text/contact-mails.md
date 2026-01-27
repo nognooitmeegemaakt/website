@@ -1,12 +1,13 @@
 |                |                                                               |
 |----------------|---------------------------------------------------------------|
-| Bestuur        | [Leo](mailto:leo@nognooitmeegemaakt.nl)                      |
-| Groepsbegeleider | [Jos](mailto:josvm@nognooitmeegemaakt.nl)           |
+| Bestuur        | [Fedde](mailto:fedde@nognooitmeegemaakt.nl)                      |
+| Groepsbegeleider | [Guidon](mailto:guidon@nognooitmeegemaakt.nl)           |
+| Praktijkbegeleider | [Jos](mailto:josvm@nognooitmeegemaakt.nl)           |
 | Penningmeester | [Imke](mailto:penningmeester@nognooitmeegemaakt.nl)                                                         |
 | Bevers         | [Janneke](mailto:janneke@nognooitmeegemaakt.nl)              |
 | Welpen         | [Koen](mailto:welpen@nognooitmeegemaakt.nl)                   |
 | Scouts         | [Pieke](mailto:pieke@nognooitmeegemaakt.nl)                  |
-| Stam           |  —                                                            |
+| Stam           |  [Matthieu](mailto:matthieu@nognooitmeegemaakt.nl)                                                            |
 
 [ Stuur Bericht op Facebook ](https://m.me/nognooitmeegemaakt){:.btn .btn-primary .btn-fb target='_blank_'}
 
