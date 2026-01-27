@@ -3,46 +3,42 @@ title: Welpen Programma
 layout: agenda
 category: agenda
 agenda: welpen
-footer: "_Laatste wijziging 7 oktober 2025_"
+footer: "_Laatste wijziging 27 januari 2026_"
 ---
 
-Welpen Programma van september 2024 - januari 2025
+Welpen Programma van januari - augustus 2026
 
 | | |
 |---|---|
-| za 13 sept           | Levend Stratego                    |
-| za 20 sept           | Bruggen bouwen                     |
-| za 27 sept           | Spoorzoeken                        |
-| za 4 okt             | Kinderboerderij/dierenspel         |
-| za 11 okt            | GEEN bijeenkomst (klusdag P&P)     |
-| za 18 okt            | Scouting carrousel - klasseneisen |
-| za 25 okt            | Stadsspel                          |
-| za 1 nov             | Spookprogramma                     |
-| za 8/9 nov           | Herfstkamp                         |
-| za 15 nov            | Muziek programma                   |
-| za 22 nov            | Poppetje programma                 |
-| za 29 nov            | Sinterklaasfeest (groepsbijeenkomst) |
-| za 6 dec             | Sinterklaas thema                  |
-| za 13 dec            | Bakken                             |
-| za 20 dec            | Serious request                    |
-| za 27 dec            | GEEN bijeenkomst - kerstvakantie   |
-| za 3/4 jan           | GROEPSWEEKEND - Winterkamp         |
-| vr 9 jan             | Nieuwjaarsborrel 19.30 - 21.00    |
-| za 10 jan            | soep vuur spel                     |
-| za 17 jan            | cartoon tekenen                    |
-
-{: .table :}
-
-### Alvast voor in de agenda:
-
-| | |
-|---|---|
-| vr 4 apr            | Paaseieren Brunch 12.30 - 14.30 |
-| vr 11 apr           | Stafweekend (GEEN bijeenkomst)   |
-| vr 30 - za 31 mei   | Ouder Welp weekend              |
-| vr 13 jun           | JUNGLE DAG - alle welpen uit de regio - middag programma |
-| vr 27 jun           | Seizoensafsluiting (groepsbijeenkomst) 12.30 - 14.30 |
-| za 12 - vr 18 jul   | ZOMERKAMP                      |
+| za 17 jan           | Cartoon tekenen, installatie gidsen |
+| za 24 jan           | Bosspel                            |
+| za 31 jan           | Creatief programma                 |
+| za 7 feb            | Ruilspel                           |
+| za 14 feb           | Oliebollenfantengeloop (Carnaval)  |
+| za 21 feb           | GEEN bijeenkomst                   |
+| za 28 feb           | Capture the flag                   |
+| za 7 maart          | Koeien handelsspel                 |
+| za 14 maart         | GEEN bijeenkomst (ivm beschikbaarheid staf) - Tienerdag (niet voor alle welpen, communicatie volgt) |
+| za 21 maart         | Toneel                             |
+| za 28 maart         | Pizza bezorg spel                  |
+| za 4 april          | Paaseieren brunch 12.30-14.30 (groepsprogramma) |
+| za 11 + zo 12 april | GEEN bijeenkomst (ivm Stafweekend) |
+| za 18 april         | Museum dag                         |
+| do 23 april         | Sint Jorisdag                      |
+| za 25 april         | GEEN bijeenkomst                   |
+| za 2 mei            | Route Technieken                   |
+| za 9 mei            | Leven Risk                         |
+| za 16 mei           | Ranja Party                        |
+| za 23 mei           | Maffia spel                        |
+| za 30 + zo 31 mei   | Ouder Welp weekend                 |
+| za 6 juni           | Hutten bouwen                      |
+| za 13 juni          | Jungle dag - 's middags (regio bijeenkomst) |
+| za 20 juni          | Verassing programma                |
+| vr 26 juni          | Kruisbroedersborrel 19.30          |
+| za 27 juni          | Seizoensafsluiting (groepsbijeenkomst) 13.30-14.30 |
+| za 4 juli           | Grote lunch show                   |
+| zo 12 - za 18 juli  | ZOMERKAMP                          |
+| za 29 aug           | Start seizoen 26/27                |
 
 {: .table :}
 
