@@ -8,12 +8,36 @@ permalink: /sociale-veiligheid/
 <div class="contact">
   <div class="description">
     <div class="text">
-      <div class="contact-info">
-        <div class="col-md-6 col-sm-12" data-file="social-safety.md">
-          {% capture filecontents %}{% include text/social-safety.md %}{% endcapture %}
-          {{ filecontents | markdownify }}
+      <div class="contact-info" data-file="social-safety.md">
+        {% capture filecontents %}{% include text/social-safety.md %}{% endcapture %}
+        {{ filecontents | markdownify }}
+      </div>
+
+      <div class="confidential-counsellors">
+        <h2>Vertrouwenspersonen</h2>
+
+        <div class="row">
+          {% for person in site.data.confidential-counsellors %}
+          <div class="col-md-6 col-sm-12 counsellor">
+            {% if person.photo %}
+            <img src="/{{ person.photo }}" alt="Foto van {{ person.name }}" class="counsellor-photo">
+            {% endif %}
+            <h3>{{ person.name }}</h3>
+            {% if person.phone or person.email %}
+            <p class="contact-details">
+              {% if person.phone %}<a href="tel:{{ person.phone }}">{{ person.phone }}</a>{% endif %}
+              {% if person.phone and person.email %}<br>{% endif %}
+              {% if person.email %}<a href="mailto:{{ person.email }}">{{ person.email }}</a>{% endif %}
+            </p>
+            {% endif %}
+            <div class="bio">
+              {{ person.bio | markdownify }}
+            </div>
+          </div>
+          {% endfor %}
         </div>
       </div>
+
     </div>
   </div>
 </div>

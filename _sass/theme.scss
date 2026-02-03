@@ -561,3 +561,56 @@ html {
 .description .images img {
   width: 100%;
 }
+
+/* ***************************
+       Confidential Counsellors.
+   *************************** */
+
+.confidential-counsellors {
+  margin-top: 2em;
+  padding-top: 2em;
+  border-top: 1px solid #444;
+
+  h2 {
+    margin-bottom: 0.5em;
+  }
+
+  .counsellor {
+    margin-bottom: 2em;
+
+    h3 {
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+    }
+
+    .counsellor-photo {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid $brand-color;
+    }
+
+    .contact-details {
+      margin-bottom: 1em;
+
+      a {
+        color: $brand-color;
+      }
+    }
+
+    .bio {
+      font-size: 0.85em;
+      line-height: 1.4;
+      color: #ccc;
+
+      p {
+        margin-bottom: 0.6em;
+      }
+
+      @media (min-width: 768px) {
+        font-size: 0.8em;
+      }
+    }
+  }
+}

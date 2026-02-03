@@ -8,6 +8,7 @@
 | Welpen         | [Koen](mailto:welpen@nognooitmeegemaakt.nl)                   |
 | Scouts         | [Pieke](mailto:pieke@nognooitmeegemaakt.nl)                  |
 | Stam           |  [Matthieu](mailto:matthieu@nognooitmeegemaakt.nl)                                                            |
+| Vertrouwenspersonen | [Ari & Rowan](/sociale-veiligheid/)                    |
 
 [ Stuur Bericht op Facebook ](https://m.me/nognooitmeegemaakt){:.btn .btn-primary .btn-fb target='_blank_'}
 
