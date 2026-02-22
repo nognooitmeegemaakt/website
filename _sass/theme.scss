@@ -43,6 +43,48 @@ body {
   width: 100%;
 }
 
+/* Agenda table styling. */
+.agenda.description > .text {
+  @media (max-width: 768px) {
+    padding: 0.5em;
+  }
+}
+
+.agenda table {
+  font-size: 0.8em;
+  width: 100%;
+
+  td, th {
+    border: none !important;
+    padding: 0.35em 0.5em;
+  }
+
+  td:first-child,
+  th:first-child {
+    white-space: nowrap;
+    color: $brand-color;
+    font-weight: 500;
+  }
+
+  td:nth-child(3),
+  th:nth-child(3) {
+    color: #999;
+    font-size: 0.85em;
+  }
+
+  tr:nth-child(even) td {
+    background-color: lighten($brand-dark, 4%);
+  }
+
+  tr:hover td {
+    background-color: lighten($brand-dark, 8%);
+  }
+}
+
+.agenda table {
+  clear: both;
+}
+
 .btn-orange {
   background-color: #ff8b00 !important;
   border-color: transparent !important;
