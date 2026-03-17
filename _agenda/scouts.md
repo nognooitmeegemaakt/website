@@ -25,7 +25,7 @@ footer: "_Laatste wijziging 22 feb 2026_"
 | di 17 mrt '26          | Zwarte Valk - Nightfall: Return of the Dark        |                               |
 | za 21 mrt '26          | Abseilen                                           | Staf                          |
 | di 24 mrt '26          | Trickshots                                         | Zaro, Gabriel                 |
-| za 28 mrt '26          | P&Pizza - Pizza's maken en bezorgen                | Nomi, Rosalie                 |
+| za 28 mrt '26          | Levend Clash Royale                                | Zenno                         |
 | di 31 mrt '26          | Stadspel                                           | Thomas                        |
 | za 4 apr '26           | Pasen (12:30 - 14:30)                              |                               |
 | di 7 apr '26           | Just Dance                                         | Benjamin                      |
@@ -43,7 +43,7 @@ footer: "_Laatste wijziging 22 feb 2026_"
 | di 19 mei '26          | Uitdraven RSW                                      |                               |
 | za 23 mei '26          | Master woodworker's wood-workshop                  | Master Hendriks               |
 | di 26 mei '26          | ??? tellen in de rimboe                            | Staf                          |
-| za 30 mei '26          | Levend Clash Royale                                | Zenno                         |
+| za 30 mei '26          | P&Pizza - Pizza's maken en bezorgen                | Nomi, Rosalie                 |
 | di 2 jun '26           | Backstory / Lore                                   | Jasper                        |
 | za 6 jun '26           | SurvivalRun                                        | Staf                          |
 | di 9 jun '26           | Basketbal                                          |                               |
