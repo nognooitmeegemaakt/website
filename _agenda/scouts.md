@@ -39,7 +39,7 @@ footer: "_Laatste wijziging 22 feb 2026_"
 | di 5 mei '26           | Crea avond RSW                                     |                               |
 | za 9 mei '26           | Touwbrug: Rematch                                  | Cas, Jasper                   |
 | di 12 mei '26          | Klaarleggen RSW                                    |                               |
-| do 15 - za 17 mei '26  | RSW                                                |                               |
+| do 14 - za 16 mei '26  | RSW                                                |                               |
 | di 19 mei '26          | Uitdraven RSW                                      |                               |
 | za 23 mei '26          | Master woodworker's wood-workshop                  | Master Hendriks               |
 | di 26 mei '26          | ??? tellen in de rimboe                            | Staf                          |
