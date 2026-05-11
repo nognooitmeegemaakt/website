@@ -44,7 +44,7 @@ footer: "_Laatste wijziging 22 feb 2026_"
 | za 23 mei '26          | Master woodworker's wood-workshop                  | Master Hendriks               |
 | di 26 mei '26          | ??? tellen in de rimboe                            | Staf                          |
 | za 30 mei '26          | P&Pizza - Pizza's maken en bezorgen                | Nomi, Rosalie                 |
-| di 2 jun '26           | Backstory / Lore                                   | Jasper                        |
+| di 2 jun '26           | Weerwolven                                         | Giel.                         |
 | za 6 jun '26           | SurvivalRun                                        | Staf                          |
 | di 9 jun '26           | Basketbal                                          |                               |
 | za 13 jun '26          | Activiteit van Pizza opbrengst                     |                               |
