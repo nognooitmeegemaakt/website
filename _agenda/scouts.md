@@ -41,15 +41,15 @@ footer: "_Laatste wijziging 22 feb 2026_"
 | di 12 mei '26          | Klaarleggen RSW                                    |                               |
 | do 14 - za 16 mei '26  | RSW                                                |                               |
 | di 19 mei '26          | Uitdraven RSW                                      |                               |
-| za 23 mei '26          | Master woodworker's wood-workshop                  | Master Hendriks               |
-| di 26 mei '26          | ??? tellen in de rimboe                            | Staf                          |
-| za 30 mei '26          | P&Pizza - Pizza's maken en bezorgen                |                               |
+| za 23 mei '26          | P&Pizza - Pizza's maken en bezorgen                | Staf                              |
+| di 26 mei '26          | Jugger wapens maken                                | Hopman                        |
+| za 30 mei '26          | Jugger                                             | Hopman                        |
 | di 2 jun '26           | Weerwolven                                         | Giel.                         |
 | za 6 jun '26           | SurvivalRun                                        | Staf                          |
 | di 9 jun '26           | Basketbal                                          |                               |
 | za 13 jun '26          | Activiteit van Pizza opbrengst                     |                               |
-| di 16 jun '26          | Jugger wapens maken                                | Hopman                        |
-| za 20 jun '26          | Jugger                                             | Hopman                        |
+| di 16 jun '26          | ??? tellen in de rimboe                            | Staf                          |
+| za 20 jun '26          | Master woodworker's wood-workshop                  | Master Hendriks               |
 | di 23 jun '26          | Zomerkamp Crea                                     | Staf                          |
 | za 27 jun '26          | Gezamenlijke afsluiting Seizoen                    |                               |
 | di 30 jun '26          |                                                    |                               |
